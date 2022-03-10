@@ -1,0 +1,144 @@
+{
+    "idProject": 7,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-05-14 13:56:55",
+    "name": "II/113 Bílkovice, most ev.č. 113-014 přes potok v obci Bílkovice",
+    "subject": "Bude vybudován nový most na místě mostu stávajícího a to dle vyhotovena dle platných norem, TP, TKPa dle ČSN EN 1991-2 navržen na skupinu pozemních komunikací 1 pro zatížení vozidlem LM 1. V souvislosti s tím budou v rámci možností daných přilehlou zástavbou zlepšeny šířkové poměry komunikace v oblasti mostu.",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": 5.0,
+    "idPhase": 2,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "18040077",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": 1.0,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 20.0,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 14,
+            "stationingFrom": 0.001,
+            "stationingTo": 0.045,
+            "gpsN1": 49.7589994,
+            "gpsN2": 49.7588506,
+            "gpsE1": 14.8652089,
+            "gpsE2": 14.864753099999998
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 24940,
+            "idPriceType": 1
+        },
+        {
+            "value": 496940,
+            "idPriceType": 2
+        },
+        {
+            "value": 24940,
+            "idPriceType": 3
+        },
+        {
+            "value": 496940,
+            "idPriceType": 4
+        },
+        {
+            "value": 6952088,
+            "idPriceType": 5
+        },
+        {
+            "value": 6952088,
+            "idPriceType": 6
+        },
+        {
+            "value": 329450,
+            "idPriceType": 7
+        },
+        {
+            "value": 329450,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-10-14",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2017-10-21",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2017-12-13",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2017-01-14",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-12-13",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-05-02",
+            "idDeadlineType": 12
+        },
+        {
+            "value": "1.0",
+            "idDeadlineType": 13
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 29,
+            "idContactType": 1
+        },
+        {
+            "idContact": 44,
+            "idContactType": 2
+        },
+        {
+            "idContact": 30,
+            "idContactType": 3
+        },
+        {
+            "idContact": 29,
+            "idContactType": 4
+        },
+        {
+            "idContact": 39,
+            "idContactType": 5
+        },
+        {
+            "idContact": 55,
+            "idContactType": 6
+        },
+        {
+            "idContact": 56,
+            "idContactType": 9
+        },
+        {
+            "idContact": 42,
+            "idContactType": 10
+        },
+        {
+            "idContact": 57,
+            "idContactType": 11
+        },
+        {
+            "idContact": 40,
+            "idContactType": 12
+        }
+    ]
+}

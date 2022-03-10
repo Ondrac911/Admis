@@ -1,0 +1,116 @@
+{
+    "idProject": 63,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-06-17 09:10:39",
+    "name": "III/23627 Nové Strašecí, oprava mostu ev. č. 23627-2 přes D6",
+    "subject": "Rekonstrukce mostu o 3 polích přes dálnici D6",
+    "editor": "petr.nadvornik",
+    "author": "petr.nadvornik",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        6
+    ],
+    "communication": [
+        {
+            "idCommunication": 1033,
+            "stationingFrom": 5.039,
+            "stationingTo": 5.04,
+            "gpsN1": 50.160131400000004,
+            "gpsN2": 50.160804999999996,
+            "gpsE1": 13.9250475,
+            "gpsE2": 13.925455300000001
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 170820,
+            "idPriceType": 1
+        },
+        {
+            "value": 1218188,
+            "idPriceType": 2
+        },
+        {
+            "value": 1376000,
+            "idPriceType": 4
+        },
+        {
+            "value": 14800000,
+            "idPriceType": 6
+        },
+        {
+            "value": 370000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-11-19",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2018-12-03",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2019-06-17",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-06-17",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2018-12-19",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-01-06",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-10-06",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-04-06",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-09-06",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 153,
+            "idContactType": 1
+        },
+        {
+            "idContact": 152,
+            "idContactType": 2
+        },
+        {
+            "idContact": 152,
+            "idContactType": 3
+        },
+        {
+            "idContact": 152,
+            "idContactType": 4
+        }
+    ]
+}

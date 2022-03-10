@@ -1,0 +1,144 @@
+{
+    "idProject": 19,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-12-09 10:45:37",
+    "name": "III/33310 SVÉMYSLICE, MOST EV.Č. 33310-4",
+    "subject": "Předmětem projektu je rekonstrukce mostu ev. č. 33310-4 na komunikaci III/33310. Stavba rekonstrukce mostu se nachází mezi obcemi Svémyslice a Zeleneč. Přemosťovanou překážkou je dálnice D10.",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": 2.0,
+    "idPhase": 1,
+    "ginisOrAthena": "a",
+    "noteGinisOrAthena": "VZ-195/18",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": 1.0,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 24.0,
+    "idArea": [
+        2
+    ],
+    "communication": [
+        {
+            "idCommunication": 1589,
+            "stationingFrom": 4.1,
+            "stationingTo": 5.83,
+            "gpsN1": 50.1441619,
+            "gpsN2": 50.1438939,
+            "gpsE1": 14.650608600000002,
+            "gpsE2": 14.6512364
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 55000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1465000,
+            "idPriceType": 2
+        },
+        {
+            "value": 55000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1465000,
+            "idPriceType": 4
+        },
+        {
+            "value": 24945953,
+            "idPriceType": 5
+        },
+        {
+            "value": 24945953,
+            "idPriceType": 6
+        },
+        {
+            "value": 561120,
+            "idPriceType": 7
+        },
+        {
+            "value": 561120,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-04-20",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-04-20",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-04-20",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-03-13",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2018-04-20",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-03-19",
+            "idDeadlineType": 12
+        },
+        {
+            "value": "1.0",
+            "idDeadlineType": 13
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 84,
+            "idContactType": 1
+        },
+        {
+            "idContact": 82,
+            "idContactType": 2
+        },
+        {
+            "idContact": 83,
+            "idContactType": 3
+        },
+        {
+            "idContact": 83,
+            "idContactType": 4
+        },
+        {
+            "idContact": 85,
+            "idContactType": 5
+        },
+        {
+            "idContact": 86,
+            "idContactType": 6
+        },
+        {
+            "idContact": 88,
+            "idContactType": 9
+        },
+        {
+            "idContact": 89,
+            "idContactType": 10
+        },
+        {
+            "idContact": 90,
+            "idContactType": 11
+        },
+        {
+            "idContact": 87,
+            "idContactType": 12
+        }
+    ]
+}

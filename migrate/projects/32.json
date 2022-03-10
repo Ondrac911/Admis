@@ -1,0 +1,156 @@
+{
+    "idProject": 32,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-07-04 09:06:55",
+    "name": "II/237 N.Strašecí - Mšec, rekonstrukce",
+    "subject": "Jedná se o rekonstrukci vozovky silnice II/237",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": 5.0,
+    "idPhase": 2,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "18040035  19040031",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 16.0,
+    "idArea": [
+        7
+    ],
+    "communication": [
+        {
+            "idCommunication": 49,
+            "stationingFrom": 14.298,
+            "stationingTo": 19.36,
+            "gpsN1": 50.16197329999999,
+            "gpsN2": 50.200886700000005,
+            "gpsE1": 13.8977661,
+            "gpsE2": 13.9032592
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 60000,
+            "idPriceType": 1
+        },
+        {
+            "value": 2350000,
+            "idPriceType": 2
+        },
+        {
+            "value": 60000,
+            "idPriceType": 3
+        },
+        {
+            "value": 2350000,
+            "idPriceType": 4
+        },
+        {
+            "value": 46490381,
+            "idPriceType": 5
+        },
+        {
+            "value": 46490381,
+            "idPriceType": 6
+        },
+        {
+            "value": 981200,
+            "idPriceType": 7
+        },
+        {
+            "value": 981200,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2018-02-15",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-07-01",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 96,
+            "idContactType": 1
+        },
+        {
+            "idContact": 96,
+            "idContactType": 2
+        },
+        {
+            "idContact": 96,
+            "idContactType": 3
+        },
+        {
+            "idContact": 96,
+            "idContactType": 4
+        },
+        {
+            "idContact": 167,
+            "idContactType": 5
+        },
+        {
+            "idContact": 167,
+            "idContactType": 6
+        },
+        {
+            "idContact": 41,
+            "idContactType": 9
+        },
+        {
+            "idContact": 42,
+            "idContactType": 10
+        },
+        {
+            "idContact": 43,
+            "idContactType": 11
+        },
+        {
+            "idContact": 167,
+            "idContactType": 12
+        }
+    ]
+}

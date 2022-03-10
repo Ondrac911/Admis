@@ -1,0 +1,140 @@
+{
+    "idProject": 77,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-07-09 10:28:42",
+    "name": "Oprava mostu ev.č. 112-017 most přes strouhu v obci Domašín a mostu ev.č. 112-015 most přes strouhu v obci Domašín",
+    "subject": "Jedná se o rekonstrukci mostu ev.č. 112-015 a odstranění mostního objektu 112-017 a výstavbu nového mostního objektu vedoucího přes strouhu v Domašíně. ",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": 5.0,
+    "idPhase": 2,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "17040158   19040016",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 35.0,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 13,
+            "stationingFrom": 0.55,
+            "stationingTo": 2.84,
+            "gpsN1": 49.7127714,
+            "gpsN2": 49.712826899999996,
+            "gpsE1": 14.87379,
+            "gpsE2": 14.8829739
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 60000,
+            "idPriceType": 1
+        },
+        {
+            "value": 655000,
+            "idPriceType": 2
+        },
+        {
+            "value": 60000,
+            "idPriceType": 3
+        },
+        {
+            "value": 792550,
+            "idPriceType": 4
+        },
+        {
+            "value": 15101099,
+            "idPriceType": 5
+        },
+        {
+            "value": 13496125,
+            "idPriceType": 6
+        },
+        {
+            "value": 618700,
+            "idPriceType": 7
+        },
+        {
+            "value": 618700,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-01-31",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2017-01-31",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2017-01-31",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2017-02-28",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-04-01",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2018-09-17",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 175,
+            "idContactType": 1
+        },
+        {
+            "idContact": 175,
+            "idContactType": 2
+        },
+        {
+            "idContact": 175,
+            "idContactType": 3
+        },
+        {
+            "idContact": 175,
+            "idContactType": 4
+        },
+        {
+            "idContact": 176,
+            "idContactType": 5
+        },
+        {
+            "idContact": 176,
+            "idContactType": 6
+        },
+        {
+            "idContact": 128,
+            "idContactType": 9
+        },
+        {
+            "idContact": 166,
+            "idContactType": 10
+        },
+        {
+            "idContact": 68,
+            "idContactType": 11
+        },
+        {
+            "idContact": 176,
+            "idContactType": 12
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "idProject": 89,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2020-02-26 14:22:31",
+    "name": "II/608- rekonstrukce silnice",
+    "subject": "rekonstrukce silnice II/608 v celé její délce",
+    "editor": "marek.hanus",
+    "author": "marek.hanus",
+    "idFinSource": null,
+    "idPhase": 5,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        2,
+        12
+    ],
+    "communication": [
+        {
+            "idCommunication": 103,
+            "stationingFrom": 0.0,
+            "stationingTo": 27.0,
+            "gpsN1": 50.15378,
+            "gpsN2": 50.3490083,
+            "gpsE1": 14.450996400000001,
+            "gpsE2": 14.2716747
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 200000,
+            "idPriceType": 3
+        },
+        {
+            "value": 12015200,
+            "idPriceType": 4
+        },
+        {
+            "value": 250000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 3000000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [],
+    "contacts": []
+}

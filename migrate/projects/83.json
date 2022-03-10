@@ -1,0 +1,156 @@
+{
+    "idProject": 83,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-07-30 10:57:27",
+    "name": "II/111 Před Bystřicí, most ev. č. 111-001",
+    "subject": "Předmětem stavby je stavební úprava železobetonového trámového mostu ev.č. 111-001, který se nachází na silnici II/111 přes silnici I/3 a trať SŽDC České Budějovice – Praha a oprava komunikace na mostem.",
+    "editor": "marek.hanus",
+    "author": "marek.hanus",
+    "idFinSource": 5.0,
+    "idPhase": 1,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "1111111111",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 31.0,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 12,
+            "stationingFrom": 0.0,
+            "stationingTo": 0.4,
+            "gpsN1": 49.73247,
+            "gpsN2": 49.7328894,
+            "gpsE1": 14.6643897,
+            "gpsE2": 14.660656099999999
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 99500,
+            "idPriceType": 1
+        },
+        {
+            "value": 3000000,
+            "idPriceType": 2
+        },
+        {
+            "value": 99500,
+            "idPriceType": 3
+        },
+        {
+            "value": 3000000,
+            "idPriceType": 4
+        },
+        {
+            "value": 46000000,
+            "idPriceType": 5
+        },
+        {
+            "value": 46000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 1099960,
+            "idPriceType": 7
+        },
+        {
+            "value": 1099960,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-07-30",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2017-07-30",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2017-07-30",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-07-30",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2017-07-30",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2017-07-30",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2017-07-30",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2017-07-30",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-07-30",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2017-02-27",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 183,
+            "idContactType": 1
+        },
+        {
+            "idContact": 182,
+            "idContactType": 2
+        },
+        {
+            "idContact": 183,
+            "idContactType": 3
+        },
+        {
+            "idContact": 183,
+            "idContactType": 4
+        },
+        {
+            "idContact": 184,
+            "idContactType": 5
+        },
+        {
+            "idContact": 185,
+            "idContactType": 6
+        },
+        {
+            "idContact": 143,
+            "idContactType": 9
+        },
+        {
+            "idContact": 144,
+            "idContactType": 10
+        },
+        {
+            "idContact": 187,
+            "idContactType": 11
+        },
+        {
+            "idContact": 186,
+            "idContactType": 12
+        }
+    ]
+}

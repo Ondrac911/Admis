@@ -1,0 +1,120 @@
+{
+    "idProject": 11,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-05-17 09:29:08",
+    "name": "II/115 hr. hl.m. Prahy - Lety, rekonstrukce",
+    "subject": "Jde se o frekventovanou silnici II. třídy vedoucí kolem Berounky – komunikace propojuje obce v této oblasti s hlavním městem Prahou. Konstrukce vozovky a podkladní vrstvy vykazují poruchy. Systém odvodnění je již málo funkční (zanesené propustky). 1. ÚSEK Tato část začíná na hranici hlavního města Prahy a pokračuje hospodářsky obdělávanou krajinou, jihozápadně k městu Černošice a dále jejím intravilánem až k železničnímu přejezdu s tratí č. 171. V předmětném úseku silnice II/115 byl nalezen rámový propustek ve staničení km 1,765 2. ÚSEK Tento úsek začíná na hranici města Černošice a pokračuje extravilánem po stávajícím zemním tělesu k Dobřichovicím a Letům. V předmětném úseku silnice II/115 byly nalezeny propustky ve staničení km 0,009 a v km 0,522. V km 13,082 se v obci Dobřichovice nachází most přes Karlický potok ev. č. 115-009 z roku 1959, jehož stavební stav je uspokojivý.",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        7
+    ],
+    "communication": [
+        {
+            "idCommunication": 16,
+            "stationingFrom": 4.8580000000000005,
+            "stationingTo": 13.379000000000001,
+            "gpsN1": 49.9684214,
+            "gpsN2": 49.9236275,
+            "gpsE1": 14.333786100000001,
+            "gpsE2": 14.2555083
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 61600,
+            "idPriceType": 1
+        },
+        {
+            "value": 1983109,
+            "idPriceType": 2
+        },
+        {
+            "value": 61600,
+            "idPriceType": 3
+        },
+        {
+            "value": 1983109,
+            "idPriceType": 4
+        },
+        {
+            "value": 45454545,
+            "idPriceType": 6
+        },
+        {
+            "value": 1009091,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-07-19",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2018-09-04",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2018-11-09",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-06-30",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-09-30",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-10-30",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2020-04-30",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-12-31",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2020-03-31",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 67,
+            "idContactType": 1
+        },
+        {
+            "idContact": 67,
+            "idContactType": 2
+        },
+        {
+            "idContact": 67,
+            "idContactType": 3
+        },
+        {
+            "idContact": 67,
+            "idContactType": 4
+        }
+    ]
+}

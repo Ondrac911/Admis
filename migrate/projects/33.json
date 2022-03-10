@@ -1,0 +1,58 @@
+{
+    "idProject": 33,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-05-17 13:50:17",
+    "name": "LOKET – ÚPRAVA – SILNICE II/150",
+    "subject": "1) Vytvoření vjezdové brány ve směru příjezdu do Lokte od Čechtic včetně úpravy autobusových zastávek. 2) Úprava křižovatky s místní komunikací a silnicí III/ 01822 do Kačerova. 3) Úprava sjezdu k McDonald´s a obecnímu úřadu a křižovatky u nájezdu na D1 (sjezd od Prahy). 4) Úprava křižovatky u nájezdu na D1 (sjezd od Brna). 5) Úprava křižovatky se silnicí III/13020 u Brzotic. 6) Vytvoření vjezdové brány ve směru příjezdu do Lokte od vodní nádrže Švihov. 7) Doplnění komunikace pro pěší v centru Brzotic. 8) Souvislá oprava – obnova asfaltového souvrství od dálnice (podjezd pod dálnicí) D1 k mostnímu závěru mostu přes vodní nádrži Švihov.",
+    "editor": "martin.dvorak",
+    "author": "martin.dvorak",
+    "idFinSource": null,
+    "idPhase": 5,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 34,
+            "stationingFrom": 46.2,
+            "stationingTo": 49.1,
+            "gpsN1": 49.6585458,
+            "gpsN2": 49.677155299999995,
+            "gpsE1": 15.121969199999999,
+            "gpsE2": 15.146602800000002
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 1,
+            "idPriceType": 3
+        },
+        {
+            "value": 1,
+            "idPriceType": 4
+        },
+        {
+            "value": 1,
+            "idPriceType": 6
+        },
+        {
+            "value": 1,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [],
+    "contacts": []
+}

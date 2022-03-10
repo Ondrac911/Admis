@@ -1,0 +1,108 @@
+{
+    "idProject": 62,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-06-14 13:49:10",
+    "name": "II/118 Malé Kyšice, nestabilní silniční svah",
+    "subject": "stabilizace svahu a zemního tělesa, vybudování opěrné zdi z gabionů",
+    "editor": "petr.nadvornik",
+    "author": "petr.nadvornik",
+    "idFinSource": 5.0,
+    "idPhase": 3,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "EVZ 18040212, TDS+BOZP 18040213",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 30.0,
+    "idArea": [
+        7
+    ],
+    "communication": [
+        {
+            "idCommunication": 21,
+            "stationingFrom": 0.017,
+            "stationingTo": 0.508,
+            "gpsN1": 50.05281420000001,
+            "gpsN2": 50.05700220000001,
+            "gpsE1": 14.0974383,
+            "gpsE2": 14.097374199999999
+        }
+    ],
+    "assignments": "Nutno počkat na zprůjezdnění II/118 Chyňava most..",
+    "price": [
+        {
+            "value": 30000,
+            "idPriceType": 1
+        },
+        {
+            "value": 396500,
+            "idPriceType": 2
+        },
+        {
+            "value": 30000,
+            "idPriceType": 3
+        },
+        {
+            "value": 396500,
+            "idPriceType": 4
+        },
+        {
+            "value": 19551028,
+            "idPriceType": 6
+        },
+        {
+            "value": 533200,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-06-14",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-06-14",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2017-07-01",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-06-14",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-05-30",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-06-14",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 32,
+            "idContactType": 1
+        },
+        {
+            "idContact": 151,
+            "idContactType": 2
+        },
+        {
+            "idContact": 151,
+            "idContactType": 3
+        },
+        {
+            "idContact": 151,
+            "idContactType": 4
+        }
+    ]
+}

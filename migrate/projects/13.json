@@ -1,0 +1,108 @@
+{
+    "idProject": 13,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-10-08 13:37:18",
+    "name": "II/114 Neveklov - I/3",
+    "subject": "Předmětem stavby je oprava vozovky silnice II/114 v úseku Neveklov – I/3. Návrh oprava vozovky je stanoven na základě diagnostiky vozovky – příl. G2 této projektové dokumentace. Součástí stavby je rovněž oprava stávajících propustků a obnova dopravního značení a dopravních zařízení. Poloha silnice II/114 není oproti stávajícímu stavu jakkoliv měněna. Součástí stavby je rovněž oprava 18 stávajících propustků, z toho u 5 propustků bude provedena kompletní oprava. Dále budou v rámci stavby pročištěny stávající příkopy.",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": 5.0,
+    "idPhase": 3,
+    "ginisOrAthena": "a",
+    "noteGinisOrAthena": "VZ-313/19",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 36.0,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 15,
+            "stationingFrom": 0.0,
+            "stationingTo": 7.575,
+            "gpsN1": 49.7515781,
+            "gpsN2": 49.755210299999995,
+            "gpsE1": 14.5396725,
+            "gpsE2": 14.672243300000002
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 140800,
+            "idPriceType": 1
+        },
+        {
+            "value": 3677100,
+            "idPriceType": 2
+        },
+        {
+            "value": 140800,
+            "idPriceType": 3
+        },
+        {
+            "value": 3677100,
+            "idPriceType": 4
+        },
+        {
+            "value": 74987592,
+            "idPriceType": 6
+        },
+        {
+            "value": 350000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-05-07",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-06-07",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-08-07",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-11-14",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-04-10",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2020-03-02",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 71,
+            "idContactType": 1
+        },
+        {
+            "idContact": 68,
+            "idContactType": 2
+        },
+        {
+            "idContact": 70,
+            "idContactType": 3
+        },
+        {
+            "idContact": 69,
+            "idContactType": 4
+        }
+    ]
+}

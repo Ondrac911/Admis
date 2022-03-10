@@ -1,0 +1,104 @@
+{
+    "idProject": 64,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-06-17 14:49:05",
+    "name": "II/111 křižovatka s III/11112 - křižovatka s II/112",
+    "subject": "Rekonstrukce silnice na stávajících pozemcích",
+    "editor": "petr.nadvornik",
+    "author": "petr.nadvornik",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 12,
+            "stationingFrom": 3.85,
+            "stationingTo": 8.63,
+            "gpsN1": 49.7409433,
+            "gpsN2": 49.76279279999999,
+            "gpsE1": 14.704711900000001,
+            "gpsE2": 14.7498375
+        }
+    ],
+    "assignments": "Zaslat podmínky IROP pro projektanty kvůli splnění požadavků",
+    "price": [
+        {
+            "value": 51000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1595000,
+            "idPriceType": 2
+        },
+        {
+            "value": 51000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1595000,
+            "idPriceType": 4
+        },
+        {
+            "value": 120000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 3000000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-06-25",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-07-31",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-07-31",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-07-31",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-10-31",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 154,
+            "idContactType": 1
+        },
+        {
+            "idContact": 154,
+            "idContactType": 2
+        },
+        {
+            "idContact": 154,
+            "idContactType": 3
+        },
+        {
+            "idContact": 154,
+            "idContactType": 4
+        }
+    ]
+}

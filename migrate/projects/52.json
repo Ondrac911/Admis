@@ -1,0 +1,96 @@
+{
+    "idProject": 52,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-06-03 12:56:35",
+    "name": "II/237 Nové Strašecí, oprava mostu ev. č. 237-007 nad tratí ČD",
+    "subject": "SO 101- rekonstrukce silnice II/237 v délce 2646 m. SO 201 - oprava mostu ev. č.  237-007 nad železniční tratí ČD Praha - Chomutov (délka 86,5 m šířka 19,90 m). SO 191 - obnova a doplnění dopravního značení.",
+    "editor": "martin.dvorak",
+    "author": "martin.dvorak",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        6
+    ],
+    "communication": [
+        {
+            "idCommunication": 49,
+            "stationingFrom": 11.605,
+            "stationingTo": 14.253,
+            "gpsN1": 50.142480799999994,
+            "gpsN2": 50.1581347,
+            "gpsE1": 13.873030800000002,
+            "gpsE2": 13.8953361
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 65000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1725000,
+            "idPriceType": 2
+        },
+        {
+            "value": 65000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1725000,
+            "idPriceType": 4
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-12-21",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-01-07",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-03-19",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-06-07",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2018-12-19",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 135,
+            "idContactType": 1
+        },
+        {
+            "idContact": 135,
+            "idContactType": 2
+        },
+        {
+            "idContact": 135,
+            "idContactType": 3
+        },
+        {
+            "idContact": 135,
+            "idContactType": 4
+        }
+    ]
+}

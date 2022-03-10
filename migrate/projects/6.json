@@ -1,0 +1,144 @@
+{
+    "idProject": 6,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-07-09 09:00:15",
+    "name": "II/229 Všesulov, most ev.č. 229-009",
+    "subject": "Jedná se o mostní objekt ev.č. 229-009 ve staničení km 14,047 převádějící silnici II/229 přes Šipský potok v intravilánu na okraji obce. Most je v havarijním stavu, a to zejména jeho nepojížděná část, kde již došlo ke značné deformaci klenby.",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": 5.0,
+    "idPhase": 1,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "17040152",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": 1.0,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 21.0,
+    "idArea": [
+        6
+    ],
+    "communication": [
+        {
+            "idCommunication": 45,
+            "stationingFrom": 14.047,
+            "stationingTo": 14.077,
+            "gpsN1": 50.04095170000001,
+            "gpsN2": 50.040772499999996,
+            "gpsE1": 13.6171878,
+            "gpsE2": 13.6169411
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 28000,
+            "idPriceType": 1
+        },
+        {
+            "value": 507400,
+            "idPriceType": 2
+        },
+        {
+            "value": 28000,
+            "idPriceType": 3
+        },
+        {
+            "value": 507400,
+            "idPriceType": 4
+        },
+        {
+            "value": 7031865,
+            "idPriceType": 5
+        },
+        {
+            "value": 6860599,
+            "idPriceType": 6
+        },
+        {
+            "value": 392850,
+            "idPriceType": 7
+        },
+        {
+            "value": 392850,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2015-04-21",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2015-05-21",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2017-06-21",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2015-07-13",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-06-03",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2018-07-04",
+            "idDeadlineType": 12
+        },
+        {
+            "value": "1.0",
+            "idDeadlineType": 13
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 29,
+            "idContactType": 1
+        },
+        {
+            "idContact": 29,
+            "idContactType": 2
+        },
+        {
+            "idContact": 30,
+            "idContactType": 3
+        },
+        {
+            "idContact": 29,
+            "idContactType": 4
+        },
+        {
+            "idContact": 38,
+            "idContactType": 5
+        },
+        {
+            "idContact": 39,
+            "idContactType": 6
+        },
+        {
+            "idContact": 41,
+            "idContactType": 9
+        },
+        {
+            "idContact": 42,
+            "idContactType": 10
+        },
+        {
+            "idContact": 43,
+            "idContactType": 11
+        },
+        {
+            "idContact": 40,
+            "idContactType": 12
+        }
+    ]
+}

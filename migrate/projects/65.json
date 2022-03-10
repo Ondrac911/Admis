@@ -1,0 +1,112 @@
+{
+    "idProject": 65,
+    "idProjectType": 1,
+    "idProjectSubtype": "9.0",
+    "created": "2019-06-18 11:46:15",
+    "name": "II/101 Úvaly - Říčany (pouze DUR)",
+    "subject": "Přeložka komunikace II/101 - sloužící jako obchvat městyse Škvorec, obcí Zlatá, Sluštice a Křenice",
+    "editor": "petr.nadvornik",
+    "author": "petr.nadvornik",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        2
+    ],
+    "communication": [
+        {
+            "idCommunication": 1,
+            "stationingFrom": 0.429,
+            "stationingTo": 6.869,
+            "gpsN1": 50.01433170000001,
+            "gpsN2": 50.0166206,
+            "gpsE1": 14.6686631,
+            "gpsE2": 14.6689419
+        }
+    ],
+    "assignments": "Projekt je zasmluvněn pouze ve fázi zhotovení DUR a získání ÚR",
+    "price": [
+        {
+            "value": 4100000,
+            "idPriceType": 2
+        },
+        {
+            "value": 4100000,
+            "idPriceType": 4
+        },
+        {
+            "value": 755000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 18863000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-08-27",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2018-09-27",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2018-12-27",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-06-18",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-06-18",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-07-07",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-07-03",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-06-18",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-06-18",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 156,
+            "idContactType": 1
+        },
+        {
+            "idContact": 155,
+            "idContactType": 2
+        },
+        {
+            "idContact": 155,
+            "idContactType": 3
+        },
+        {
+            "idContact": 155,
+            "idContactType": 4
+        }
+    ]
+}

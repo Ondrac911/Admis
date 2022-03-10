@@ -1,0 +1,144 @@
+{
+    "idProject": 8,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-12-09 10:46:51",
+    "name": "II/245 Vykáň, most ev.č. 245-009a",
+    "subject": "Předmětem projektu je kompletní odstranění stávajícího mostního objektu • kompletní výstavba nového mostního objektu Před zahájením výstavby bude odstraněno osazené mostní provizorium - není součástí stavby. Nový mostní objekt je navrhován jako jednopolový, šikmý, v kruhovém oblouku, přímopojížděný. Nosná konstrukce je navrhována jako železobetonová rámová, s rovnoběžnými integrovanými křídly. Založení mostu je navrhováno jako hlubinné na mikropilotách. Mostní svršek je tvořen betonovými římsami, ocelovým zábradlím se svislou výplní a asfaltobetonovou vozovkou.",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": 5.0,
+    "idPhase": 1,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "18040091",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": 1.0,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 16.0,
+    "idArea": [
+        9
+    ],
+    "communication": [
+        {
+            "idCommunication": 58,
+            "stationingFrom": 327.0,
+            "stationingTo": 337.0,
+            "gpsN1": 50.1190281,
+            "gpsN2": 50.1188253,
+            "gpsE1": 14.8170022,
+            "gpsE2": 14.8170986
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 26100,
+            "idPriceType": 1
+        },
+        {
+            "value": 652700,
+            "idPriceType": 2
+        },
+        {
+            "value": 33000,
+            "idPriceType": 3
+        },
+        {
+            "value": 652700,
+            "idPriceType": 4
+        },
+        {
+            "value": 4108677,
+            "idPriceType": 5
+        },
+        {
+            "value": 4108677,
+            "idPriceType": 6
+        },
+        {
+            "value": 291174,
+            "idPriceType": 7
+        },
+        {
+            "value": 291174,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2016-11-01",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2016-11-15",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2017-06-01",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2016-12-15",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-01-10",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-05-07",
+            "idDeadlineType": 12
+        },
+        {
+            "value": "1.0",
+            "idDeadlineType": 13
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 47,
+            "idContactType": 1
+        },
+        {
+            "idContact": 45,
+            "idContactType": 2
+        },
+        {
+            "idContact": 46,
+            "idContactType": 3
+        },
+        {
+            "idContact": 45,
+            "idContactType": 4
+        },
+        {
+            "idContact": 49,
+            "idContactType": 5
+        },
+        {
+            "idContact": 50,
+            "idContactType": 6
+        },
+        {
+            "idContact": 52,
+            "idContactType": 9
+        },
+        {
+            "idContact": 53,
+            "idContactType": 10
+        },
+        {
+            "idContact": 54,
+            "idContactType": 11
+        },
+        {
+            "idContact": 51,
+            "idContactType": 12
+        }
+    ]
+}

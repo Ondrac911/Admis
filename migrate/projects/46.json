@@ -1,0 +1,124 @@
+{
+    "idProject": 46,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-12-09 10:46:10",
+    "name": "II/237 Hořešovice, rekonstrukce mostu ev. č. 237-013A",
+    "subject": "Rekonstruovaný most je budován ve stávající komunikaci na místě stávajícího mostu, před mostem i za ním bude upraveno dno Zlonického potoka. Silnice bude upravena v požadovaném rozsahu v souvislosti s rekonstrukcí mostu, její kryt bude obnoven dle požadavku správce komunikace v délce cca 160 m. Koruna silnice bude upravena v délce, ve které je třeba provést svodidlo navazující na zábradelní svodidlo na mostě.",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": 5.0,
+    "idPhase": 1,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "17040151",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 23.0,
+    "idArea": [
+        6
+    ],
+    "communication": [
+        {
+            "idCommunication": 49,
+            "stationingFrom": 35.1,
+            "stationingTo": 35.113,
+            "gpsN1": 50.274017799999996,
+            "gpsN2": 50.2745903,
+            "gpsE1": 13.9734206,
+            "gpsE2": 13.9726481
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 6133333,
+            "idPriceType": 5
+        },
+        {
+            "value": 6133333,
+            "idPriceType": 6
+        },
+        {
+            "value": 308760,
+            "idPriceType": 7
+        },
+        {
+            "value": 308760,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2016-09-01",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2016-09-15",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2017-03-31",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2016-09-20",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-03-31",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-03-21",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 29,
+            "idContactType": 1
+        },
+        {
+            "idContact": 92,
+            "idContactType": 2
+        },
+        {
+            "idContact": 30,
+            "idContactType": 3
+        },
+        {
+            "idContact": 29,
+            "idContactType": 4
+        },
+        {
+            "idContact": 118,
+            "idContactType": 5
+        },
+        {
+            "idContact": 118,
+            "idContactType": 6
+        },
+        {
+            "idContact": 119,
+            "idContactType": 9
+        },
+        {
+            "idContact": 120,
+            "idContactType": 10
+        },
+        {
+            "idContact": 54,
+            "idContactType": 11
+        },
+        {
+            "idContact": 118,
+            "idContactType": 12
+        }
+    ]
+}

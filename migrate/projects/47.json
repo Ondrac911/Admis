@@ -1,0 +1,58 @@
+{
+    "idProject": 47,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-05-29 12:43:57",
+    "name": "II/112 Jemniště - Domašín",
+    "subject": "rekonstrukce silnice II/112 mezi obcemi Jemniště a Domašín",
+    "editor": "petr.nadvornik",
+    "author": "petr.nadvornik",
+    "idFinSource": null,
+    "idPhase": 5,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 13,
+            "stationingFrom": 9.48,
+            "stationingTo": 17.788,
+            "gpsN1": 49.7481397,
+            "gpsN2": 49.7131878,
+            "gpsE1": 14.788233900000002,
+            "gpsE2": 14.8749228
+        }
+    ],
+    "assignments": "Zadat opravenou žádanku na KSUS",
+    "price": [
+        {
+            "value": 1,
+            "idPriceType": 3
+        },
+        {
+            "value": 1,
+            "idPriceType": 4
+        },
+        {
+            "value": 86702996,
+            "idPriceType": 6
+        },
+        {
+            "value": 2167575,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [],
+    "contacts": []
+}

@@ -1,0 +1,144 @@
+{
+    "idProject": 5,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-12-09 10:39:07",
+    "name": "II/280 Březno, rekonstrukce",
+    "subject": "Projekt řeší rekonstrukci komunikace II/280 v průtahu obcí Židněves a Březno. Jedná se o průtah komunikace II. třídy spojující I/16(Mladá Boleslav-Jičín) a I/32 (Poděbrady-Jičín. Jízdní pás proměnné šířky 5,5-6,5m je tvořen dvěma protisměrnými jízdními pruhy šířky 2,75-3,25m. Odvodnění komunikace zůstává zachováno stávajícím způsobem, tj. příčnými a podélnými sklony do příkopů, zatrubněných příkopů s uličními vpustmi a do uličních vpustí mimo jízdní pás do stávající dešťové kanalizace.",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": 5.0,
+    "idPhase": 1,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "16040043",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": 1.0,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 12.0,
+    "idArea": [
+        3
+    ],
+    "communication": [
+        {
+            "idCommunication": 73,
+            "stationingFrom": 0.0,
+            "stationingTo": 1.35,
+            "gpsN1": 50.41121,
+            "gpsN2": 50.40587670000001,
+            "gpsE1": 14.994956900000002,
+            "gpsE2": 15.006458300000002
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 68000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1750400,
+            "idPriceType": 2
+        },
+        {
+            "value": 68000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1750400,
+            "idPriceType": 4
+        },
+        {
+            "value": 29874001,
+            "idPriceType": 5
+        },
+        {
+            "value": 29874001,
+            "idPriceType": 6
+        },
+        {
+            "value": 690120,
+            "idPriceType": 7
+        },
+        {
+            "value": 690120,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-09-15",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2017-09-15",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2017-09-15",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2017-09-15",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-09-15",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2018-08-08",
+            "idDeadlineType": 12
+        },
+        {
+            "value": "1.0",
+            "idDeadlineType": 13
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 32,
+            "idContactType": 1
+        },
+        {
+            "idContact": 31,
+            "idContactType": 2
+        },
+        {
+            "idContact": 31,
+            "idContactType": 3
+        },
+        {
+            "idContact": 31,
+            "idContactType": 4
+        },
+        {
+            "idContact": 33,
+            "idContactType": 5
+        },
+        {
+            "idContact": 34,
+            "idContactType": 6
+        },
+        {
+            "idContact": 36,
+            "idContactType": 9
+        },
+        {
+            "idContact": 36,
+            "idContactType": 10
+        },
+        {
+            "idContact": 37,
+            "idContactType": 11
+        },
+        {
+            "idContact": 35,
+            "idContactType": 12
+        }
+    ]
+}

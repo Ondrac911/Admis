@@ -1,0 +1,144 @@
+{
+    "idProject": 10,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-12-09 10:47:02",
+    "name": "II/106 Hradištko, rekonstrukce silnice",
+    "subject": "Jedná se o kompletní rekonstrukci dožitých konstrukčních vrstev vozovky, konkrétně silnice II/106 v obci Hradištko (ulice Benešovská) v rozsahu dle staničení 0,114 – 1,810 v celkové délce 1,696 km.",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": 5.0,
+    "idPhase": 1,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "17040154",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": 1.0,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 40.0,
+    "idArea": [
+        11
+    ],
+    "communication": [
+        {
+            "idCommunication": 7,
+            "stationingFrom": 0.114,
+            "stationingTo": 1.181,
+            "gpsN1": 49.8537475,
+            "gpsN2": 49.86501810000001,
+            "gpsE1": 14.4038614,
+            "gpsE2": 14.4125144
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 33000,
+            "idPriceType": 1
+        },
+        {
+            "value": 526000,
+            "idPriceType": 2
+        },
+        {
+            "value": 33000,
+            "idPriceType": 3
+        },
+        {
+            "value": 526000,
+            "idPriceType": 4
+        },
+        {
+            "value": 42246153,
+            "idPriceType": 5
+        },
+        {
+            "value": 38899873,
+            "idPriceType": 6
+        },
+        {
+            "value": 778480,
+            "idPriceType": 7
+        },
+        {
+            "value": 778480,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-04-01",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2017-04-15",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-05-14",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2017-05-30",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-07-10",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2018-06-27",
+            "idDeadlineType": 12
+        },
+        {
+            "value": "1.0",
+            "idDeadlineType": 13
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 59,
+            "idContactType": 1
+        },
+        {
+            "idContact": 58,
+            "idContactType": 2
+        },
+        {
+            "idContact": 60,
+            "idContactType": 3
+        },
+        {
+            "idContact": 59,
+            "idContactType": 4
+        },
+        {
+            "idContact": 61,
+            "idContactType": 5
+        },
+        {
+            "idContact": 62,
+            "idContactType": 6
+        },
+        {
+            "idContact": 64,
+            "idContactType": 9
+        },
+        {
+            "idContact": 65,
+            "idContactType": 10
+        },
+        {
+            "idContact": 66,
+            "idContactType": 11
+        },
+        {
+            "idContact": 63,
+            "idContactType": 12
+        }
+    ]
+}

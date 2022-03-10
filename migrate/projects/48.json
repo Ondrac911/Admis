@@ -1,0 +1,108 @@
+{
+    "idProject": 48,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-07-10 10:51:15",
+    "name": "II/101 Unhošť - Červený újezd",
+    "subject": "Rekonstrukce silnice II/101 je hlavním objektem stavby. Rekonstrukce vychází ze stávajícího technického stavu a je navržena s ohledem na ČSN 73 6101 Projektování silnic a dálnic a vazbám na okrajové podmínky napojení. Náplní objektu je rekonstrukce silnice v celé šíři 6-7 m a úprava systému odvodnění.",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": 5.0,
+    "idPhase": 3,
+    "ginisOrAthena": "a",
+    "noteGinisOrAthena": "VZ-185/19",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 16.0,
+    "idArea": [
+        7
+    ],
+    "communication": [
+        {
+            "idCommunication": 1,
+            "stationingFrom": 45.157,
+            "stationingTo": 46.657,
+            "gpsN1": 50.0805956,
+            "gpsN2": 50.0732419,
+            "gpsE1": 14.139980599999998,
+            "gpsE2": 14.156781699999998
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 30000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1169000,
+            "idPriceType": 2
+        },
+        {
+            "value": 30000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1169000,
+            "idPriceType": 4
+        },
+        {
+            "value": 2931573,
+            "idPriceType": 6
+        },
+        {
+            "value": 669034,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2108-10-01",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-10-10",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-09-20",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-10-12",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-01-08",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-09-01",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 23,
+            "idContactType": 1
+        },
+        {
+            "idContact": 121,
+            "idContactType": 2
+        },
+        {
+            "idContact": 122,
+            "idContactType": 3
+        },
+        {
+            "idContact": 23,
+            "idContactType": 4
+        }
+    ]
+}

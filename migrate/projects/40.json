@@ -1,0 +1,120 @@
+{
+    "idProject": 40,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-05-27 10:59:16",
+    "name": "11/101 DI - jesenice, rekonstrukce",
+    "subject": "Základní popis akce: Provedeni diagnostiky vozovky a zpracování PO, zajištění stavebního povolení nebo ohlášení stavby. projektová dokumentace bude zpracována v rozsahu DSP, PDPS, ad a výkon lČ k sp. Na základě výsledků diagnostiky a PO provedení navržené technologie obnovy povrchu vozovky (podloži) v délce cca 5000 m, v prům. šířce 8 m, staničení cca 5,91 - 10,97 km při respektováni nového mostu ev.č. 101-007 a v roce 2017 dokončené opravy mostu ev.č. 101- 009 v obci Kocanda vč. předmostí. Obnova popř. doplnění odvodňovacího systému",
+    "editor": "jakub.sladek",
+    "author": "jakub.sladek",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        11
+    ],
+    "communication": [
+        {
+            "idCommunication": 1,
+            "stationingFrom": 5.91,
+            "stationingTo": 10.97,
+            "gpsN1": 49.9726169,
+            "gpsN2": 49.9700775,
+            "gpsE1": 14.6125128,
+            "gpsE2": 14.5355225
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 70000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1498000,
+            "idPriceType": 2
+        },
+        {
+            "value": 70000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1498000,
+            "idPriceType": 4
+        },
+        {
+            "value": 78650000,
+            "idPriceType": 6
+        },
+        {
+            "value": 1966250,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-04-17",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2019-04-25",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2019-04-24",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-04-24",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-04-30",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-04-16",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-04-24",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-04-24",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-07-13",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 113,
+            "idContactType": 1
+        },
+        {
+            "idContact": 113,
+            "idContactType": 2
+        },
+        {
+            "idContact": 113,
+            "idContactType": 3
+        },
+        {
+            "idContact": 113,
+            "idContactType": 4
+        }
+    ]
+}

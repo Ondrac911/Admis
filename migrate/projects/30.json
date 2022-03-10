@@ -1,0 +1,156 @@
+{
+    "idProject": 30,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-07-04 10:11:28",
+    "name": "II/337 Močovice, most ev.č. 337-007 přes potok Klejnarka",
+    "subject": "Předmětem akce je výstavba nového silničního mostu na silnici II/337 přes potok Klejnárku v obci Močovice.Nový most bude situován na místě původního mostu, bude mít jedno pole o rozpětí 21,1 m. Hlavní nosnou konstrukci mostu budou tvořit dva plnostěnné ocelové svařované nosníky. Hlavní nosníky budou spojeny ocelovými příčníky, na něž bude vybetonována spřažená ocelobetonová deska mostovky. Most bude mít pravostranný chodník šířky 2000 mm. Šířkově bude most uspořádán se dvěma jízdními pruhy o šířce pruhu 3,0 m (kategorie MO 7,5/40). Podélné a výškové proporce mostu výrazně zlepší situaci ve vztahu k průtočnému profilu toku – nový most bude mít dolní hranu o min. 0,50 m výš, než je stávající hladina Q100 (o cca 1300 mm výše než dolní hrana stávající konstrukce). Současně s novým mostem budou vybudovány nové opěrné zdi a část přilehlé komunikace. Výstavba mostu a navazujících opěrných zdí si vyžádá přeložku dešťové kanalizace, stožáru NN a výstavbu propustku. Během stavby bude provedena kompletní uzávěra silnice a provoz veden po objízdné trase.",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": 5.0,
+    "idPhase": 2,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "17040163  19040018",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 36.0,
+    "idArea": [
+        1
+    ],
+    "communication": [
+        {
+            "idCommunication": 91,
+            "stationingFrom": 0.4,
+            "stationingTo": 0.5,
+            "gpsN1": 49.903785600000006,
+            "gpsN2": 49.9030117,
+            "gpsE1": 15.3486481,
+            "gpsE2": 15.3490772
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 25200,
+            "idPriceType": 1
+        },
+        {
+            "value": 691152,
+            "idPriceType": 2
+        },
+        {
+            "value": 25200,
+            "idPriceType": 3
+        },
+        {
+            "value": 691152,
+            "idPriceType": 4
+        },
+        {
+            "value": 15430251,
+            "idPriceType": 5
+        },
+        {
+            "value": 15430251,
+            "idPriceType": 6
+        },
+        {
+            "value": 609255,
+            "idPriceType": 7
+        },
+        {
+            "value": 609255,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2016-03-31",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2016-03-31",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2016-03-31",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2016-04-19",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2016-05-31",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2016-05-31",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2016-06-30",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2016-05-30",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-07-13",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2018-07-02",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 172,
+            "idContactType": 1
+        },
+        {
+            "idContact": 172,
+            "idContactType": 2
+        },
+        {
+            "idContact": 172,
+            "idContactType": 3
+        },
+        {
+            "idContact": 172,
+            "idContactType": 4
+        },
+        {
+            "idContact": 86,
+            "idContactType": 5
+        },
+        {
+            "idContact": 85,
+            "idContactType": 6
+        },
+        {
+            "idContact": 52,
+            "idContactType": 9
+        },
+        {
+            "idContact": 52,
+            "idContactType": 10
+        },
+        {
+            "idContact": 54,
+            "idContactType": 11
+        },
+        {
+            "idContact": 85,
+            "idContactType": 12
+        }
+    ]
+}

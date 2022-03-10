@@ -1,0 +1,120 @@
+{
+    "idProject": 38,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-05-24 13:44:39",
+    "name": ",,III/11437 Bystřice - Nesvačily\"",
+    "subject": "jedná se o zpracováni PD na opravu silnice v rozsahu DSP+DZS/PDPS, sbužici pro ohlášeni údržby a výkon autorského dozoru po dobu výstavby (ad) při dodrženi platných norem (např. ČSN 736102, ČSN 736201) TKP a TP. Technický popis stávajících objektŮ: · Oprava silnice III/11437 v km cca 9,160 - 10,270 provozního staničení, řešeni odvodněni silnice a obnova dopravního značeni · Začátek úseku na příčné spáře po opravě křižovatky se silnici III/11460 · Konec úseku u příčné spáry rekonstruovaného mostu 111-001 · Nutná diagnostika vzhledem k tomu, že skladba stávající vozovky není známá · Součásti PD budou i všechny potřebné prŮzkumy, posouzeni a zaměřeni Budou vyřešeny případné přeložky IS, POV a DIO. · projektová dokumentace bude obsahovat platná vyjádřeni DOSS a správcŮ inženýrských síti.",
+    "editor": "jakub.sladek",
+    "author": "jakub.sladek",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 632,
+            "stationingFrom": 9.16,
+            "stationingTo": 10.27,
+            "gpsN1": 49.7330247,
+            "gpsN2": 49.7320261,
+            "gpsE1": 14.658929999999998,
+            "gpsE2": 14.643780800000002
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 30400,
+            "idPriceType": 1
+        },
+        {
+            "value": 520000,
+            "idPriceType": 2
+        },
+        {
+            "value": 30400,
+            "idPriceType": 3
+        },
+        {
+            "value": 520000,
+            "idPriceType": 4
+        },
+        {
+            "value": 20000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 2000000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-04-25",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2019-04-10",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2019-04-30",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-05-24",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-08-31",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-09-30",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-12-31",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-09-05",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2020-01-31",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 112,
+            "idContactType": 1
+        },
+        {
+            "idContact": 112,
+            "idContactType": 2
+        },
+        {
+            "idContact": 112,
+            "idContactType": 3
+        },
+        {
+            "idContact": 112,
+            "idContactType": 4
+        }
+    ]
+}

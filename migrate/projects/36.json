@@ -1,0 +1,58 @@
+{
+    "idProject": 36,
+    "idProjectType": 1,
+    "idProjectSubtype": "2.0",
+    "created": "2019-05-22 17:03:50",
+    "name": "„II/332 Zbožíčko, obchvat“",
+    "subject": " Předmětem záměru je zhotovení technické studie proveditelnosti vybudování přeložky  silnice II/332. Silnice II/332 je v současné době vedena přes centrum obce, zatížené transitní osobní i nákladní dopravou, jenž má negativní vliv na obyvatelstvo obce, zejména z hlediska hlukové zátěže, kvality ovzduší a bezpečnosti.  Další konkrétní požadavky na zpracovatele studie vyplynou až během dílčích projednávání s obcí, dotčenými orgány státní správy, správci dopravní a technické infrastruktury a jiných dotčených subjektů. ",
+    "editor": "jakub.sladek",
+    "author": "jakub.sladek",
+    "idFinSource": null,
+    "idPhase": 5,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        9
+    ],
+    "communication": [
+        {
+            "idCommunication": 85,
+            "stationingFrom": 0.0,
+            "stationingTo": 1.8,
+            "gpsN1": 50.2268664,
+            "gpsN2": 50.2296667,
+            "gpsE1": 14.928266699999998,
+            "gpsE2": 14.947793099999998
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 40000,
+            "idPriceType": 3
+        },
+        {
+            "value": 400000,
+            "idPriceType": 4
+        },
+        {
+            "value": 40000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 800000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [],
+    "contacts": []
+}

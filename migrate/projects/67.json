@@ -1,0 +1,50 @@
+{
+    "idProject": 67,
+    "idProjectType": 1,
+    "idProjectSubtype": "2.0",
+    "created": "2019-06-21 13:23:48",
+    "name": "Králův Dvůr - obchvat - II. etapa",
+    "subject": "Navazující etapa obchvatu Králova Dvora",
+    "editor": "petr.nadvornik",
+    "author": "petr.nadvornik",
+    "idFinSource": null,
+    "idPhase": 5,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        5
+    ],
+    "communication": [
+        {
+            "idCommunication": 695,
+            "stationingFrom": 0.0,
+            "stationingTo": 0.69,
+            "gpsN1": 49.9408236,
+            "gpsN2": 49.944262200000004,
+            "gpsE1": 14.030919699999998,
+            "gpsE2": 14.039095000000001
+        }
+    ],
+    "assignments": "PD zpracovává město (Martin Dejdar- Spektra beroun)",
+    "price": [
+        {
+            "value": 28000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 700000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [],
+    "contacts": []
+}

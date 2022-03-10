@@ -1,0 +1,58 @@
+{
+    "idProject": 71,
+    "idProjectType": 1,
+    "idProjectSubtype": "2.0",
+    "created": "2019-06-26 14:26:09",
+    "name": "II/240 Velvary, obchvat (pouze DUR)",
+    "subject": "Silniční obchvat obce Velvary v délce 2,6 km, napojení na D8",
+    "editor": "petr.nadvornik",
+    "author": "petr.nadvornik",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        7
+    ],
+    "communication": [
+        {
+            "idCommunication": 52,
+            "stationingFrom": 0.0,
+            "stationingTo": 2.6,
+            "gpsN1": 50.2844872,
+            "gpsN2": 50.2896422,
+            "gpsE1": 14.260006099999998,
+            "gpsE2": 14.228334400000001
+        }
+    ],
+    "assignments": "Komplikovanější situace ohledně PD - akce z r. 2008, , v r. 2015 posun katastrálních území, PD nutná aktulaizace, momentálně je zastaralý záborový elaborát , ÚR zatím není",
+    "price": [
+        {
+            "value": 4618600,
+            "idPriceType": 2
+        },
+        {
+            "value": 4378600,
+            "idPriceType": 4
+        },
+        {
+            "value": 300000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 7500000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [],
+    "contacts": []
+}

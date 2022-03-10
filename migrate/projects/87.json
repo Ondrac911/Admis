@@ -1,0 +1,100 @@
+{
+    "idProject": 87,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-08-23 09:11:41",
+    "name": "II/114, II/119 a III/10226 Dobříš – průtah, rekonstrukce silnice - I. a II. etapa",
+    "subject": "Předmětem I. Etapy je rekonstrukce ulice Pražská ve městě Dobříš. Daný úsek je definován světelně řízenou křižovatkou s ulicí Plk. B. Petroviče (Mírovým náměstím) a směrovým obloukem u zámku Dobříš (dle situace). Hlavním cílem je kompletní rekonstrukce vozovky a celková modernizace uličního prostoru. Předmětem II. Etapy je rekonstrukce komunikace v centru města. Začátek úseku je na Mírovém náměstí v oblasti křižovatky Pražská - Plk. B.Petroviče, komunikace pokračuje přes Mírové náměstí do ulice Příbramská až po křižovatku s ulicemi Fričova, Františka Průši. Součástí je řešení křižovatky v oblasti Tyršova náměstí s ulicí Bezručova a rovněž část ulice Plk. B. Petroviče v oblasti Mírového náměstí. Všechny zmíněné součásti jsou silnicemi II. třídy a slouží jako průtah dopravy městem..",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": 5.0,
+    "idPhase": 3,
+    "ginisOrAthena": "a",
+    "noteGinisOrAthena": "VZ- 189/19",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 32.0,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 15,
+            "stationingFrom": 29.4,
+            "stationingTo": 30.2,
+            "gpsN1": 49.7801464,
+            "gpsN2": 49.782141700000004,
+            "gpsE1": 14.1682133,
+            "gpsE2": 14.1781483
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 97500,
+            "idPriceType": 1
+        },
+        {
+            "value": 41500,
+            "idPriceType": 3
+        },
+        {
+            "value": 46294251,
+            "idPriceType": 6
+        },
+        {
+            "value": 594292,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-12-01",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2017-12-01",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2017-12-01",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-07-01",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-07-27",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2020-03-02",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 196,
+            "idContactType": 1
+        },
+        {
+            "idContact": 197,
+            "idContactType": 2
+        },
+        {
+            "idContact": 196,
+            "idContactType": 3
+        },
+        {
+            "idContact": 196,
+            "idContactType": 4
+        }
+    ]
+}

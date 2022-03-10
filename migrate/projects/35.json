@@ -1,0 +1,124 @@
+{
+    "idProject": 35,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-05-22 15:50:23",
+    "name": "„II/610 Tuřice – Kbel I. etapa“",
+    "subject": "Jedná se o rekonstrukci cca 1 700 m stávající silnice II. třídy II/610. Silnice je ve velmi nevyhovujícím stavu a nesplňuje současné standardy pro bezpečnost a zklidňování dopravy. Stavba by měla umožnit bezpečnější pohyb vozidel na celé trase projektované silnice II/610.  Šířky celého uličního prostoru v Benátkách nad Jizerou bude využito ke zlepšení dopravy v klidu a současně k vybudování kapacitních komunikací pro pěší, čímž se zvýší bezpečnost chodců, kteří jsou v současné době nuceni využívat zpevněnou i nezpevněnou krajnici v místech absence chodníků.",
+    "editor": "jakub.sladek",
+    "author": "jakub.sladek",
+    "idFinSource": 5.0,
+    "idPhase": 3,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "1",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 36.0,
+    "idArea": [
+        3
+    ],
+    "communication": [
+        {
+            "idCommunication": 104,
+            "stationingFrom": 6.94,
+            "stationingTo": 8.64,
+            "gpsN1": 50.2855567,
+            "gpsN2": 50.2953725,
+            "gpsE1": 14.828617199999998,
+            "gpsE2": 14.848529999999998
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 42250,
+            "idPriceType": 1
+        },
+        {
+            "value": 556000,
+            "idPriceType": 2
+        },
+        {
+            "value": 200000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1500000,
+            "idPriceType": 4
+        },
+        {
+            "value": 54806785,
+            "idPriceType": 6
+        },
+        {
+            "value": 1831800,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-04-18",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2019-03-06",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2019-03-12",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-04-10",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-03-20",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-02-19",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-02-27",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2017-04-28",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-04-17",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-05-31",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 110,
+            "idContactType": 1
+        },
+        {
+            "idContact": 110,
+            "idContactType": 2
+        },
+        {
+            "idContact": 110,
+            "idContactType": 3
+        },
+        {
+            "idContact": 111,
+            "idContactType": 4
+        }
+    ]
+}

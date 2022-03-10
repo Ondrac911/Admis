@@ -1,0 +1,116 @@
+{
+    "idProject": 74,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-07-02 11:07:37",
+    "name": "II/118 Zlonice, rekonstrukce mostu ev. č. 118-057",
+    "subject": "Mostní objekt převádí komunikaci II/118 přes Zlonický potok. Jedná se o spojení měst Slaný a Budyně nad Ohří. Silnice je v daném úseku užívána, kromě běžné automobilové dopravy i autobusovou dopravou – ČSAD Slaný. Rekonstrukce mostu zachovává současný stav v dané lokalitě. Stávající mostní objekt bude demolován a na jeho místě bude vybudován nový, se stejným šířkovým uspořádáním. Most bude pod celkovou uzavírkou..",
+    "editor": "marek.hanus",
+    "author": "ales.cermak",
+    "idFinSource": 5.0,
+    "idPhase": 3,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "123456",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 1,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 20.0,
+    "idArea": [
+        7
+    ],
+    "communication": [
+        {
+            "idCommunication": 21,
+            "stationingFrom": 103.06700000000001,
+            "stationingTo": 103.9,
+            "gpsN1": 50.2862011,
+            "gpsN2": 50.2863278,
+            "gpsE1": 14.0917489,
+            "gpsE2": 14.0917703
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 153600,
+            "idPriceType": 1
+        },
+        {
+            "value": 416000,
+            "idPriceType": 2
+        },
+        {
+            "value": 160000,
+            "idPriceType": 3
+        },
+        {
+            "value": 2000000,
+            "idPriceType": 4
+        },
+        {
+            "value": 14136370,
+            "idPriceType": 5
+        },
+        {
+            "value": 15000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 355500,
+            "idPriceType": 7
+        },
+        {
+            "value": 400000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-09-12",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-06-28",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-05-05",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-03-04",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2018-03-01",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2020-03-31",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 162,
+            "idContactType": 1
+        },
+        {
+            "idContact": 162,
+            "idContactType": 2
+        },
+        {
+            "idContact": 162,
+            "idContactType": 3
+        },
+        {
+            "idContact": 162,
+            "idContactType": 4
+        }
+    ]
+}

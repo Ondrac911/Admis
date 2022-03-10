@@ -1,0 +1,108 @@
+{
+    "idProject": 79,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-07-09 11:05:09",
+    "name": "II/112 Čechtice, most ev.č. 112-035 přes strouhu před obcí Čechtice",
+    "subject": "Most bude založen na vrtaných pilotách profilu 600mm, vetknutých do štěrkově rozložených pararul. Nosnou konstrukci tvoří monolitická železobetonová rámová konstrukce vybetonovaná na skruži. Křídla objektu jsou vetknuta do rámu a budou betonována zároveň s ním. Příčný sklon mostovky je střechovitý 2,5% s protispádem pod římsami. Deska mostovky bude vyrobena z betonu C30/37-XF2 a z betonářské oceli 10 505 uložené s krytím 45mm při horním povrchu desky a 50mm na vzdušných plochách. Předpokládá se betonáž celé konstrukce v jednom pracovním záběru Celková šířka vozovky na mostě je 7,50m a od odrazného pruhu je oddělena zvýšenou obrubou. Vozovka na mostě je živičná v celkové tloušťce 135mm včetně izolačního souvrství a jeho ochrany. Únosnost mostu musí vyhovět dle zadání (dle Technické specifikace pro PD) zatěžovacímu modelu LM1dle ČSN EN 1991-2.",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": 5.0,
+    "idPhase": 3,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "18040252   19040082",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 20.0,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 13,
+            "stationingFrom": 1.626,
+            "stationingTo": 1.632,
+            "gpsN1": 49.6272544,
+            "gpsN2": 49.627754700000004,
+            "gpsE1": 15.0414603,
+            "gpsE2": 15.0405161
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 34800,
+            "idPriceType": 1
+        },
+        {
+            "value": 499800,
+            "idPriceType": 2
+        },
+        {
+            "value": 34800,
+            "idPriceType": 3
+        },
+        {
+            "value": 499800,
+            "idPriceType": 4
+        },
+        {
+            "value": 6725561,
+            "idPriceType": 6
+        },
+        {
+            "value": 379800,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-01-01",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-01-31",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-02-28",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-02-19",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-04-08",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-09-02",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 29,
+            "idContactType": 1
+        },
+        {
+            "idContact": 29,
+            "idContactType": 2
+        },
+        {
+            "idContact": 29,
+            "idContactType": 3
+        },
+        {
+            "idContact": 29,
+            "idContactType": 4
+        }
+    ]
+}

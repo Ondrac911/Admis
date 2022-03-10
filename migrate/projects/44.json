@@ -1,0 +1,124 @@
+{
+    "idProject": 44,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-05-29 10:57:59",
+    "name": "III/2761 Malá Bělá rekonstrukce mostu ev.č. 2761-1",
+    "subject": "Projektová dokumentace řeší rekonstrukci mostního objektu 2761-1 nacházející se na silnici III/2761 v obci Malá Bělá okres Mladá Boleslav v blízkosti křižovatky se silnicí II/276. Kromě samotné rekonstrukce mostu zahrnuje dokumentace rekonstrukci přilehlých úseků komunikace, přeložku plynovodu a objekt trubní propusti.  V blízkosti řešeného mostu se nachází most 2761-2, který je řešen spolu s komunikací, přeložkou vodovodu, přeložkou sdělovacích vedení a dalšími stavebními pracemi v samostatné projektové dokumentaci „III/2761 Malá Bělá rekonstrukce mostu ev.č. 2761-2“. Most 2761-1 převádí silnici III/2761 přes vodní tok Bělá. Rekonstrukce mostního objektu si vyžádá kompletní opravu obou předpolí mostu. Výsledkem bude vozovka vyhovující nynějším požadavkům včetně chybějících komunikací pro pěší. Celková délka řešeného úseku komunikace včetně mostního objektu činí 15,09m od hranice se silnicí II/276. Z důvodu doplnění odvodnění a nutnosti přeložek inženýrských sítí budou stavební práce probíhat i na této komunikaci.  Celková délka řešeného úseku komunikace včetně mostního objektu činí 15,09 m od hranice se silnicí II/276. ",
+    "editor": "jan.fidler",
+    "author": "jan.fidler",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": "a",
+    "noteGinisOrAthena": "VZ-381/19",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 1,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 16.0,
+    "idArea": [
+        3
+    ],
+    "communication": [
+        {
+            "idCommunication": 1391,
+            "stationingFrom": 0.0,
+            "stationingTo": 0.015,
+            "gpsN1": 50.487174700000004,
+            "gpsN2": 50.48726,
+            "gpsE1": 14.9247733,
+            "gpsE2": 14.9248753
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 20000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1236700,
+            "idPriceType": 2
+        },
+        {
+            "value": 20000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1236700,
+            "idPriceType": 4
+        },
+        {
+            "value": 11313329,
+            "idPriceType": 6
+        },
+        {
+            "value": 300000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-04-30",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2017-06-30",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2017-07-30",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2017-10-31",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2018-04-30",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-05-31",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-05-03",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-07-31",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-01-28",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-09-30",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 47,
+            "idContactType": 1
+        },
+        {
+            "idContact": 47,
+            "idContactType": 2
+        },
+        {
+            "idContact": 47,
+            "idContactType": 3
+        },
+        {
+            "idContact": 47,
+            "idContactType": 4
+        }
+    ]
+}

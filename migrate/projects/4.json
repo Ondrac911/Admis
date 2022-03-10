@@ -1,0 +1,120 @@
+{
+    "idProject": 4,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-05-13 09:33:14",
+    "name": "III/2769 Kosmonosy, most ev. č. 2769-1 přes dálnici D10 u Kosmonos",
+    "subject": "Demolice a výstavba nového mostu ev. č. 2769-1",
+    "editor": "marek.hanus",
+    "author": "marek.hanus",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        3
+    ],
+    "communication": [
+        {
+            "idCommunication": 1399,
+            "stationingFrom": 1.0,
+            "stationingTo": 1.15,
+            "gpsN1": 50.441778899999996,
+            "gpsN2": 50.441396399999995,
+            "gpsE1": 14.9427764,
+            "gpsE2": 14.9412742
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 121100,
+            "idPriceType": 1
+        },
+        {
+            "value": 186100,
+            "idPriceType": 2
+        },
+        {
+            "value": 100000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1220998,
+            "idPriceType": 4
+        },
+        {
+            "value": 50000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 1000000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-06-14",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2019-07-05",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2018-09-05",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-12-05",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2020-03-05",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2020-04-06",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2020-12-07",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2020-09-07",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2020-11-06",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 28,
+            "idContactType": 1
+        },
+        {
+            "idContact": 28,
+            "idContactType": 2
+        },
+        {
+            "idContact": 28,
+            "idContactType": 3
+        },
+        {
+            "idContact": 28,
+            "idContactType": 4
+        }
+    ]
+}

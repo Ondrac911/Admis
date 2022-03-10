@@ -1,0 +1,120 @@
+{
+    "idProject": 69,
+    "idProjectType": 1,
+    "idProjectSubtype": "2.0",
+    "created": "2019-06-25 15:13:06",
+    "name": "II/272 Litol - Lysá nad Labem, 2. stavba",
+    "subject": "stavba obchvatu (přeložky silnice II/272) kolem obcí Litol a Lysá nad Labem v délce 4,328 km. Součástí stavby jsou i okružní křižovatky (4x) a přeložka polní cesty.",
+    "editor": "petr.nadvornik",
+    "author": "petr.nadvornik",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        9
+    ],
+    "communication": [
+        {
+            "idCommunication": 64,
+            "stationingFrom": 0.0,
+            "stationingTo": 4.328,
+            "gpsN1": 50.185844700000004,
+            "gpsN2": 50.215073100000005,
+            "gpsE1": 14.86019,
+            "gpsE2": 14.845169699999998
+        }
+    ],
+    "assignments": "v současné době bylo podáno odvoláni proti územnímu řízení. Hned jak nabyde územní rozhodnutí právní moci, je nutné zapsat geometrický plán stavby  do katastru nemovitosti a následně bude zahájena IČ na stavební povolení a majetkovou činnost.",
+    "price": [
+        {
+            "value": 480000,
+            "idPriceType": 1
+        },
+        {
+            "value": 4136860,
+            "idPriceType": 2
+        },
+        {
+            "value": 480000,
+            "idPriceType": 3
+        },
+        {
+            "value": 4136860,
+            "idPriceType": 4
+        },
+        {
+            "value": 469563197,
+            "idPriceType": 6
+        },
+        {
+            "value": 116410229,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-12-04",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2017-12-31",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2018-04-30",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-06-25",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2018-07-31",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-08-31",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-08-31",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-08-31",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2020-01-01",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 158,
+            "idContactType": 1
+        },
+        {
+            "idContact": 157,
+            "idContactType": 2
+        },
+        {
+            "idContact": 157,
+            "idContactType": 3
+        },
+        {
+            "idContact": 157,
+            "idContactType": 4
+        }
+    ]
+}

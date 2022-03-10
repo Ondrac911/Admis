@@ -1,0 +1,108 @@
+{
+    "idProject": 61,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-06-14 13:07:33",
+    "name": "II/240 Černý Vůl, most ev. č. 240-008 přes potok",
+    "subject": "rekontrukce mostu",
+    "editor": "petr.nadvornik",
+    "author": "petr.nadvornik",
+    "idFinSource": 5.0,
+    "idPhase": 3,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "EVZ 18040218, TDS+ BOZP 18040219",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 18.0,
+    "idArea": [
+        11
+    ],
+    "communication": [
+        {
+            "idCommunication": 52,
+            "stationingFrom": 4.5969999999999995,
+            "stationingTo": 4.598,
+            "gpsN1": 50.1478883,
+            "gpsN2": 50.148056700000005,
+            "gpsE1": 14.334315,
+            "gpsE2": 14.333928899999998
+        }
+    ],
+    "assignments": "Problém s vydáním SP, řeší se na KÚ a bude nejspíš celé nové stavební řízení\r\nZatím nepředáno k realizaci!",
+    "price": [
+        {
+            "value": 52000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1095000,
+            "idPriceType": 2
+        },
+        {
+            "value": 52000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1095000,
+            "idPriceType": 4
+        },
+        {
+            "value": 9287111,
+            "idPriceType": 6
+        },
+        {
+            "value": 446000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-06-14",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-06-14",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-01-01",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-06-14",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2020-03-01",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-06-14",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 135,
+            "idContactType": 1
+        },
+        {
+            "idContact": 135,
+            "idContactType": 2
+        },
+        {
+            "idContact": 135,
+            "idContactType": 3
+        },
+        {
+            "idContact": 135,
+            "idContactType": 4
+        }
+    ]
+}

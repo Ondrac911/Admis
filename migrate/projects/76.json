@@ -1,0 +1,156 @@
+{
+    "idProject": 76,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-07-04 08:46:58",
+    "name": "II/335 Uhlířské Janovice - Staňkovice, rekonstrukce vozovky a odstranění bodové závady (1.etapa)",
+    "subject": "Zájmové území stavby se nachází na silnici II/335 v úseku provozního staničení 28,345 – 29,918. Začátek stavby je umístěn v blízkosti křižovatky se silnicí III/33514 ve směru do Nové Vsi. Konec úpravy je stanoven v křižovatce se silnicí II/125.Předmětem rekonstrukce je sanace krajů vozovky, zesílení konstrukce vozovky, obnova odvodnění, kompletní rekonstrukce propustků, výměnu svodidel a kácení. V úseku se nachází přesypaný mostní objekt ev.č. 335-014, který prošel kompletní rekonstrukcí v roce 2008. V úseku mostního objektu dojde pouze k výměně krytových vrstev vozovky.",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": 5.0,
+    "idPhase": 2,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "18040023  19040156",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 22.0,
+    "idArea": [
+        1
+    ],
+    "communication": [
+        {
+            "idCommunication": 89,
+            "stationingFrom": 28.345,
+            "stationingTo": 29.918000000000003,
+            "gpsN1": 49.878426899999994,
+            "gpsN2": 49.879865,
+            "gpsE1": 15.058523300000001,
+            "gpsE2": 15.037151399999999
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 24000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1986000,
+            "idPriceType": 2
+        },
+        {
+            "value": 24000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1986000,
+            "idPriceType": 4
+        },
+        {
+            "value": 33996799,
+            "idPriceType": 5
+        },
+        {
+            "value": 33996799,
+            "idPriceType": 6
+        },
+        {
+            "value": 719000,
+            "idPriceType": 7
+        },
+        {
+            "value": 719000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-11-01",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2017-11-01",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2017-11-01",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2017-11-01",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2017-11-01",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2017-11-01",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2017-11-30",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2017-11-01",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2018-03-29",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-03-28",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 27,
+            "idContactType": 1
+        },
+        {
+            "idContact": 27,
+            "idContactType": 2
+        },
+        {
+            "idContact": 27,
+            "idContactType": 3
+        },
+        {
+            "idContact": 27,
+            "idContactType": 4
+        },
+        {
+            "idContact": 164,
+            "idContactType": 5
+        },
+        {
+            "idContact": 164,
+            "idContactType": 6
+        },
+        {
+            "idContact": 119,
+            "idContactType": 9
+        },
+        {
+            "idContact": 166,
+            "idContactType": 10
+        },
+        {
+            "idContact": 119,
+            "idContactType": 11
+        },
+        {
+            "idContact": 165,
+            "idContactType": 12
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "idProject": 15,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-05-15 15:37:21",
+    "name": "II/603 Sulice - Želivec",
+    "subject": "Provedení diagnostiky vozovky a mostů, zpracování PD (vč. případné opravy objízdných tras) zajištění stavebního povolení. Projektová dokumentace bude zpracována v rozsahu DUR, DSP, PDPS, AD a výkon IČ k UR a SP včetně majetkoprávní přípravy. Na základě výsledků diagnostiky a PD provedení navržené technologie rekonstrukce vozovky v délce 4674 m dle PD, šířkové sjednocení na 6,5m, staničení cca 8,226 – 12,900 km. Obnova, úprava popř. doplnění, odvodňovacího systému, rekonstrukce (oprava) propustků, rekonstrukce (snesení) mostů ev.č. 611-010 a ev.č.603-011 a jejich nahrazení trubními propustky DN1000. Návaznost na dopracování PD SUDOP, 2012, II/603 Želivec, most ev.č.603-010.",
+    "editor": "jakub.sladek",
+    "author": "jakub.sladek",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        2
+    ],
+    "communication": [
+        {
+            "idCommunication": 100,
+            "stationingFrom": 8.226,
+            "stationingTo": 12.9,
+            "gpsN1": 49.928517799999995,
+            "gpsN2": 49.9033986,
+            "gpsE1": 14.5667478,
+            "gpsE2": 14.591466899999999
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 160000,
+            "idPriceType": 1
+        },
+        {
+            "value": 2149900,
+            "idPriceType": 2
+        },
+        {
+            "value": 300000,
+            "idPriceType": 3
+        },
+        {
+            "value": 2200000,
+            "idPriceType": 4
+        },
+        {
+            "value": 26500000,
+            "idPriceType": 6
+        },
+        {
+            "value": 800000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-09-19",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2019-10-19",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2020-01-15",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2020-04-30",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2020-07-30",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2020-08-30",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2021-04-02",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2020-12-30",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2021-02-02",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 81,
+            "idContactType": 1
+        },
+        {
+            "idContact": 81,
+            "idContactType": 2
+        },
+        {
+            "idContact": 81,
+            "idContactType": 3
+        },
+        {
+            "idContact": 81,
+            "idContactType": 4
+        }
+    ]
+}

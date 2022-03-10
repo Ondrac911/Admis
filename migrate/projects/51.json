@@ -1,0 +1,120 @@
+{
+    "idProject": 51,
+    "idProjectType": 1,
+    "idProjectSubtype": "2.0",
+    "created": "2019-05-30 07:54:06",
+    "name": "II/229 Lišany, obchvat",
+    "subject": "Projekt řeší obchvat obce Lišany v kat. S 9,4/70, v délce 3,2 km, se dvěma úrovňovými křižovatkami pro připojení na stávající trasu silnice II/229 jižně a severně od obce a návazností na stávající silnici na začátku a konci úpravy. Součástí trasy obchvatu budou dva mosty přes místní komunikace, most přes Lišanský potom, most přes železniční trať a přeložky dotčených inženýrských sítí. Ve stávající trase silnice II/229 v průtahu obcí Lišany bude provedena oprava vozovky a vyvolané úpravy chodníku a vjezdů, demolice stávajícího mostu přes Lišanský potok s výstavbou nového mostu, ev další úpravy dle požadavku správce komunikace, obce a vlastníků dotčené technické infrastruktury.",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        6
+    ],
+    "communication": [
+        {
+            "idCommunication": 45,
+            "stationingFrom": 31.1,
+            "stationingTo": 34.5,
+            "gpsN1": 50.14421,
+            "gpsN2": 50.1595539,
+            "gpsE1": 13.7367478,
+            "gpsE2": 13.7439575
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 218250,
+            "idPriceType": 1
+        },
+        {
+            "value": 9851750,
+            "idPriceType": 2
+        },
+        {
+            "value": 218250,
+            "idPriceType": 3
+        },
+        {
+            "value": 9851750,
+            "idPriceType": 4
+        },
+        {
+            "value": 476000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 3850000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-12-17",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2109-06-15",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2019-09-15",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-12-15",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2020-03-15",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2020-04-15",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2020-07-15",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2020-04-20",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2020-04-15",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 134,
+            "idContactType": 1
+        },
+        {
+            "idContact": 133,
+            "idContactType": 2
+        },
+        {
+            "idContact": 134,
+            "idContactType": 3
+        },
+        {
+            "idContact": 134,
+            "idContactType": 4
+        }
+    ]
+}

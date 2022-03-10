@@ -1,0 +1,54 @@
+{
+    "idProject": 72,
+    "idProjectType": 1,
+    "idProjectSubtype": "9.0",
+    "created": "2019-06-27 08:33:46",
+    "name": "II/101 Brandýs nad Labem - přeložka - část obchvat Zápy",
+    "subject": "Obchvat městyse Zápy je tvořen přeložkou silnice II/101",
+    "editor": "petr.nadvornik",
+    "author": "petr.nadvornik",
+    "idFinSource": null,
+    "idPhase": 5,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        2
+    ],
+    "communication": [
+        {
+            "idCommunication": 1,
+            "stationingFrom": 111.1,
+            "stationingTo": 112.7,
+            "gpsN1": 50.155182200000006,
+            "gpsN2": 50.1663033,
+            "gpsE1": 14.685275599999999,
+            "gpsE2": 14.6752119
+        }
+    ],
+    "assignments": "Jedná se o Etapu 1 - část 1 = obchvat Zápy, zbytek obchvatu Brandýsa nad Labem je samostatným projektem",
+    "price": [
+        {
+            "value": 11940248,
+            "idPriceType": 4
+        },
+        {
+            "value": 258000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 6450000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [],
+    "contacts": []
+}

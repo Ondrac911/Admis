@@ -1,0 +1,120 @@
+{
+    "idProject": 18,
+    "idProjectType": 2,
+    "idProjectSubtype": "8.0",
+    "created": "2019-06-12 14:48:54",
+    "name": "II/611 Starý Vestec, propustek",
+    "subject": "rekonstrukce propustku na komunikaci II/611",
+    "editor": "jan.fidler",
+    "author": "jan.fidler",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        9
+    ],
+    "communication": [
+        {
+            "idCommunication": 105,
+            "stationingFrom": 19.05,
+            "stationingTo": 19.057000000000002,
+            "gpsN1": 50.1452758,
+            "gpsN2": 50.145309999999995,
+            "gpsE1": 14.843110800000002,
+            "gpsE2": 14.842944400000002
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 50000,
+            "idPriceType": 1
+        },
+        {
+            "value": 95000,
+            "idPriceType": 2
+        },
+        {
+            "value": 50000,
+            "idPriceType": 3
+        },
+        {
+            "value": 95000,
+            "idPriceType": 4
+        },
+        {
+            "value": 10000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 350000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-01-01",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2018-01-01",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2018-01-01",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2018-01-01",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-01-01",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-02-01",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-08-31",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-04-30",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-08-16",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 80,
+            "idContactType": 1
+        },
+        {
+            "idContact": 80,
+            "idContactType": 2
+        },
+        {
+            "idContact": 80,
+            "idContactType": 3
+        },
+        {
+            "idContact": 80,
+            "idContactType": 4
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "idProject": 9,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-05-15 14:16:29",
+    "name": "II/114, most Živohošť - Neveklov",
+    "subject": "Rekonstrukce silnice II/114 je hlavním objektem stavby. Rekonstrukce vychází se stávajícího stavebně-technického stavu a reflektuje ČSN 736101 Projektování silnic a dálnic – říjen 2004. Návrh rekonstrukce a stavebních úprav silnice nezahrnuje úsek v rozmezí km 0.00 – 9.500 v plném rozsahu. Objekt je rozdělen dle vyhodnocení diagnostického průzkumu vozovky a dle posouzení aktuálního stavebně technického stavu na části, které budou součástí řešených stavebních úprav a zahrnují nutnou rekonstrukci. Náplní vybraných částí úseku objektu je rekonstrukce silnice v celé šíři stávající koruny – cca 7,0 – 9,0 m, pročištění podélného systému odvodnění a doplnění zádržného systému. V trase rekonstruované silnice se nachází dvanáct úrovňových křižovatek plus sjezdy na pozemky a polní cesty, případně obytné zóny v intravilánech obcí. Začátek úseku ZÚ v km 0,0 byl upřesněn při místním šetření a odpovídá provoznímu staničení silnice II/114 v km 47,504. Je situován za konec mostu ev.č.114-027 u Živohošti přes Slapskou přehradu. Most není součástí této akce. Konec úseku KÚ je ve staničení 9,5km před křižovatkou se silnicí II/105 před Neveklovem. Křižovatka není součástí této akce. Návrhová rychlost Vn= 70 km/h.",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": 5.0,
+    "idPhase": 3,
+    "ginisOrAthena": "a",
+    "noteGinisOrAthena": "VZ-320/19",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 48.0,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 15,
+            "stationingFrom": 47.53,
+            "stationingTo": 57.05,
+            "gpsN1": 49.7682119,
+            "gpsN2": 49.75423970000001,
+            "gpsE1": 14.4137803,
+            "gpsE2": 14.521583600000001
+        }
+    ],
+    "assignments": "Jakmile přijde SP s nabytím právní moci , doložit na RDK společně s deskami dokumentace DSP - poté kompletně doloženo na RDK",
+    "price": [
+        {
+            "value": 140800,
+            "idPriceType": 1
+        },
+        {
+            "value": 4131182,
+            "idPriceType": 2
+        },
+        {
+            "value": 140800,
+            "idPriceType": 3
+        },
+        {
+            "value": 3414200,
+            "idPriceType": 4
+        },
+        {
+            "value": 146591957,
+            "idPriceType": 6
+        },
+        {
+            "value": 2168513,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-04-30",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-04-30",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-04-30",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-08-28",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-04-25",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2020-03-30",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 24,
+            "idContactType": 1
+        },
+        {
+            "idContact": 24,
+            "idContactType": 2
+        },
+        {
+            "idContact": 48,
+            "idContactType": 3
+        },
+        {
+            "idContact": 24,
+            "idContactType": 4
+        }
+    ]
+}

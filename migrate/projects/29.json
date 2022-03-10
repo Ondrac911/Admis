@@ -1,0 +1,124 @@
+{
+    "idProject": 29,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-05-29 07:00:49",
+    "name": "III/25915 Bezděz, rekonstrukce mostu ev.č. 25915-1",
+    "subject": "Předmětem akce je demolice stávajících konstrukcí , demolice podpěrných konstrukcí mostu, které jsou nad úrovní stávajícího terénu a nebo by vyčnívaly nad nově navržený terén (stativa, horní železobetonové části základových prahů). Ponechány budou pouze spodní části základů ze železobetonu.mostu. Bude provedeno odstranění vozovky a dalších vrstev až na nosníky, včetně svodidel a zábradlí, oddělení nosníků, rozebrání mostních nosníků jeřábem po jednotlivých dílech. Vyzdvihnutí nosníků (případně dvojic nosníků) je nutno z bezpečnostních důvodů provést při výluce železniční trati pod mostem. Účelem mostu je převedení silnice III/25915 přes železniční trať 080 Bakov nad Jizerou – Jedlová. Převáděná silnice III/25915 je komunikace ležící na hranici Libereckého a Středočeského kraje. Jedná se o komunikaci III. třídy, která zajišťuje přístup k obci Bezděz. Také je hojně využívána návštěvníky místního hradu. Ve směru k obci Bezděz se silnice kříží se silnicí I/38. oučástí stavby je i rekonstrukce a rozšíření části navazující komunikace tak, aby šířkové a výškové uspořádání v místě napojení bylo ve shodě se šířkovým a výškovým uspořádáním na mostě. Směrové vedení komunikace v místě mostu navazuje na stávající stav, most je částečně v přímé a částečně v levostranném oblouku o poloměru 100 m. ",
+    "editor": "jan.fidler",
+    "author": "jan.fidler",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 1,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 32.0,
+    "idArea": [
+        3
+    ],
+    "communication": [
+        {
+            "idCommunication": 1247,
+            "stationingFrom": 4.9,
+            "stationingTo": 4.93,
+            "gpsN1": 50.5172436,
+            "gpsN2": 50.5176189,
+            "gpsE1": 14.7257731,
+            "gpsE2": 14.7259875
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 27500,
+            "idPriceType": 1
+        },
+        {
+            "value": 351000,
+            "idPriceType": 2
+        },
+        {
+            "value": 27500,
+            "idPriceType": 3
+        },
+        {
+            "value": 351500,
+            "idPriceType": 4
+        },
+        {
+            "value": 12499663,
+            "idPriceType": 6
+        },
+        {
+            "value": 572000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-01-31",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2018-01-01",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2017-01-31",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2017-01-31",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2017-01-01",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2017-01-31",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-02-01",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2017-02-07",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2018-12-22",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-08-31",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 27,
+            "idContactType": 1
+        },
+        {
+            "idContact": 27,
+            "idContactType": 2
+        },
+        {
+            "idContact": 106,
+            "idContactType": 3
+        },
+        {
+            "idContact": 27,
+            "idContactType": 4
+        }
+    ]
+}

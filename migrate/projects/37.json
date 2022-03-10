@@ -1,0 +1,58 @@
+{
+    "idProject": 37,
+    "idProjectType": 1,
+    "idProjectSubtype": "2.0",
+    "created": "2019-05-22 17:24:09",
+    "name": "„Nové dopravní řešení v lokalitě Mělník - Horní Počáply - Liběchov\" ",
+    "subject": "1.\tZpracování variantního řešení obchvatu obce Cítov dle připomínek k oznámení záměru (v podrobnosti na úrovni prověřovací studie). 2.\tZpodrobnění stávající Studie nového dopravního řešení v lokalitě Mělník – Horní Počaply – Liběchov (Mott MacDonald, březen 2018) pro účely dokumentace EIA – zpracování vodohospodářského řešení a orientačního záborového elaborátu pro účely dokumentace EIA.",
+    "editor": "jakub.sladek",
+    "author": "jakub.sladek",
+    "idFinSource": null,
+    "idPhase": 5,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        12
+    ],
+    "communication": [
+        {
+            "idCommunication": 59,
+            "stationingFrom": 0.0,
+            "stationingTo": 2.1,
+            "gpsN1": 50.3671744,
+            "gpsN2": 50.376809200000004,
+            "gpsE1": 14.4164753,
+            "gpsE2": 14.371929199999999
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 100000,
+            "idPriceType": 3
+        },
+        {
+            "value": 3000000,
+            "idPriceType": 4
+        },
+        {
+            "value": 50000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 2000000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [],
+    "contacts": []
+}

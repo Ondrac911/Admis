@@ -1,0 +1,120 @@
+{
+    "idProject": 17,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-05-17 09:48:48",
+    "name": "II/125 Louňovice - Kamberk",
+    "subject": "Jedná se o rekonstrukci stávající silnice II/125 v úseku mezi obcemi Kamberk – Louňovice staničení silniční km 5,788 – km 13,000. Prochází krajinou zemědělsky obdělávanou. Část trasy komunikace prochází přes následující obce Kamberk – Předbořice – Louňovice pod Blaníkem. Rekonstrukce spočívá v úpravě šířky zpevněné vozovky. Současná šířka je nevyhovující pro kat. sil.II tř. Obdobně konstrukce vozovky je v nevyhovujícím stavu. Nový návrh konstrukce splňuje podmínku 25 let dle ČSN 73601 kap. 6.2.2.",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 29,
+            "stationingFrom": 5.787999999999999,
+            "stationingTo": 13.0,
+            "gpsN1": 49.5986689,
+            "gpsN2": 49.6344814,
+            "gpsE1": 14.8376122,
+            "gpsE2": 14.8452511
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 69600,
+            "idPriceType": 1
+        },
+        {
+            "value": 2248800,
+            "idPriceType": 2
+        },
+        {
+            "value": 69600,
+            "idPriceType": 3
+        },
+        {
+            "value": 2248800,
+            "idPriceType": 4
+        },
+        {
+            "value": 74380165,
+            "idPriceType": 6
+        },
+        {
+            "value": 1465702,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-07-19",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2018-08-30",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2018-11-09",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-07-31",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-10-31",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-12-31",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2020-02-29",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2020-06-30",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 24,
+            "idContactType": 1
+        },
+        {
+            "idContact": 67,
+            "idContactType": 2
+        },
+        {
+            "idContact": 48,
+            "idContactType": 3
+        },
+        {
+            "idContact": 24,
+            "idContactType": 4
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "idProject": 50,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-05-29 17:03:00",
+    "name": "II/273 Mšeno, průtah",
+    "subject": "Předmětem dokumentace je rekonstrukce cca 700 m dlouhého úseku silnice II/273 – Mělnické ulice, která tvoří hlavní průtah městem Mšeno. Řešený úsek se nachází na vjezdu do Mšena ve směru od Mělníka (z jihu). Samotný začátek úseku je situován těsně před čerpací stanici pohonných hmot (ČSPH), konec úseku je pak navržen za křižovatkou s Husovou ulicí, tedy v místě, kde začíná již rekonstruovaný úsek silnice. Většina délky úseku se nachází ve městě Mšeně. Svislá dopravní značka IZ 4a označující začátek obce je osazena přibližně v km 0,142. Předmětem projektu je jak rekonstrukce samotné vozovky, tak také rekonstrukce přilehlých ploch včetně chodníků. Dále je navržena nová zárubní zeď v úseku podél nově vytvořeného parkovacího pruhu a příjezdu ke hřbitovu včetně nutného zajištění věžové trafostanice, prodloužení kanalizace, výměna uličních vpustí, zaústění dešťových svodů ze střech přilehlých domů, uložení kabelového vedení vysokého napětí do země, přeložka kabelů nízkého napětí v místě parkovacího pruhu, ale i ochrana stávajících sdělovacích kabelů a přeložka účastnického rozvaděče. V neposlední řadě dojde k obnově svislého a vodorovného dopravního značení.",
+    "editor": "milan.peska",
+    "author": "milan.peska",
+    "idFinSource": 5.0,
+    "idPhase": 2,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "1",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 20.0,
+    "idArea": [
+        12
+    ],
+    "communication": [
+        {
+            "idCommunication": 66,
+            "stationingFrom": 15.425999999999998,
+            "stationingTo": 16.162,
+            "gpsN1": 50.4332644,
+            "gpsN2": 50.4388408,
+            "gpsE1": 14.627344199999998,
+            "gpsE2": 14.630305300000002
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 138000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1162500,
+            "idPriceType": 2
+        },
+        {
+            "value": 138000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1162500,
+            "idPriceType": 4
+        },
+        {
+            "value": 29510262,
+            "idPriceType": 5
+        },
+        {
+            "value": 29510262,
+            "idPriceType": 6
+        },
+        {
+            "value": 587070,
+            "idPriceType": 7
+        },
+        {
+            "value": 587070,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-04-17",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2019-04-17",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2019-04-17",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-04-18",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-04-11",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-04-17",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-04-25",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-04-18",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-04-13",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2018-07-20",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 130,
+            "idContactType": 1
+        },
+        {
+            "idContact": 130,
+            "idContactType": 2
+        },
+        {
+            "idContact": 130,
+            "idContactType": 3
+        },
+        {
+            "idContact": 130,
+            "idContactType": 4
+        },
+        {
+            "idContact": 131,
+            "idContactType": 5
+        },
+        {
+            "idContact": 131,
+            "idContactType": 6
+        },
+        {
+            "idContact": 36,
+            "idContactType": 9
+        },
+        {
+            "idContact": 132,
+            "idContactType": 10
+        },
+        {
+            "idContact": 36,
+            "idContactType": 11
+        },
+        {
+            "idContact": 131,
+            "idContactType": 12
+        }
+    ]
+}

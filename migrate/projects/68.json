@@ -1,0 +1,104 @@
+{
+    "idProject": 68,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-06-26 13:56:30",
+    "name": "II/272 Lysá nad Labem, průtah",
+    "subject": "rekonstrukce průtahu obcí Lysá nad Labem, realizace na 3 etapy",
+    "editor": "petr.nadvornik",
+    "author": "petr.nadvornik",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        9
+    ],
+    "communication": [
+        {
+            "idCommunication": 64,
+            "stationingFrom": 16.007,
+            "stationingTo": 16.57,
+            "gpsN1": 50.2087289,
+            "gpsN2": 50.203977200000004,
+            "gpsE1": 14.8454314,
+            "gpsE2": 14.843113899999999
+        }
+    ],
+    "assignments": "Zatím počkat na odsouhlasení financování a vydání SP - podzim 2019; poté zadat na zakázky",
+    "price": [
+        {
+            "value": 75000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1917700,
+            "idPriceType": 2
+        },
+        {
+            "value": 92700,
+            "idPriceType": 3
+        },
+        {
+            "value": 1900000,
+            "idPriceType": 4
+        },
+        {
+            "value": 77000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 2160000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-06-21",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-06-21",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-06-21",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-06-01",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-08-31",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 106,
+            "idContactType": 1
+        },
+        {
+            "idContact": 106,
+            "idContactType": 2
+        },
+        {
+            "idContact": 106,
+            "idContactType": 3
+        },
+        {
+            "idContact": 106,
+            "idContactType": 4
+        }
+    ]
+}

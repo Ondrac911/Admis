@@ -1,0 +1,124 @@
+{
+    "idProject": 21,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-05-30 08:08:14",
+    "name": "II/335 Stříbrná Skalice, průtah",
+    "subject": "Předmětem stavby je oprava vozovky silnice II/335 v průtahu obce Stříbrná Skalice.  Jedná se o opravu stávající komunikace ve stávající trase s úpravou příčného uspořádání (především rozšíření v obloucích a rozšíření komunikace v dílčích úsecích, kde je to technicky a majetkoprávně možné) a lokálními úpravami nivelety v podobě narovnání nivelety, zesílení konstrukce vozovky a v neposlední řadě oprava mostních objektů, oprava odvodnění a bezpečnostní prvky.",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": 5.0,
+    "idPhase": 3,
+    "ginisOrAthena": "a",
+    "noteGinisOrAthena": "VZ-187/19",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 56.0,
+    "idArea": [
+        2
+    ],
+    "communication": [
+        {
+            "idCommunication": 89,
+            "stationingFrom": 8.76,
+            "stationingTo": 11.0,
+            "gpsN1": 49.9031636,
+            "gpsN2": 49.8903919,
+            "gpsE1": 14.833814199999999,
+            "gpsE2": 14.85922
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 50000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1455000,
+            "idPriceType": 2
+        },
+        {
+            "value": 50000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1455000,
+            "idPriceType": 4
+        },
+        {
+            "value": 100370339,
+            "idPriceType": 6
+        },
+        {
+            "value": 1706183,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-03-25",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2017-04-01",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2017-10-31",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2018-09-05",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2018-10-15",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-10-25",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-09-30",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-10-29",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-06-30",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2020-03-01",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 93,
+            "idContactType": 1
+        },
+        {
+            "idContact": 92,
+            "idContactType": 2
+        },
+        {
+            "idContact": 30,
+            "idContactType": 3
+        },
+        {
+            "idContact": 93,
+            "idContactType": 4
+        }
+    ]
+}

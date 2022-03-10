@@ -1,0 +1,120 @@
+{
+    "idProject": 42,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-05-27 12:45:05",
+    "name": "„II/330, Nymburk – most ev.č. 330-003“",
+    "subject": "Jedná se o rekonstrukci mostu na komunikaci II. třídy. Bude provedena výměna stávajícího mostního objektu na silnici II/330 v nezastavěném území města Nymburk, okres Nymburk, za nový rámový most z monolitického železobetonu s plošným založením. Šířka vozovky bude upravena na 7,5m (kategorie S 7,5/70). Součástí je rekonstrukce vozovky v nejnutnějším rozsahu pro plynulé napojení na stávající stav. Most je nyní ve velmi špatném technickém stavu stavu (nosná k-ce v klasifikačním stupni VI.)",
+    "editor": "jakub.sladek",
+    "author": "jakub.sladek",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        9
+    ],
+    "communication": [
+        {
+            "idCommunication": 83,
+            "stationingFrom": 14.217,
+            "stationingTo": 14.23,
+            "gpsN1": 50.1647294,
+            "gpsN2": 50.1647364,
+            "gpsE1": 15.024077199999999,
+            "gpsE2": 15.0238733
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 34500,
+            "idPriceType": 1
+        },
+        {
+            "value": 458018,
+            "idPriceType": 2
+        },
+        {
+            "value": 34500,
+            "idPriceType": 3
+        },
+        {
+            "value": 458018,
+            "idPriceType": 4
+        },
+        {
+            "value": 15863755,
+            "idPriceType": 6
+        },
+        {
+            "value": 410600,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-03-07",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2019-04-09",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2019-04-17",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-04-24",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-04-24",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-04-10",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-04-17",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-04-24",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2018-04-04",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 114,
+            "idContactType": 1
+        },
+        {
+            "idContact": 114,
+            "idContactType": 2
+        },
+        {
+            "idContact": 114,
+            "idContactType": 3
+        },
+        {
+            "idContact": 114,
+            "idContactType": 4
+        }
+    ]
+}

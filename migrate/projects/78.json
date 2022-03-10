@@ -1,0 +1,140 @@
+{
+    "idProject": 78,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-07-30 10:05:40",
+    "name": "II/116 Nižbor - Hýskov, bezpečnostní opatření na silnici",
+    "subject": "Silnice II/116 je v místě stavby vedena v poměrně úzkém koridoru mezi železniční tratí a levým břehem řeky Berounky, těleso komunikace je zajištěno kamennou opěrnou zdí, která svou zvýšenou horní částí představuje bezpečnostní záchytný systém komunikace. ",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": 5.0,
+    "idPhase": 2,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "19040136",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 12.0,
+    "idArea": [
+        5
+    ],
+    "communication": [
+        {
+            "idCommunication": 17,
+            "stationingFrom": 18.5,
+            "stationingTo": 18.7,
+            "gpsN1": 49.999148100000006,
+            "gpsN2": 49.9974239,
+            "gpsE1": 14.0173714,
+            "gpsE2": 14.020890300000001
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 13920,
+            "idPriceType": 1
+        },
+        {
+            "value": 186920,
+            "idPriceType": 2
+        },
+        {
+            "value": 13920,
+            "idPriceType": 3
+        },
+        {
+            "value": 186920,
+            "idPriceType": 4
+        },
+        {
+            "value": 13751109,
+            "idPriceType": 5
+        },
+        {
+            "value": 13751109,
+            "idPriceType": 6
+        },
+        {
+            "value": 327000,
+            "idPriceType": 7
+        },
+        {
+            "value": 327000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-05-02",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-05-02",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-05-02",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-03-01",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2018-05-02",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-07-23",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 31,
+            "idContactType": 1
+        },
+        {
+            "idContact": 31,
+            "idContactType": 2
+        },
+        {
+            "idContact": 31,
+            "idContactType": 3
+        },
+        {
+            "idContact": 31,
+            "idContactType": 4
+        },
+        {
+            "idContact": 38,
+            "idContactType": 5
+        },
+        {
+            "idContact": 39,
+            "idContactType": 6
+        },
+        {
+            "idContact": 90,
+            "idContactType": 9
+        },
+        {
+            "idContact": 180,
+            "idContactType": 10
+        },
+        {
+            "idContact": 90,
+            "idContactType": 11
+        },
+        {
+            "idContact": 40,
+            "idContactType": 12
+        }
+    ]
+}

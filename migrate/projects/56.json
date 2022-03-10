@@ -1,0 +1,141 @@
+{
+    "idProject": 56,
+    "idProjectType": 1,
+    "idProjectSubtype": "1.0",
+    "created": "2019-06-06 09:03:27",
+    "name": "test",
+    "subject": "test predmet",
+    "editor": "dolezon3",
+    "author": "dolezon3",
+    "idFinSource": 4.0,
+    "idPhase": 1,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "gg",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 50.0,
+    "idArea": [
+        1,
+        2
+    ],
+    "communication": [
+        {
+            "idCommunication": 1,
+            "stationingFrom": 10.0,
+            "stationingTo": 20.0,
+            "gpsN1": 49.990775,
+            "gpsN2": 49.9633972,
+            "gpsE1": 14.438499400000001,
+            "gpsE2": 14.5208969
+        }
+    ],
+    "assignments": "ukol",
+    "price": [
+        {
+            "value": 600,
+            "idPriceType": 1
+        },
+        {
+            "value": 500,
+            "idPriceType": 2
+        },
+        {
+            "value": 300,
+            "idPriceType": 3
+        },
+        {
+            "value": 100,
+            "idPriceType": 4
+        },
+        {
+            "value": 5000,
+            "idPriceType": 5
+        },
+        {
+            "value": 200,
+            "idPriceType": 6
+        },
+        {
+            "value": 6000,
+            "idPriceType": 7
+        },
+        {
+            "value": 4000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-06-06",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-06-06",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-06-06",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-06-06",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-06-06",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-06-06",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 29,
+            "idContactType": 1
+        },
+        {
+            "idContact": 30,
+            "idContactType": 2
+        },
+        {
+            "idContact": 29,
+            "idContactType": 3
+        },
+        {
+            "idContact": 91,
+            "idContactType": 4
+        },
+        {
+            "idContact": 93,
+            "idContactType": 5
+        },
+        {
+            "idContact": 92,
+            "idContactType": 6
+        },
+        {
+            "idContact": 93,
+            "idContactType": 9
+        },
+        {
+            "idContact": 30,
+            "idContactType": 10
+        },
+        {
+            "idContact": 30,
+            "idContactType": 11
+        },
+        {
+            "idContact": 44,
+            "idContactType": 12
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "idProject": 26,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-05-20 13:58:21",
+    "name": "II/608 - Nové Ouholice - Nová Ves, rekonstrukce",
+    "subject": "Předmětem stavby je stavební úprava vozovky stávající silnice II/608 v rozsahu zástavby obcí Nové Ouholice a Nová Ves (provozní staničení silnice II/608 km 20,0 – 22,2). V rámci stavby je navrženo sjednocení šířkového uspořádání průtahu silnice obcemi a úprava polohy nivelety v některých částech upravovaného úseku. Dále je součástí stavby výstavba chodníků podél komunikace. Chodníky jsou zčásti v místě stávajících a zčásti nově navrhované v rozsahu stávajícího uličního prostoru. Součástí stavby je dále demolice mostu 608-011 a výstavba nového mostu s větší světlostí proti stávajícímu a stavební úprava mostu 608-014 přes Bakovský potok. V rámci stavby je navržena nová dešťová kanalizace, umístěná v komunikaci, sloužící pro odvádění dešťové vody z povrchu komunikace a chodníků.",
+    "editor": "jakub.sladek",
+    "author": "jakub.sladek",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        12
+    ],
+    "communication": [
+        {
+            "idCommunication": 103,
+            "stationingFrom": 20.0,
+            "stationingTo": 22.2,
+            "gpsN1": 50.2967322,
+            "gpsN2": 50.3136989,
+            "gpsE1": 14.3125044,
+            "gpsE2": 14.3086419
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 100000,
+            "idPriceType": 1
+        },
+        {
+            "value": 562400,
+            "idPriceType": 2
+        },
+        {
+            "value": 100000,
+            "idPriceType": 3
+        },
+        {
+            "value": 500000,
+            "idPriceType": 4
+        },
+        {
+            "value": 32000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 1100000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-01-06",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2019-02-14",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2019-03-28",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-08-01",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-08-20",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-10-02",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2020-03-14",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2020-01-02",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2020-05-15",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 101,
+            "idContactType": 1
+        },
+        {
+            "idContact": 101,
+            "idContactType": 2
+        },
+        {
+            "idContact": 101,
+            "idContactType": 3
+        },
+        {
+            "idContact": 101,
+            "idContactType": 4
+        }
+    ]
+}

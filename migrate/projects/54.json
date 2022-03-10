@@ -1,0 +1,120 @@
+{
+    "idProject": 54,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-07-02 08:20:30",
+    "name": "III/01011 Zápy, most ev. č. 01011-1 přes dálnici D10 před obcí Zápy",
+    "subject": "Demolice stávajícího mostu a výstavba mostu nového",
+    "editor": "marek.hanus",
+    "author": "marek.hanus",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        3
+    ],
+    "communication": [
+        {
+            "idCommunication": 243,
+            "stationingFrom": 2.8,
+            "stationingTo": 2.9,
+            "gpsN1": 50.1670731,
+            "gpsN2": 50.1668736,
+            "gpsE1": 14.6701672,
+            "gpsE2": 14.671390300000002
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 175200,
+            "idPriceType": 1
+        },
+        {
+            "value": 1419300,
+            "idPriceType": 2
+        },
+        {
+            "value": 100000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1481000,
+            "idPriceType": 4
+        },
+        {
+            "value": 22407000,
+            "idPriceType": 6
+        },
+        {
+            "value": 708000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-08-06",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2019-09-06",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2019-12-06",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2020-02-06",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-08-06",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-09-06",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2020-03-06",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-12-06",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2020-02-06",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 137,
+            "idContactType": 1
+        },
+        {
+            "idContact": 137,
+            "idContactType": 2
+        },
+        {
+            "idContact": 137,
+            "idContactType": 3
+        },
+        {
+            "idContact": 137,
+            "idContactType": 4
+        }
+    ]
+}

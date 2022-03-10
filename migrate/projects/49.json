@@ -1,0 +1,128 @@
+{
+    "idProject": 49,
+    "idProjectType": 1,
+    "idProjectSubtype": "2.0",
+    "created": "2019-05-29 14:15:26",
+    "name": "Obchvat Králův Dvůr - silnice II. třídy - I. etapa",
+    "subject": "Novostavba obchvatu Králova Dvora mezi dálnicí D5 a řekou Litavkou",
+    "editor": "petr.nadvornik",
+    "author": "petr.nadvornik",
+    "idFinSource": 5.0,
+    "idPhase": 2,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "035-41/2017/RK",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": 1.0,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 85.0,
+    "idArea": [
+        5
+    ],
+    "communication": [
+        {
+            "idCommunication": 695,
+            "stationingFrom": 0.0,
+            "stationingTo": 0.898,
+            "gpsN1": 49.934305,
+            "gpsN2": 49.94046470000001,
+            "gpsE1": 14.0230436,
+            "gpsE2": 14.0303178
+        }
+    ],
+    "assignments": "Nezapomenout na přefakturaci mezi SčK a KD - dodatek ke smlouvě o spolupráci",
+    "price": [
+        {
+            "value": 39238351,
+            "idPriceType": 5
+        },
+        {
+            "value": 39238351,
+            "idPriceType": 6
+        },
+        {
+            "value": 776700,
+            "idPriceType": 7
+        },
+        {
+            "value": 776700,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-05-29",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-05-29",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2017-11-30",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-05-29",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-05-29",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2018-12-03",
+            "idDeadlineType": 12
+        },
+        {
+            "value": "1.0",
+            "idDeadlineType": 13
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 123,
+            "idContactType": 1
+        },
+        {
+            "idContact": 123,
+            "idContactType": 2
+        },
+        {
+            "idContact": 124,
+            "idContactType": 3
+        },
+        {
+            "idContact": 123,
+            "idContactType": 4
+        },
+        {
+            "idContact": 125,
+            "idContactType": 5
+        },
+        {
+            "idContact": 126,
+            "idContactType": 6
+        },
+        {
+            "idContact": 128,
+            "idContactType": 9
+        },
+        {
+            "idContact": 120,
+            "idContactType": 10
+        },
+        {
+            "idContact": 129,
+            "idContactType": 11
+        },
+        {
+            "idContact": 127,
+            "idContactType": 12
+        }
+    ]
+}

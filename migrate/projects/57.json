@@ -1,0 +1,58 @@
+{
+    "idProject": 57,
+    "idProjectType": 3,
+    "idProjectSubtype": null,
+    "created": "2019-06-06 09:10:56",
+    "name": "Karel Kocián",
+    "subject": "uj",
+    "editor": "dolezon3",
+    "author": "dolezon3",
+    "idFinSource": null,
+    "idPhase": 5,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        1
+    ],
+    "communication": [
+        {
+            "idCommunication": 2,
+            "stationingFrom": 10.0,
+            "stationingTo": 20.0,
+            "gpsN1": 50.004546399999995,
+            "gpsN2": 49.9656942,
+            "gpsE1": 14.6519089,
+            "gpsE2": 14.7658922
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 2,
+            "idPriceType": 3
+        },
+        {
+            "value": 1,
+            "idPriceType": 4
+        },
+        {
+            "value": 3,
+            "idPriceType": 6
+        },
+        {
+            "value": 4,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [],
+    "contacts": []
+}

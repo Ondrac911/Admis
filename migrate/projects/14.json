@@ -1,0 +1,58 @@
+{
+    "idProject": 14,
+    "idProjectType": 2,
+    "idProjectSubtype": "5.0",
+    "created": "2019-05-15 08:36:13",
+    "name": "Pyšely – okružní křižovatka III/6031 × III/1096",
+    "subject": "Jedná se o zpracování projektové dokumentace pro vydání společného povolení (DUSP) a zadání stavby (PDPS) na přestavbu stávající průsečné křižovatky. \tAkce bude řešit přestavbu křižovatky silnice III/6031 (ul. Pražská) a III/1096 (ul. Nádražní) v Pyšelích na jednopruhovou okružní křižovatku. Součástí stavby bude i úprava navazujících pozemních komunikací v nezbytném rozsahu.",
+    "editor": "ales.cermak",
+    "author": "ales.cermak",
+    "idFinSource": null,
+    "idPhase": 5,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 1777,
+            "stationingFrom": 2.2,
+            "stationingTo": 2.25,
+            "gpsN1": 49.874835299999994,
+            "gpsN2": 49.8746658,
+            "gpsE1": 14.6787956,
+            "gpsE2": 14.679369400000002
+        }
+    ],
+    "assignments": "PROMIKA svolá jednání s panem Voslářem - majitelem pozemků pod částí stavby. Bude objednán 3D model pro propagaci stavby.",
+    "price": [
+        {
+            "value": 48750,
+            "idPriceType": 3
+        },
+        {
+            "value": 1518750,
+            "idPriceType": 4
+        },
+        {
+            "value": 25000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 300000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [],
+    "contacts": []
+}

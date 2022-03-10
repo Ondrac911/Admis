@@ -1,0 +1,96 @@
+{
+    "idProject": 70,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-06-25 15:34:28",
+    "name": "II/272 Litol, rekonstrukce",
+    "subject": "Rekonstrukce silnice II/272 v části Lysé nad Labem – Litol. Jedná se o úsek ul. Mírová od křižovatky s ul. Na Zemské stezce, Dobrovského sady a část ul. Jiráskova k mostu přes Litolskou svodnici.",
+    "editor": "petr.nadvornik",
+    "author": "petr.nadvornik",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        9
+    ],
+    "communication": [
+        {
+            "idCommunication": 64,
+            "stationingFrom": 13.1,
+            "stationingTo": 14.6,
+            "gpsN1": 50.1928511,
+            "gpsN2": 50.1838525,
+            "gpsE1": 14.8491264,
+            "gpsE2": 14.854490799999999
+        }
+    ],
+    "assignments": "Součástí je i projekt Lysá Nad Labem, Litol –Rekonstrukce kanalizace v ul. Mírová vč. ČSOV",
+    "price": [
+        {
+            "value": 1272000,
+            "idPriceType": 2
+        },
+        {
+            "value": 1090000,
+            "idPriceType": 4
+        },
+        {
+            "value": 104265799,
+            "idPriceType": 6
+        },
+        {
+            "value": 3000000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-06-25",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-06-25",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-04-30",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-06-25",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-06-25",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 159,
+            "idContactType": 1
+        },
+        {
+            "idContact": 159,
+            "idContactType": 2
+        },
+        {
+            "idContact": 159,
+            "idContactType": 3
+        },
+        {
+            "idContact": 159,
+            "idContactType": 4
+        }
+    ]
+}

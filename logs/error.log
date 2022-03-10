@@ -1,0 +1,1857 @@
+
+03/07/2021 12:50:20 pm
+insertProject
+Array
+(
+    [price] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 
+                    [idPriceType] => 11
+                )
+
+            [1] => Array
+                (
+                    [value] => 
+                    [idPriceType] => 12
+                )
+
+        )
+
+    [idFinSource] => 
+    [noteGinisOrAthena] => GINIS CISLO
+    [dateEvidenceToggle] => 1
+    [dateEvidence] => 1
+    [deadlines] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 
+                    [note] => 
+                    [idDeadlineType] => 13
+                )
+
+        )
+
+    [idPhase] => 4
+    [idProject] => 257
+    [inConcept] => 1
+)
+
+442
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`admis_new`.`projects`, CONSTRAINT `FK_Reference_23` FOREIGN KEY (`idFinSource`) REFERENCES `rangeFinancialSources` (`idFinSource`))
+03/07/2021 12:52:37 pm
+insertProject
+Array
+(
+    [price] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 
+                    [idPriceType] => 11
+                )
+
+            [1] => Array
+                (
+                    [value] => 
+                    [idPriceType] => 12
+                )
+
+        )
+
+    [idFinSource] => 
+    [noteGinisOrAthena] => GINIS CISLO
+    [dateEvidenceToggle] => 1
+    [dateEvidence] => 1
+    [deadlines] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 
+                    [note] => 
+                    [idDeadlineType] => 13
+                )
+
+        )
+
+    [idPhase] => 4
+    [idProject] => 257
+    [inConcept] => 1
+)
+
+442
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`admis_new`.`projects`, CONSTRAINT `FK_Reference_23` FOREIGN KEY (`idFinSource`) REFERENCES `rangeFinancialSources` (`idFinSource`))
+03/07/2021 12:55:00 pm
+insertProject
+Array
+(
+    [price] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 
+                    [idPriceType] => 11
+                )
+
+            [1] => Array
+                (
+                    [value] => 
+                    [idPriceType] => 12
+                )
+
+        )
+
+    [idFinSource] => 
+    [noteGinisOrAthena] => GINIS CISLO
+    [dateEvidenceToggle] => 1
+    [dateEvidence] => 1
+    [deadlines] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 
+                    [note] => 
+                    [idDeadlineType] => 13
+                )
+
+        )
+
+    [idPhase] => 4
+    [idProject] => 257
+    [inConcept] => 1
+)
+
+442
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`admis_new`.`projects`, CONSTRAINT `FK_Reference_23` FOREIGN KEY (`idFinSource`) REFERENCES `rangeFinancialSources` (`idFinSource`))
+03/07/2021 12:56:40 pm
+insertProject
+Array
+(
+    [price] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 
+                    [idPriceType] => 11
+                )
+
+            [1] => Array
+                (
+                    [value] => 
+                    [idPriceType] => 12
+                )
+
+        )
+
+    [idFinSource] => 
+    [noteGinisOrAthena] => GINIS CISLO
+    [dateEvidenceToggle] => 1
+    [dateEvidence] => 1
+    [deadlines] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 
+                    [note] => 
+                    [idDeadlineType] => 13
+                )
+
+        )
+
+    [idPhase] => 4
+    [idProject] => 257
+    [inConcept] => 1
+)
+
+442
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`admis_new`.`projects`, CONSTRAINT `FK_Reference_23` FOREIGN KEY (`idFinSource`) REFERENCES `rangeFinancialSources` (`idFinSource`))
+03/07/2021 01:00:01 pm
+insertProject
+Array
+(
+    [price] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 
+                    [idPriceType] => 11
+                )
+
+            [1] => Array
+                (
+                    [value] => 
+                    [idPriceType] => 12
+                )
+
+        )
+
+    [idFinSource] => 
+    [noteGinisOrAthena] => GINIS CISLO
+    [dateEvidenceToggle] => 1
+    [dateEvidence] => 1
+    [deadlines] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 07/03/2021
+                    [note] => 
+                    [idDeadlineType] => 13
+                )
+
+        )
+
+    [idPhase] => 4
+    [idProject] => 257
+    [inConcept] => 1
+)
+
+441
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`admis_new`.`projects`, CONSTRAINT `FK_Reference_23` FOREIGN KEY (`idFinSource`) REFERENCES `rangeFinancialSources` (`idFinSource`))
+04/13/2021 10:54:07 am
+newFileUpload
+Array
+(
+    [file2Upload] => Array
+        (
+            [name] => Cistopis_II_115_Lety_DUR_AKTUALIZACE.zip
+            [type] => 
+            [tmp_name] => 
+            [error] => 3
+            [size] => 0
+        )
+
+)
+
+3687
+There is no active transaction
+07/22/2021 09:29:24 am
+newFileUpload
+Array
+(
+    [file2Upload] => Array
+        (
+            [name] => D4 .zip
+            [type] => 
+            [tmp_name] => 
+            [error] => 3
+            [size] => 0
+        )
+
+)
+
+3687
+There is no active transaction
+07/22/2021 09:33:22 am
+newFileUpload
+Array
+(
+    [file2Upload] => Array
+        (
+            [name] => 2018.12.20_CD_cistopis_studie_Ritka.zip
+            [type] => 
+            [tmp_name] => 
+            [error] => 3
+            [size] => 0
+        )
+
+)
+
+3687
+There is no active transaction
+07/27/2021 02:09:17 pm
+newFileUpload
+Array
+(
+    [file2Upload] => Array
+        (
+            [name] => II106 KrĹany, obchvat - Koncept DĂšR.zip
+            [type] => application/x-zip-compressed
+            [tmp_name] => /var/www/tmp/phpNhyM6j
+            [error] => 0
+            [size] => 101870528
+        )
+
+)
+
+3668
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC2[ver....' for column `admis_new`.`projects2documents`.`name` at row 1
+07/27/2021 02:10:46 pm
+newFileUpload
+Array
+(
+    [file2Upload] => Array
+        (
+            [name] => II106 KrĹany, obchvat - Koncept DĂšR.zip
+            [type] => application/x-zip-compressed
+            [tmp_name] => /var/www/tmp/phpBzjpzr
+            [error] => 0
+            [size] => 101870528
+        )
+
+)
+
+3668
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC2[ver....' for column `admis_new`.`projects2documents`.`name` at row 1
+07/28/2021 12:44:23 pm
+newFileUpload
+Array
+(
+    [file2Upload] => Array
+        (
+            [name] => SoD_Mochov_TDS+BOZP.pdf
+            [type] => 
+            [tmp_name] => 
+            [error] => 3
+            [size] => 0
+        )
+
+)
+
+3687
+There is no active transaction
+08/10/2021 02:08:08 pm
+insertProject
+Array
+(
+    [idPhase] => 5
+    [name] => TEST3
+    [subject] => <p>ttest</p>
+    [idProjectType] => 1
+    [idProjectSubtype] => 1
+    [relation] => Array
+        (
+            [0] => Array
+                (
+                    [idRelationType] => 1
+                )
+
+            [1] => Array
+                (
+                    [idRelationType] => 2
+                )
+
+            [2] => Array
+                (
+                    [idRelationType] => 3
+                )
+
+        )
+
+    [editor] => dolezon3
+    [assignments] => 
+    [idArea] => Array
+        (
+            [0] => 12
+            [1] => 
+        )
+
+    [communication] => Array
+        (
+            [0] => Array
+                (
+                    [idCommunication] => 2
+                    [stationingFrom] => 1
+                    [stationingTo] => 5
+                    [gpsE1] => 14.3959275
+                    [gpsN1] => 49.9024036
+                    [gpsE2] => 14.5167772
+                    [gpsN2] => 49.8953269
+                )
+
+        )
+
+    [mergePricePDAD] => 0
+    [price] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 10493668.09
+                    [idPriceType] => 6
+                )
+
+            [1] => Array
+                (
+                    [value] => 10493668.09
+                    [idPriceType] => 8
+                )
+
+            [2] => Array
+                (
+                    [value] => 10493668.09
+                    [idPriceType] => 4
+                )
+
+            [3] => Array
+                (
+                    [value] => 10493668.09
+                    [idPriceType] => 3
+                )
+
+            [4] => Array
+                (
+                    [idPriceType] => 13
+                )
+
+        )
+
+)
+
+447
+Chyba pri vytvareni kraje
+08/10/2021 02:08:22 pm
+insertProject
+Array
+(
+    [idPhase] => 5
+    [name] => TEST3
+    [subject] => <p>ttest</p>
+    [idProjectType] => 1
+    [idProjectSubtype] => 1
+    [relation] => Array
+        (
+            [0] => Array
+                (
+                    [idRelationType] => 1
+                )
+
+            [1] => Array
+                (
+                    [idRelationType] => 2
+                )
+
+            [2] => Array
+                (
+                    [idRelationType] => 3
+                )
+
+        )
+
+    [editor] => dolezon3
+    [assignments] => 
+    [idArea] => Array
+        (
+            [0] => 12
+            [1] => 
+        )
+
+    [communication] => Array
+        (
+            [0] => Array
+                (
+                    [idCommunication] => 2
+                    [stationingFrom] => 1
+                    [stationingTo] => 5
+                    [gpsE1] => 14.3959275
+                    [gpsN1] => 49.9024036
+                    [gpsE2] => 14.5167772
+                    [gpsN2] => 49.8953269
+                )
+
+        )
+
+    [mergePricePDAD] => 0
+    [price] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 10493668.09
+                    [idPriceType] => 6
+                )
+
+            [1] => Array
+                (
+                    [value] => 10493668.09
+                    [idPriceType] => 8
+                )
+
+            [2] => Array
+                (
+                    [value] => 10493668.09
+                    [idPriceType] => 4
+                )
+
+            [3] => Array
+                (
+                    [value] => 10493668.09
+                    [idPriceType] => 3
+                )
+
+            [4] => Array
+                (
+                    [idPriceType] => 13
+                )
+
+        )
+
+)
+
+447
+Chyba pri vytvareni kraje
+09/15/2021 10:11:36 am
+createContact
+fucntions - createContact
+522
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'phone' at row 1
+09/15/2021 10:11:36 am
+createContact
+fucntions - createContact
+522
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'phone' at row 1
+09/15/2021 10:11:36 am
+createContact
+fucntions - createContact
+522
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'phone' at row 1
+10/29/2021 01:29:36 pm
+createContact
+fucntions - updateContanctPhone
+554
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:29:39 pm
+insertProject
+Array
+(
+    [idProject] => 205
+    [idPhase] => 4
+    [name] => Velká Dobrá - okružní křižovatka Berounská
+    [subject] => <p>V&yacute;stavba okružn&iacute; křižovatky při sjezdu/n&aacute;jezdu z/na d&aacute;lnice/i D6 směr Karlovy Vary (n&aacute;vaznost na ul. Berounskou<span style="font-family: Calibri, sans-serif; font-size: 11pt;">). Vněj&scaron;&iacute; průměr okružn&iacute; křižovatky bude 33,5 m.</span><span style="font-family: Calibri, sans-serif; font-size: 11pt;">Projektovou dokumentaci si nechala zpracovat obec Velk&aacute; Dobr&aacute;. Slučen&aacute; dokumentace DUSP. Autorsk&yacute; dozor nen&iacute; obc&iacute; zasmluvněn.</span></p>
+    [idProjectType] => 2
+    [idProjectSubtype] => 5
+    [relation] => Array
+        (
+            [0] => Array
+                (
+                    [idRelationType] => 1
+                )
+
+            [1] => Array
+                (
+                    [idRelationType] => 2
+                )
+
+            [2] => Array
+                (
+                    [idRelationType] => 3
+                )
+
+        )
+
+    [editor] => jan.fidler
+    [assignments] => <p>Svolat v&yacute;robn&iacute; v&yacute;bor 01/2021</p>
+    [idArea] => Array
+        (
+            [0] => 7
+        )
+
+    [communication] => Array
+        (
+            [0] => Array
+                (
+                    [idCommunication] => 176
+                    [stationingFrom] => 4.600
+                    [stationingTo] => 4.650
+                    [gpsE1] => 14.077610969543
+                    [gpsN1] => 50.106914520264
+                    [gpsE2] => 14.077498435974
+                    [gpsN2] => 50.107456207275
+                )
+
+        )
+
+    [price] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 1.00
+                    [idPriceType] => 2
+                )
+
+            [1] => Array
+                (
+                    [value] => 20000000.00
+                    [idPriceType] => 6
+                )
+
+            [2] => Array
+                (
+                    [value] => 1.00
+                    [idPriceType] => 1
+                )
+
+            [3] => Array
+                (
+                    [value] => 600000.00
+                    [idPriceType] => 8
+                )
+
+        )
+
+    [company] => Array
+        (
+            [0] => Array
+                (
+                    [idCompany] => 101
+                    [idCompanyType] => 1
+                )
+
+        )
+
+    [contact] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Vít Ondráček
+                    [email] => vit.ondracek@pdprojekce.cz
+                    [phone] => 111222333
+                    [idContactType] => 1
+                    [idCompany] => 101
+                )
+
+            [1] => Array
+                (
+                    [name] => Milan Tesař
+                    [email] => milan.tesar@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 2
+                    [idCompany] => 101
+                )
+
+            [2] => Array
+                (
+                    [name] => Milan Tesař
+                    [email] => milan.tesar@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 3
+                    [idCompany] => 101
+                )
+
+            [3] => Array
+                (
+                    [name] => Milan Tesař
+                    [email] => milan.tesar@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 4
+                    [idCompany] => 101
+                )
+
+        )
+
+    [deadlineDurUrRequired] => 0
+    [deadlineEIARequired] => 0
+    [deadlineStudyRequired] => 0
+    [mergedDeadlines] => 0
+    [deadlineTesRequired] => 0
+    [deadlines] => Array
+        (
+            [0] => Array
+                (
+                    [idDeadlineType] => 1
+                )
+
+            [1] => Array
+                (
+                    [idDeadlineType] => 16
+                )
+
+            [2] => Array
+                (
+                    [idDeadlineType] => 8
+                )
+
+            [3] => Array
+                (
+                    [idDeadlineType] => 2
+                )
+
+            [4] => Array
+                (
+                    [idDeadlineType] => 17
+                )
+
+            [5] => Array
+                (
+                    [idDeadlineType] => 9
+                )
+
+            [6] => Array
+                (
+                    [idDeadlineType] => 18
+                )
+
+            [7] => Array
+                (
+                    [idDeadlineType] => 3
+                )
+
+            [8] => Array
+                (
+                    [value] => 31/01/2022
+                    [note] => 
+                    [idDeadlineType] => 5
+                )
+
+            [9] => Array
+                (
+                    [idDeadlineType] => 4
+                )
+
+            [10] => Array
+                (
+                    [value] => 28/02/2022
+                    [note] => 
+                    [idDeadlineType] => 6
+                )
+
+            [11] => Array
+                (
+                    [idDeadlineType] => 19
+                )
+
+            [12] => Array
+                (
+                    [value] => 31/12/2021
+                    [note] => 
+                    [idDeadlineType] => 11
+                )
+
+            [13] => Array
+                (
+                    [value] => 31/05/2022
+                    [note] => 
+                    [idDeadlineType] => 7
+                )
+
+            [14] => Array
+                (
+                    [idDeadlineType] => 20
+                )
+
+            [15] => Array
+                (
+                    [value] => 01/05/2022
+                    [note] => 
+                    [idDeadlineType] => 10
+                )
+
+            [16] => Array
+                (
+                    [idDeadlineType] => 22
+                )
+
+        )
+
+    [edit] => 1
+)
+
+72
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:30:26 pm
+insertProject
+Array
+(
+    [idProject] => 205
+    [idPhase] => 4
+    [name] => Velká Dobrá - okružní křižovatka Berounská
+    [subject] => <p>V&yacute;stavba okružn&iacute; křižovatky při sjezdu/n&aacute;jezdu z/na d&aacute;lnice/i D6 směr Karlovy Vary (n&aacute;vaznost na ul. Berounskou<span style="font-family: Calibri, sans-serif; font-size: 11pt;">). Vněj&scaron;&iacute; průměr okružn&iacute; křižovatky bude 33,5 m.</span><span style="font-family: Calibri, sans-serif; font-size: 11pt;">Projektovou dokumentaci si nechala zpracovat obec Velk&aacute; Dobr&aacute;. Slučen&aacute; dokumentace DUSP. Autorsk&yacute; dozor nen&iacute; obc&iacute; zasmluvněn.</span></p>
+    [idProjectType] => 2
+    [idProjectSubtype] => 5
+    [relation] => Array
+        (
+            [0] => Array
+                (
+                    [idRelationType] => 1
+                )
+
+            [1] => Array
+                (
+                    [idRelationType] => 2
+                )
+
+            [2] => Array
+                (
+                    [idRelationType] => 3
+                )
+
+        )
+
+    [editor] => jan.fidler
+    [assignments] => <p>Svolat v&yacute;robn&iacute; v&yacute;bor 01/2021</p>
+    [idArea] => Array
+        (
+            [0] => 7
+        )
+
+    [communication] => Array
+        (
+            [0] => Array
+                (
+                    [idCommunication] => 176
+                    [stationingFrom] => 4.600
+                    [stationingTo] => 4.650
+                    [gpsE1] => 14.077610969543
+                    [gpsN1] => 50.106914520264
+                    [gpsE2] => 14.077498435974
+                    [gpsN2] => 50.107456207275
+                )
+
+        )
+
+    [price] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 1.00
+                    [idPriceType] => 2
+                )
+
+            [1] => Array
+                (
+                    [value] => 20000000.00
+                    [idPriceType] => 6
+                )
+
+            [2] => Array
+                (
+                    [value] => 1.00
+                    [idPriceType] => 1
+                )
+
+            [3] => Array
+                (
+                    [value] => 600000.00
+                    [idPriceType] => 8
+                )
+
+        )
+
+    [company] => Array
+        (
+            [0] => Array
+                (
+                    [idCompany] => 101
+                    [idCompanyType] => 1
+                )
+
+        )
+
+    [contact] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Vít Ondráček
+                    [email] => vit.ondracek@pdprojekce.cz
+                    [phone] => 111222333
+                    [idContactType] => 1
+                    [idCompany] => 101
+                )
+
+            [1] => Array
+                (
+                    [name] => Milan Tesař
+                    [email] => milan.tesar@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 2
+                    [idCompany] => 101
+                )
+
+            [2] => Array
+                (
+                    [name] => Milan Tesař
+                    [email] => milan.tesar@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 3
+                    [idCompany] => 101
+                )
+
+            [3] => Array
+                (
+                    [name] => Milan Tesař
+                    [email] => milan.tesar@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 4
+                    [idCompany] => 101
+                )
+
+        )
+
+    [deadlineDurUrRequired] => 0
+    [deadlineEIARequired] => 0
+    [deadlineStudyRequired] => 0
+    [mergedDeadlines] => 0
+    [deadlineTesRequired] => 0
+    [deadlines] => Array
+        (
+            [0] => Array
+                (
+                    [idDeadlineType] => 1
+                )
+
+            [1] => Array
+                (
+                    [idDeadlineType] => 16
+                )
+
+            [2] => Array
+                (
+                    [idDeadlineType] => 8
+                )
+
+            [3] => Array
+                (
+                    [idDeadlineType] => 2
+                )
+
+            [4] => Array
+                (
+                    [idDeadlineType] => 17
+                )
+
+            [5] => Array
+                (
+                    [idDeadlineType] => 9
+                )
+
+            [6] => Array
+                (
+                    [idDeadlineType] => 18
+                )
+
+            [7] => Array
+                (
+                    [idDeadlineType] => 3
+                )
+
+            [8] => Array
+                (
+                    [value] => 31/01/2022
+                    [note] => 
+                    [idDeadlineType] => 5
+                )
+
+            [9] => Array
+                (
+                    [idDeadlineType] => 4
+                )
+
+            [10] => Array
+                (
+                    [value] => 28/02/2022
+                    [note] => 
+                    [idDeadlineType] => 6
+                )
+
+            [11] => Array
+                (
+                    [idDeadlineType] => 19
+                )
+
+            [12] => Array
+                (
+                    [value] => 31/12/2021
+                    [note] => 
+                    [idDeadlineType] => 11
+                )
+
+            [13] => Array
+                (
+                    [value] => 31/05/2022
+                    [note] => 
+                    [idDeadlineType] => 7
+                )
+
+            [14] => Array
+                (
+                    [idDeadlineType] => 20
+                )
+
+            [15] => Array
+                (
+                    [value] => 01/05/2022
+                    [note] => 
+                    [idDeadlineType] => 10
+                )
+
+            [16] => Array
+                (
+                    [idDeadlineType] => 22
+                )
+
+        )
+
+    [edit] => 1
+)
+
+72
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:30:28 pm
+createContact
+fucntions - updateContanctPhone
+554
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:32:54 pm
+createContact
+fucntions - updateContanctPhone
+554
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:33:46 pm
+createContact
+fucntions - updateContanctPhone
+554
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:36:56 pm
+createContact
+fucntions - updateContanctPhone
+554
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:37:47 pm
+createContact
+fucntions - updateContanctPhone
+554
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:38:54 pm
+createContact
+fucntions - updateContanctPhone
+554
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:39:45 pm
+createContact
+fucntions - updateContanctPhone
+554
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:40:52 pm
+createContact
+fucntions - updateContanctPhone
+553
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:41:43 pm
+createContact
+fucntions - updateContanctPhone
+553
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:42:44 pm
+createContact
+fucntions - updateContanctPhone
+553
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:43:35 pm
+createContact
+fucntions - updateContanctPhone
+553
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:45:32 pm
+createContact
+fucntions - updateContanctPhone
+553
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:46:23 pm
+createContact
+fucntions - updateContanctPhone
+553
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:47:28 pm
+createContact
+fucntions - updateContanctPhone
+553
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:47:59 pm
+insertProject
+Array
+(
+    [idProject] => 205
+    [idPhase] => 4
+    [name] => Velká Dobrá - okružní křižovatka Berounská
+    [subject] => <p>V&yacute;stavba okružn&iacute; křižovatky při sjezdu/n&aacute;jezdu z/na d&aacute;lnice/i D6 směr Karlovy Vary (n&aacute;vaznost na ul. Berounskou<span style="font-family: Calibri, sans-serif; font-size: 11pt;">). Vněj&scaron;&iacute; průměr okružn&iacute; křižovatky bude 33,5 m.</span><span style="font-family: Calibri, sans-serif; font-size: 11pt;">Projektovou dokumentaci si nechala zpracovat obec Velk&aacute; Dobr&aacute;. Slučen&aacute; dokumentace DUSP. Autorsk&yacute; dozor nen&iacute; obc&iacute; zasmluvněn.</span></p>
+    [idProjectType] => 2
+    [idProjectSubtype] => 5
+    [relation] => Array
+        (
+            [0] => Array
+                (
+                    [idRelationType] => 1
+                )
+
+            [1] => Array
+                (
+                    [idRelationType] => 2
+                )
+
+            [2] => Array
+                (
+                    [idRelationType] => 3
+                )
+
+        )
+
+    [editor] => jan.fidler
+    [assignments] => <p>Svolat v&yacute;robn&iacute; v&yacute;bor 01/2021</p>
+    [idArea] => Array
+        (
+            [0] => 7
+        )
+
+    [communication] => Array
+        (
+            [0] => Array
+                (
+                    [idCommunication] => 176
+                    [stationingFrom] => 4.600
+                    [stationingTo] => 4.650
+                    [gpsE1] => 14.077610969543
+                    [gpsN1] => 50.106914520264
+                    [gpsE2] => 14.077498435974
+                    [gpsN2] => 50.107456207275
+                )
+
+        )
+
+    [price] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 1.00
+                    [idPriceType] => 2
+                )
+
+            [1] => Array
+                (
+                    [value] => 20000000.00
+                    [idPriceType] => 6
+                )
+
+            [2] => Array
+                (
+                    [value] => 1.00
+                    [idPriceType] => 1
+                )
+
+            [3] => Array
+                (
+                    [value] => 600000.00
+                    [idPriceType] => 8
+                )
+
+        )
+
+    [company] => Array
+        (
+            [0] => Array
+                (
+                    [idCompany] => 101
+                    [idCompanyType] => 1
+                )
+
+        )
+
+    [contact] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Vít Ondráček
+                    [email] => vit.ondracek@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 1
+                    [idCompany] => 101
+                )
+
+            [1] => Array
+                (
+                    [name] => Milan Tesař
+                    [email] => milan.tesar@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 2
+                    [idCompany] => 101
+                )
+
+            [2] => Array
+                (
+                    [name] => Vít Ondráček
+                    [email] => vit.ondracek@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 3
+                    [idCompany] => 101
+                )
+
+            [3] => Array
+                (
+                    [name] => Vít Ondráček
+                    [email] => vit.ondracek@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 4
+                    [idCompany] => 101
+                )
+
+        )
+
+    [deadlineDurUrRequired] => 0
+    [deadlineEIARequired] => 0
+    [deadlineStudyRequired] => 0
+    [mergedDeadlines] => 0
+    [deadlineTesRequired] => 0
+    [deadlines] => Array
+        (
+            [0] => Array
+                (
+                    [idDeadlineType] => 1
+                )
+
+            [1] => Array
+                (
+                    [idDeadlineType] => 16
+                )
+
+            [2] => Array
+                (
+                    [idDeadlineType] => 8
+                )
+
+            [3] => Array
+                (
+                    [idDeadlineType] => 2
+                )
+
+            [4] => Array
+                (
+                    [idDeadlineType] => 17
+                )
+
+            [5] => Array
+                (
+                    [idDeadlineType] => 9
+                )
+
+            [6] => Array
+                (
+                    [idDeadlineType] => 18
+                )
+
+            [7] => Array
+                (
+                    [idDeadlineType] => 3
+                )
+
+            [8] => Array
+                (
+                    [value] => 31/01/2022
+                    [note] => 
+                    [idDeadlineType] => 5
+                )
+
+            [9] => Array
+                (
+                    [idDeadlineType] => 4
+                )
+
+            [10] => Array
+                (
+                    [value] => 28/02/2022
+                    [note] => 
+                    [idDeadlineType] => 6
+                )
+
+            [11] => Array
+                (
+                    [idDeadlineType] => 19
+                )
+
+            [12] => Array
+                (
+                    [value] => 31/12/2021
+                    [note] => 
+                    [idDeadlineType] => 11
+                )
+
+            [13] => Array
+                (
+                    [value] => 31/05/2022
+                    [note] => 
+                    [idDeadlineType] => 7
+                )
+
+            [14] => Array
+                (
+                    [idDeadlineType] => 20
+                )
+
+            [15] => Array
+                (
+                    [value] => 01/05/2022
+                    [note] => 
+                    [idDeadlineType] => 10
+                )
+
+            [16] => Array
+                (
+                    [idDeadlineType] => 22
+                )
+
+        )
+
+    [edit] => 1
+)
+
+72
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:48:19 pm
+createContact
+fucntions - updateContanctPhone
+553
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:53:18 pm
+createContact
+fucntions - updateContanctPhone
+553
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:54:09 pm
+createContact
+fucntions - updateContanctPhone
+553
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:55:41 pm
+createContact
+fucntions - updateContanctPhone
+553
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 01:56:32 pm
+createContact
+fucntions - updateContanctPhone
+553
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 02:03:23 pm
+createContact
+fucntions - updateContanctPhone
+553
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 02:04:14 pm
+createContact
+fucntions - updateContanctPhone
+553
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 02:05:16 pm
+insertProject
+Array
+(
+    [idProject] => 205
+    [idPhase] => 4
+    [name] => Velká Dobrá - okružní křižovatka Berounská
+    [subject] => Výstavba okružní křižovatky při sjezdu/nájezdu z/na dálnice/i D6 směr Karlovy Vary (návaznost na ul. Berounskou<span style="font-family: Calibri, sans-serif; font-size: 11pt;">). Vnější průměr okružní křižovatky bude 33,5 m.</span><span style="font-family: Calibri, sans-serif; font-size: 11pt;">Projektovou dokumentaci si nechala zpracovat obec Velká Dobrá. Slučená dokumentace DUSP. Autorský dozor není obcí zasmluvněn.</span>
+    [idProjectType] => 2
+    [idProjectSubtype] => 5
+    [relation] => Array
+        (
+            [0] => Array
+                (
+                    [idRelationType] => 1
+                )
+
+            [1] => Array
+                (
+                    [idRelationType] => 2
+                )
+
+            [2] => Array
+                (
+                    [idRelationType] => 3
+                )
+
+        )
+
+    [editor] => jan.fidler
+    [assignments] => Svolat výrobní výbor 01/2021
+    [idArea] => Array
+        (
+            [0] => 7
+        )
+
+    [communication] => Array
+        (
+            [0] => Array
+                (
+                    [idCommunication] => 176
+                    [stationingFrom] => 4.600
+                    [stationingTo] => 4.650
+                    [gpsE1] => 14.077610969543
+                    [gpsN1] => 50.106914520264
+                    [gpsE2] => 14.077498435974
+                    [gpsN2] => 50.107456207275
+                )
+
+        )
+
+    [price] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 1.00
+                    [idPriceType] => 2
+                )
+
+            [1] => Array
+                (
+                    [value] => 20000000.00
+                    [idPriceType] => 6
+                )
+
+            [2] => Array
+                (
+                    [value] => 1.00
+                    [idPriceType] => 1
+                )
+
+            [3] => Array
+                (
+                    [value] => 600000.00
+                    [idPriceType] => 8
+                )
+
+        )
+
+    [company] => Array
+        (
+            [0] => Array
+                (
+                    [idCompany] => 101
+                    [idCompanyType] => 1
+                )
+
+        )
+
+    [contact] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Vít Ondráček
+                    [email] => vit.ondracek@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 1
+                    [idCompany] => 101
+                )
+
+            [1] => Array
+                (
+                    [name] => Milan Tesař
+                    [email] => milan.tesar@pdprojekce.cz
+                    [phone] => 444333222
+                    [idContactType] => 2
+                    [idCompany] => 101
+                )
+
+            [2] => Array
+                (
+                    [name] => Vít Ondráček
+                    [email] => vit.ondracek@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 3
+                    [idCompany] => 101
+                )
+
+            [3] => Array
+                (
+                    [name] => Vít Ondráček
+                    [email] => vit.ondracek@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 4
+                    [idCompany] => 101
+                )
+
+        )
+
+    [deadlineDurUrRequired] => 0
+    [deadlineEIARequired] => 0
+    [deadlineStudyRequired] => 0
+    [mergedDeadlines] => 0
+    [deadlineTesRequired] => 0
+    [deadlines] => Array
+        (
+            [0] => Array
+                (
+                    [idDeadlineType] => 1
+                )
+
+            [1] => Array
+                (
+                    [idDeadlineType] => 16
+                )
+
+            [2] => Array
+                (
+                    [idDeadlineType] => 8
+                )
+
+            [3] => Array
+                (
+                    [idDeadlineType] => 2
+                )
+
+            [4] => Array
+                (
+                    [idDeadlineType] => 17
+                )
+
+            [5] => Array
+                (
+                    [idDeadlineType] => 9
+                )
+
+            [6] => Array
+                (
+                    [idDeadlineType] => 18
+                )
+
+            [7] => Array
+                (
+                    [idDeadlineType] => 3
+                )
+
+            [8] => Array
+                (
+                    [value] => 31/01/2022
+                    [note] => 
+                    [idDeadlineType] => 5
+                )
+
+            [9] => Array
+                (
+                    [idDeadlineType] => 4
+                )
+
+            [10] => Array
+                (
+                    [value] => 28/02/2022
+                    [note] => 
+                    [idDeadlineType] => 6
+                )
+
+            [11] => Array
+                (
+                    [idDeadlineType] => 19
+                )
+
+            [12] => Array
+                (
+                    [value] => 31/12/2021
+                    [note] => 
+                    [idDeadlineType] => 11
+                )
+
+            [13] => Array
+                (
+                    [value] => 31/05/2022
+                    [note] => 
+                    [idDeadlineType] => 7
+                )
+
+            [14] => Array
+                (
+                    [idDeadlineType] => 20
+                )
+
+            [15] => Array
+                (
+                    [value] => 01/05/2022
+                    [note] => 
+                    [idDeadlineType] => 10
+                )
+
+            [16] => Array
+                (
+                    [idDeadlineType] => 22
+                )
+
+        )
+
+    [edit] => 1
+)
+
+548
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+10/29/2021 02:07:07 pm
+insertProject
+Array
+(
+    [idProject] => 205
+    [idPhase] => 4
+    [name] => Velká Dobrá - okružní křižovatka Berounská
+    [subject] => <p>V&yacute;stavba okružn&iacute; křižovatky při sjezdu/n&aacute;jezdu z/na d&aacute;lnice/i D6 směr Karlovy Vary (n&aacute;vaznost na ul. Berounskou<span style="font-family: Calibri, sans-serif; font-size: 11pt;">). Vněj&scaron;&iacute; průměr okružn&iacute; křižovatky bude 33,5 m.</span><span style="font-family: Calibri, sans-serif; font-size: 11pt;">Projektovou dokumentaci si nechala zpracovat obec Velk&aacute; Dobr&aacute;. Slučen&aacute; dokumentace DUSP. Autorsk&yacute; dozor nen&iacute; obc&iacute; zasmluvněn.</span></p>
+    [idProjectType] => 2
+    [idProjectSubtype] => 5
+    [relation] => Array
+        (
+            [0] => Array
+                (
+                    [idRelationType] => 1
+                )
+
+            [1] => Array
+                (
+                    [idRelationType] => 2
+                )
+
+            [2] => Array
+                (
+                    [idRelationType] => 3
+                )
+
+        )
+
+    [editor] => jan.fidler
+    [assignments] => <p>Svolat v&yacute;robn&iacute; v&yacute;bor 01/2021</p>
+    [idArea] => Array
+        (
+            [0] => 7
+        )
+
+    [communication] => Array
+        (
+            [0] => Array
+                (
+                    [idCommunication] => 176
+                    [stationingFrom] => 4.600
+                    [stationingTo] => 4.650
+                    [gpsE1] => 14.077610969543
+                    [gpsN1] => 50.106914520264
+                    [gpsE2] => 14.077498435974
+                    [gpsN2] => 50.107456207275
+                )
+
+        )
+
+    [price] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 1.00
+                    [idPriceType] => 2
+                )
+
+            [1] => Array
+                (
+                    [value] => 20000000.00
+                    [idPriceType] => 6
+                )
+
+            [2] => Array
+                (
+                    [value] => 1.00
+                    [idPriceType] => 1
+                )
+
+            [3] => Array
+                (
+                    [value] => 600000.00
+                    [idPriceType] => 8
+                )
+
+        )
+
+    [company] => Array
+        (
+            [0] => Array
+                (
+                    [idCompany] => 101
+                    [idCompanyType] => 1
+                )
+
+        )
+
+    [contact] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Vít Ondráček
+                    [email] => vit.ondracek@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 1
+                    [idCompany] => 101
+                )
+
+            [1] => Array
+                (
+                    [name] => Milan Tesař
+                    [email] => milan.tesar@pdprojekce.cz
+                    [phone] => 444333222
+                    [idContactType] => 2
+                    [idCompany] => 101
+                )
+
+            [2] => Array
+                (
+                    [name] => Vít Ondráček
+                    [email] => vit.ondracek@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 3
+                    [idCompany] => 101
+                )
+
+            [3] => Array
+                (
+                    [name] => Vít Ondráček
+                    [email] => vit.ondracek@pdprojekce.cz
+                    [phone] => 777666555
+                    [idContactType] => 4
+                    [idCompany] => 101
+                )
+
+        )
+
+    [deadlineDurUrRequired] => 0
+    [deadlineEIARequired] => 0
+    [deadlineStudyRequired] => 0
+    [mergedDeadlines] => 0
+    [deadlineTesRequired] => 0
+    [deadlines] => Array
+        (
+            [0] => Array
+                (
+                    [idDeadlineType] => 1
+                )
+
+            [1] => Array
+                (
+                    [idDeadlineType] => 16
+                )
+
+            [2] => Array
+                (
+                    [idDeadlineType] => 8
+                )
+
+            [3] => Array
+                (
+                    [idDeadlineType] => 2
+                )
+
+            [4] => Array
+                (
+                    [idDeadlineType] => 17
+                )
+
+            [5] => Array
+                (
+                    [idDeadlineType] => 9
+                )
+
+            [6] => Array
+                (
+                    [idDeadlineType] => 18
+                )
+
+            [7] => Array
+                (
+                    [idDeadlineType] => 3
+                )
+
+            [8] => Array
+                (
+                    [value] => 31/01/2022
+                    [note] => 
+                    [idDeadlineType] => 5
+                )
+
+            [9] => Array
+                (
+                    [idDeadlineType] => 4
+                )
+
+            [10] => Array
+                (
+                    [value] => 28/02/2022
+                    [note] => 
+                    [idDeadlineType] => 6
+                )
+
+            [11] => Array
+                (
+                    [idDeadlineType] => 19
+                )
+
+            [12] => Array
+                (
+                    [value] => 31/12/2021
+                    [note] => 
+                    [idDeadlineType] => 11
+                )
+
+            [13] => Array
+                (
+                    [value] => 31/05/2022
+                    [note] => 
+                    [idDeadlineType] => 7
+                )
+
+            [14] => Array
+                (
+                    [idDeadlineType] => 20
+                )
+
+            [15] => Array
+                (
+                    [value] => 01/05/2022
+                    [note] => 
+                    [idDeadlineType] => 10
+                )
+
+            [16] => Array
+                (
+                    [idDeadlineType] => 22
+                )
+
+        )
+
+    [edit] => 1
+)
+
+548
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+12/13/2021 11:04:23 am
+newFileUpload
+Array
+(
+    [file2Upload] => Array
+        (
+            [name] => ZBV  č.6 - 10.zip
+            [type] => 
+            [tmp_name] => 
+            [error] => 3
+            [size] => 0
+        )
+
+)
+
+3704
+There is no active transaction
+02/23/2022 12:17:20 pm
+newFileUpload
+Array
+(
+    [file2Upload] => Array
+        (
+            [name] => II106 KrĹany, obchvat - koncept DĂšR.zip
+            [type] => application/x-zip-compressed
+            [tmp_name] => /var/www/tmp/php5zHb13
+            [error] => 0
+            [size] => 77121729
+        )
+
+)
+
+3759
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC2[ver....' for column `admis_new`.`projects2documents`.`name` at row 1
+02/23/2022 12:18:59 pm
+newFileUpload
+Array
+(
+    [file2Upload] => Array
+        (
+            [name] => II106 KrĹany, obchvat - koncept DĂšR.zip
+            [type] => application/x-zip-compressed
+            [tmp_name] => /var/www/tmp/phpRUwz9E
+            [error] => 0
+            [size] => 77121729
+        )
+
+)
+
+3759
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC2[ver....' for column `admis_new`.`projects2documents`.`name` at row 1

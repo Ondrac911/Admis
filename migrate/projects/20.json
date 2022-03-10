@@ -1,0 +1,104 @@
+{
+    "idProject": 20,
+    "idProjectType": 2,
+    "idProjectSubtype": "5.0",
+    "created": "2019-05-16 11:29:01",
+    "name": "OKRUŽNÍ KŘIŽOVATKA U AREÁLU T-SPORT - MODLETICE A CHODNÍK K ZASTÁVCE BUS",
+    "subject": "Předmětem stavby je vybudování okružní křižovatky na komunikaci II/101 v obci Modletice. Okružní křižovatka je navržena na silnici II/101 v obci Modletice, v místě sjezdu k areálu T-sportu a areálu Aquasped. Vybudováním okružní křižovatky se umožní napojení stávajících pozemků mezi silnici II/101 a Pražským okruhem. V rámci stavby je navržen chodník od stávající zastávky BUS na silnici II/101 k nově navrhované okružní křižovatce.  Navrhovaná okružní křižovatka doplňuje 4-rameno na stávající stykové křižovatce silnice II/101 a sjezdu k areálu T-sportu v obci Modletice. V trase navrhovaného chodníku je zeleň. Podél silnice II/101 jsou stávající zemní příkopy, které jsou v místě okružní křižovatky svedeny stávajícím propustkem do zemního příkopu, který slouží pro odtok dešťových vod do Dobřejovického potoka. V navrženém řešení je povrch OK doplněn o odvodňovací prvky, které jsou odvedeny do zemních příkopů. Stavba je navržena na žádost obce Modletice a odpovídá ÚP obce Modletice",
+    "editor": "jakub.sladek",
+    "author": "jakub.sladek",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        2
+    ],
+    "communication": [
+        {
+            "idCommunication": 1,
+            "stationingFrom": 1.391,
+            "stationingTo": 1.391,
+            "gpsN1": 49.9759014,
+            "gpsN2": 49.9759014,
+            "gpsE1": 14.594127800000003,
+            "gpsE2": 14.594127800000003
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 17710000,
+            "idPriceType": 6
+        },
+        {
+            "value": 885000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2016-04-14",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2016-08-04",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2017-11-30",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2017-02-22",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2017-08-17",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2017-04-06",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2017-04-20",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2017-06-14",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-10-25",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 91,
+            "idContactType": 1
+        },
+        {
+            "idContact": 91,
+            "idContactType": 2
+        },
+        {
+            "idContact": 91,
+            "idContactType": 3
+        },
+        {
+            "idContact": 91,
+            "idContactType": 4
+        }
+    ]
+}

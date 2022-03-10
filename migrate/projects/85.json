@@ -1,0 +1,96 @@
+{
+    "idProject": 85,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-08-07 14:41:08",
+    "name": "III/3353 Hrusice most ev.č. 3353-2",
+    "subject": "Je navržena kompletní demolice, tj. demolice stávající nosné konstrukce mostu vč. stávajících opěr tvořících koryto a nahrazení NK železobetonovou deskovou konstrukcí uloženou na masivních ŽB opěrách plošně založenými. Svým šířkovým uspořádáním bude nová konstrukce odpovídat stávajícímu stavu převáděné komunikace (III/3353) při současné minimalizaci zvětšování trvalých záborů. Světlost mostního otvoru je zachována, koryto potoka je v místě mostu navrženo jako svahované ve sklonu 1:1,5 až 1:1,3. Aby byly minimalizovány výkopové práce a bylo zabráněno zaplavení stavební jámy při zvýšeném průtoku vodoteče, je navrženo pažení štětovnicemi.",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": 1.0,
+    "idPhase": 3,
+    "ginisOrAthena": "a",
+    "noteGinisOrAthena": "VZ - 293/19",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 20.0,
+    "idArea": [
+        1
+    ],
+    "communication": [
+        {
+            "idCommunication": 1659,
+            "stationingFrom": 2.4,
+            "stationingTo": 2.44,
+            "gpsN1": 49.9025419,
+            "gpsN2": 49.9030531,
+            "gpsE1": 14.7443358,
+            "gpsE2": 14.744443099999998
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 248500,
+            "idPriceType": 2
+        },
+        {
+            "value": 5372116,
+            "idPriceType": 6
+        },
+        {
+            "value": 338400,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-08-07",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2016-02-29",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2016-04-30",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-10-10",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-01-10",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-08-26",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 156,
+            "idContactType": 1
+        },
+        {
+            "idContact": 156,
+            "idContactType": 2
+        },
+        {
+            "idContact": 156,
+            "idContactType": 3
+        },
+        {
+            "idContact": 156,
+            "idContactType": 4
+        }
+    ]
+}

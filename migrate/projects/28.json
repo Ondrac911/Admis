@@ -1,0 +1,156 @@
+{
+    "idProject": 28,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-07-04 09:24:01",
+    "name": "II/336 Starý Samechov, mosty ev.č. 336-006 a 336-007",
+    "subject": "Jedná se o kompletní odstranění dvou stávajících mostních objektů (soumostí) vedoucí přes koryto Čenovického a Krasoňovického potoka a následnou výstavbu nových mostních objektů.  Nové mosty samostatné konstrukce budou jednopolové, tvořené přímo pojížděnými rámy. Nosná konstrukce bude monolitická, železobetonová. Příčle rámů budou v podélném směru náběhovaná. Na koncích mostů bude silniční těleso zajištěno rovnoběžnými železobetonovými křídly, svahy tělesa tělesa budou zpevněny kamenem do betonu. Založení obou mostů bude plošné s výměnou nevyhovující základové půdy. Na mostech budou zbudovány nové římsy a osazena nová ocelová zábradelní svodidla s úrovní zadržení H2. Šířkově budou mosty uspořádány se dvěma jízdními pruhy o celkové volné šířce mostu 6,50 m. Zatížitelnost objektů po přestavbě bude vyhovovat minimálním hodnotám uvedených v ČSN 73 6222 pro SPK1 dle ČSN EN 1991-2, tzn. Vn = 32 t, Vr = 80 t, Ve = 180 t. Během stavby bude provedena kompletní uzávěra silnice a provoz veden po objízdné trase po okolních silnicích.",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": 5.0,
+    "idPhase": 2,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "18040162 19040162",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 32.0,
+    "idArea": [
+        1
+    ],
+    "communication": [
+        {
+            "idCommunication": 90,
+            "stationingFrom": 14.9,
+            "stationingTo": 15.1,
+            "gpsN1": 49.784895299999995,
+            "gpsN2": 49.7827894,
+            "gpsE1": 15.0953617,
+            "gpsE2": 15.0958767
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 34800,
+            "idPriceType": 1
+        },
+        {
+            "value": 819800,
+            "idPriceType": 2
+        },
+        {
+            "value": 34800,
+            "idPriceType": 3
+        },
+        {
+            "value": 819800,
+            "idPriceType": 4
+        },
+        {
+            "value": 11912991,
+            "idPriceType": 5
+        },
+        {
+            "value": 11912991,
+            "idPriceType": 6
+        },
+        {
+            "value": 572200,
+            "idPriceType": 7
+        },
+        {
+            "value": 572200,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-05-17",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-04-23",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 105,
+            "idContactType": 1
+        },
+        {
+            "idContact": 104,
+            "idContactType": 2
+        },
+        {
+            "idContact": 105,
+            "idContactType": 3
+        },
+        {
+            "idContact": 105,
+            "idContactType": 4
+        },
+        {
+            "idContact": 168,
+            "idContactType": 5
+        },
+        {
+            "idContact": 168,
+            "idContactType": 6
+        },
+        {
+            "idContact": 169,
+            "idContactType": 9
+        },
+        {
+            "idContact": 170,
+            "idContactType": 10
+        },
+        {
+            "idContact": 171,
+            "idContactType": 11
+        },
+        {
+            "idContact": 168,
+            "idContactType": 12
+        }
+    ]
+}

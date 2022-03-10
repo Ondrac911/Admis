@@ -1,0 +1,120 @@
+{
+    "idProject": 53,
+    "idProjectType": 2,
+    "idProjectSubtype": "5.0",
+    "created": "2019-06-03 14:05:32",
+    "name": "II/268 - okružní křižovatka s větví D10",
+    "subject": "Vybudování okružní křižovatka a odstranění nehodového místa. Bude vybudována nová okružní křižovatka s větví na D10.",
+    "editor": "marek.hanus",
+    "author": "marek.hanus",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        3
+    ],
+    "communication": [
+        {
+            "idCommunication": 63,
+            "stationingFrom": 11.1,
+            "stationingTo": 11.3,
+            "gpsN1": 50.5163886,
+            "gpsN2": 50.5165525,
+            "gpsE1": 14.9835672,
+            "gpsE2": 14.9864428
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 76800,
+            "idPriceType": 1
+        },
+        {
+            "value": 1485000,
+            "idPriceType": 2
+        },
+        {
+            "value": 82644,
+            "idPriceType": 3
+        },
+        {
+            "value": 1602200,
+            "idPriceType": 4
+        },
+        {
+            "value": 20000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 500000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-05-12",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2019-06-02",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2019-09-02",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-09-30",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-05-12",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-06-02",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-06-02",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-09-02",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-09-30",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 136,
+            "idContactType": 1
+        },
+        {
+            "idContact": 136,
+            "idContactType": 2
+        },
+        {
+            "idContact": 136,
+            "idContactType": 3
+        },
+        {
+            "idContact": 136,
+            "idContactType": 4
+        }
+    ]
+}

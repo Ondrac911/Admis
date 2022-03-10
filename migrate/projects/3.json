@@ -1,0 +1,144 @@
+{
+    "idProject": 3,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-05-20 09:25:23",
+    "name": "II/329 Pečky, rekonstrukce",
+    "subject": "Rekonstrukce silnice II/329 je hlavním objektem stavby. Rekonstrukce vychází se stávajícího technického stavu a je navržena v souladu s ČSN 736110 Projektování místních komunikací s přihlédnutím k stávajícímu charakteru městské zástavby a vazbám na okrajové podmínky napojení. Náplní objektu je rekonstrukce silnice v celé šíři průjezdního úseku – cca 11,0 m, úprava systému odvodnění. V trase rekonstruované silnice se nacházejí úrovňové křižovatky s místními komunikacemi a řada sjezdů na přilehlé pozemky nebo účelové komunikace. Celková délka je 1,135 km. Začátek úseku (ZÚ) km 0,000 (cca 14 m od provozního staničení km 7,895, které prochází křižovatkou), konec úseku (KÚ) je v km 1,135 (provozní staničení km 9,025). Návrhová rychlost vn= 50 km/h. ",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": 5.0,
+    "idPhase": 2,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "18040226",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": 1.0,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 72.0,
+    "idArea": [
+        4
+    ],
+    "communication": [
+        {
+            "idCommunication": 81,
+            "stationingFrom": 7.895,
+            "stationingTo": 9.025,
+            "gpsN1": 50.0903467,
+            "gpsN2": 50.0975531,
+            "gpsE1": 15.0287572,
+            "gpsE2": 15.0393894
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 76000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1060000,
+            "idPriceType": 2
+        },
+        {
+            "value": 76000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1060000,
+            "idPriceType": 4
+        },
+        {
+            "value": 37717996,
+            "idPriceType": 5
+        },
+        {
+            "value": 37717996,
+            "idPriceType": 6
+        },
+        {
+            "value": 854200,
+            "idPriceType": 7
+        },
+        {
+            "value": 854200,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-11-18",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-01-18",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-04-18",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-04-13",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2018-08-25",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-05-20",
+            "idDeadlineType": 12
+        },
+        {
+            "value": "1.0",
+            "idDeadlineType": 13
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 24,
+            "idContactType": 1
+        },
+        {
+            "idContact": 23,
+            "idContactType": 2
+        },
+        {
+            "idContact": 25,
+            "idContactType": 3
+        },
+        {
+            "idContact": 24,
+            "idContactType": 4
+        },
+        {
+            "idContact": 107,
+            "idContactType": 5
+        },
+        {
+            "idContact": 108,
+            "idContactType": 6
+        },
+        {
+            "idContact": 41,
+            "idContactType": 9
+        },
+        {
+            "idContact": 109,
+            "idContactType": 10
+        },
+        {
+            "idContact": 43,
+            "idContactType": 11
+        },
+        {
+            "idContact": 107,
+            "idContactType": 12
+        }
+    ]
+}

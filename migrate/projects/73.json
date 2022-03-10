@@ -1,0 +1,58 @@
+{
+    "idProject": 73,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-07-02 09:34:50",
+    "name": "II/608- rekonstrukce silnice",
+    "subject": "Předmětem veřejné zakázky s názvem „II/608 – rekonstrukce silnice“ je zpracování kompletní projektové dokumentace – DÚR, DSP, PDPS případně DUSP, včetně výkonu inženýrské činnosti k zajištění pravomocného stavebního povolení a územního rozhodnutí, za účelem rekonstrukce komunikace II. třídy číslo 608 na území Středočeského kraje. elková délka komunikace II/608 je na území Středočeského kraje 26,600 km. Z předmětu plnění se vyjímá úsek km 20,000 až 22,000, jenž je součástí již připravovaného projektu „II/608 Nové Ouholice – Nová Ves, rekonstrukce“. Dále se z předmětu díla vyjímá úsek Kobylisy – Zdiby, jenž je součástí stavby Tramvajová trať v úseku Kobylisy - Zdiby. V rámci projektové dokumentace bude zhotovitelem provedena koordinace.elková délka komunikace II/608 je na území Středočeského kraje 26,600 km. Z předmětu plnění se vyjímá úsek km 20,000 až 22,000, jenž je součástí již připravovaného projektu „II/608 Nové Ouholice – Nová Ves, rekonstrukce“. Dále se z předmětu díla vyjímá úsek Kobylisy – Zdiby, jenž je součástí stavby Tramvajová trať v úseku Kobylisy - Zdiby. V rámci projektové dokumentace bude zhotovitelem provedena koordinace.",
+    "editor": "marek.hanus",
+    "author": "marek.hanus",
+    "idFinSource": null,
+    "idPhase": 5,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        2
+    ],
+    "communication": [
+        {
+            "idCommunication": 103,
+            "stationingFrom": 1.0,
+            "stationingTo": 26.0,
+            "gpsN1": 50.167086700000006,
+            "gpsN2": 50.3424217,
+            "gpsE1": 14.452747500000001,
+            "gpsE2": 14.276740799999999
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 415200,
+            "idPriceType": 3
+        },
+        {
+            "value": 12015200,
+            "idPriceType": 4
+        },
+        {
+            "value": 250000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 3500000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [],
+    "contacts": []
+}

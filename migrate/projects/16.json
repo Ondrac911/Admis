@@ -1,0 +1,120 @@
+{
+    "idProject": 16,
+    "idProjectType": 2,
+    "idProjectSubtype": "5.0",
+    "created": "2019-05-15 14:08:06",
+    "name": "Okružní křižovatka II/110 a II/112 a silnice II/112",
+    "subject": "1)\tOkružní křižovatka II/110 a II/112 Benešov Stávající křižovatka je vybudována jako styková, přičemž mimo silnic II. třídy je též zaústěna větev místní komunikace. Vzhledem k nevyhovujícímu stavu z hlediska bezpečnosti silniční dopravy je předpoklad vybudování okružní křižovatky.  Minimální návrhové parametry OK – doporučené parametry – intravilánová kompaktní. Průměr okružní křižovatky :  25 - 30 m. Minimální šířka jízdního pruhu:\t3,75 m (pro průjezd vozidla zimní údržby).   2)\tSilnice II/112 od OK – kř. II/112 a III/1121 Z hlediska stavebně technického stavu tento úsek vykazuje řadu závad dle TP 82, zejména deformace, sítové trhliny, vysprávky, ztráta mikrotextury.  V PD navrhnout zpracování recyklovaného materiálu pomocí technologií hydraulicky stmelených materiálů do podkladních konstrukčních vrstev (nikoliv však recyklaci za studena na místě podle TP 209). Vzhledem k četným dopravním nehodám, vzniklým v důsledku střetu vozidel se zvěří navrhnout v PD osazení zařízení odrazující zvěř od vstupu na vozovku.  Celková délka úpravy: 2 180 m Průměrná šíře vozovky: 6,5 m    3)\tMost ev.č. 112-004: Jedná se o kamenný klenbový most s délkou přemostění 7,61 m a volnou šířkou 9,05 m. Mostní opěry jsou masivní, zděné z kvádrového zdiva. Spárování je místy porušené, na opěrách jsou patrné průsaky a uchycené řasy. Nosnou klenbu o jednom poli tvoří klenba z lomového kamene opatřená omítkou. Omítka klenby je odfouklá, odpadlá. Jsou patrné průsaky s výluhy a řasou. Spárování se rozpadá a drolí se. Kameny jsou povrchově narušené. Čelní zdi jsou opatřené omítkou, která odpadá, lokálně jsou vypadlé kameny. Stav spodní stavby klasifikován poslední hlavní mostní prohlídkou stupněm IV, stav nosné konstrukce V, špatný.   Výčet požadovaných oprav: Vzhledem ke špatnému stavu klenby bude vyměněn celý mostní objekt včetně spodní stavby. Nový mostní objekt bude založen na pilotách, nosná konstrukce bude rámová/vrubový kloub. Vzhledem ke špatnému stavu lávky pro pěší na nátokové straně mostu bude nutné projednat s městem Benešov její snesení a nahrazení jednostranným chodníkem na novém mostu. ",
+    "editor": "jakub.sladek",
+    "author": "jakub.sladek",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 13,
+            "stationingFrom": 1.99,
+            "stationingTo": 4.17,
+            "gpsN1": 49.78181970000001,
+            "gpsN2": 49.772896100000004,
+            "gpsE1": 14.701158600000001,
+            "gpsE2": 14.726821900000001
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 210000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1392000,
+            "idPriceType": 2
+        },
+        {
+            "value": 100000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1392000,
+            "idPriceType": 4
+        },
+        {
+            "value": 38119835,
+            "idPriceType": 6
+        },
+        {
+            "value": 2062000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-06-19",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2019-07-03",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2019-10-19",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-11-20",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2020-02-20",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2020-04-20",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2020-12-31",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2020-08-20",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2020-11-20",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 79,
+            "idContactType": 1
+        },
+        {
+            "idContact": 79,
+            "idContactType": 2
+        },
+        {
+            "idContact": 79,
+            "idContactType": 3
+        },
+        {
+            "idContact": 79,
+            "idContactType": 4
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+\nArray
+(
+    [idProject] => 309
+    [idPhase] => 3
+    [name] => III/6031 Senohraby, rekonstrukce mostu ev.č. 6031-4 - NEMAZAT
+    [subject] => Rekonstrukce mostu
+    [idProjectType] => 2
+    [idProjectSubtype] => 7
+    [relation] => Array
+        (
+            [0] => Array
+                (
+                    [idRelationType] => 1
+                )
+
+            [1] => Array
+                (
+                    [idRelationType] => 2
+                )
+
+            [2] => Array
+                (
+                    [idRelationType] => 3
+                )
+
+        )
+
+    [editor] => lukas.pohunek
+    [assignments] => Do doby ukončení zimní přestávky provést protlak plynu GASNET
+    [idArea] => Array
+        (
+            [0] => 1
+        )
+
+    [communication] => Array
+        (
+            [0] => Array
+                (
+                    [idCommunication] => 1777
+                    [stationingFrom] => 1.000
+                    [stationingTo] => 2.000
+                    [gpsE1] => 14.713729858398
+                    [gpsN1] => 49.895210266113
+                    [gpsE2] => 14.714040756226
+                    [gpsN2] => 49.895225524902
+                )
+
+        )
+
+    [price] => Array
+        (
+            [0] => Array
+                (
+                    [value] => 11111111.00
+                    [idPriceType] => 14
+                )
+
+            [1] => Array
+                (
+                    [value] => 9878663.62
+                    [idPriceType] => 11
+                )
+
+            [2] => Array
+                (
+                    [value] => 326400.00
+                    [idPriceType] => 12
+                )
+
+        )
+
+    [deadlines] => Array
+        (
+            [0] => Array
+                (
+                    [idDeadlineType] => 1
+                    [value] => 25/02/2022
+                    [note] => 
+                )
+
+            [1] => Array
+                (
+                    [value] => 25/02/2022
+                    [note] => 
+                    [idDeadlineType] => 13
+                )
+
+            [11] => Array
+                (
+                    [value] => 25/02/2022
+                    [idDeadlineType] => 13
+                )
+
+        )
+
+    [company] => Array
+        (
+            [0] => Array
+                (
+                    [idCompany] => 6
+                    [idCompanyType] => 1
+                )
+
+        )
+
+    [contact] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Ing. Milan Petřík
+                    [email] => Milan.Petrik@mottmac.com
+                    [phone] => 723340921
+                    [idContactType] => 1
+                    [idCompany] => 6
+                )
+
+            [1] => Array
+                (
+                    [name] => Ing. Milan Petřík
+                    [email] => Milan.Petrik@mottmac.com
+                    [phone] => 723340921
+                    [idContactType] => 2
+                    [idCompany] => 6
+                )
+
+            [2] => Array
+                (
+                    [name] => Ing. Milan Petřík
+                    [email] => Milan.Petrik@mottmac.com
+                    [phone] => 723340921
+                    [idContactType] => 3
+                    [idCompany] => 6
+                )
+
+            [3] => Array
+                (
+                    [name] => Ing. Tomáš Hink
+                    [email] => hink@realstavmb.cz
+                    [phone] => 602420409
+                    [idContactType] => 4
+                    [idCompany] => 6
+                )
+
+        )
+
+    [idFinSource] => 1
+    [ginisOrAthena] => a
+    [noteGinisOrAthena] => VZ xy/yx
+    [dateEvidenceToggle] => 1
+    [dateEvidence] => 1
+    [edit] => 1
+)

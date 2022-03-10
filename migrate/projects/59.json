@@ -1,0 +1,50 @@
+{
+    "idProject": 59,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-06-11 09:28:12",
+    "name": "III/0083 a III/0084 Sedlec, rekonstrukce komunikací",
+    "subject": "Rekonstrukce části silnice III/0083 včetně výstavby chodníků, včetně VO, parkovacích ploch, opěrné zídky, autobusového zálivu a odvodnění v průtahu obce Sedlec. Dále pak rekonstrukce celého úseku silnice č. III/0084, rovněž včetně odvodnění.",
+    "editor": "martin.dvorak",
+    "author": "martin.dvorak",
+    "idFinSource": null,
+    "idPhase": 5,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        2
+    ],
+    "communication": [
+        {
+            "idCommunication": 215,
+            "stationingFrom": 0.0,
+            "stationingTo": 2.68,
+            "gpsN1": 50.184754999999996,
+            "gpsN2": 50.1829825,
+            "gpsE1": 14.474672199999999,
+            "gpsE2": 14.440447199999998
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 1896000,
+            "idPriceType": 4
+        },
+        {
+            "value": 23700000,
+            "idPriceType": 6
+        }
+    ],
+    "deadlines": [],
+    "contacts": []
+}

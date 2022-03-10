@@ -1,0 +1,140 @@
+{
+    "idProject": 24,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-08-21 10:08:01",
+    "name": "II/610 Podolanka – Dřevčice, Dřevčice – Brandýs,",
+    "subject": "Rekonstrukce silnice II/610 je hlavním objektem stavby. Rekonstrukce vychází se stávajícího technického stavu a reflektuje ČSN 736101 Projektování silnic a dálnic – říjen 2004. Náplní objektu je rekonstrukce silnice v celé šíři koruny – cca 8,0 – 9,0 m, pročištění podélného systému odvodnění a doplnění zádržného systému.",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": 4.0,
+    "idPhase": 2,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "1804236",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 48.0,
+    "idArea": [
+        2
+    ],
+    "communication": [
+        {
+            "idCommunication": 104,
+            "stationingFrom": 1.0,
+            "stationingTo": 4.4,
+            "gpsN1": 50.1578769,
+            "gpsN2": 50.1736289,
+            "gpsE1": 14.605032500000002,
+            "gpsE2": 14.6464244
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 52000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1562000,
+            "idPriceType": 2
+        },
+        {
+            "value": 52000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1562000,
+            "idPriceType": 4
+        },
+        {
+            "value": 59741690,
+            "idPriceType": 5
+        },
+        {
+            "value": 75020129,
+            "idPriceType": 6
+        },
+        {
+            "value": 660000,
+            "idPriceType": 7
+        },
+        {
+            "value": 660000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-11-01",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2017-11-15",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-04-15",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-02-28",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2018-06-13",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-08-19",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 24,
+            "idContactType": 1
+        },
+        {
+            "idContact": 67,
+            "idContactType": 2
+        },
+        {
+            "idContact": 25,
+            "idContactType": 3
+        },
+        {
+            "idContact": 24,
+            "idContactType": 4
+        },
+        {
+            "idContact": 188,
+            "idContactType": 5
+        },
+        {
+            "idContact": 189,
+            "idContactType": 6
+        },
+        {
+            "idContact": 195,
+            "idContactType": 9
+        },
+        {
+            "idContact": 190,
+            "idContactType": 10
+        },
+        {
+            "idContact": 37,
+            "idContactType": 11
+        },
+        {
+            "idContact": 188,
+            "idContactType": 12
+        }
+    ]
+}

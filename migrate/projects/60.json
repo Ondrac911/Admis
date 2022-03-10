@@ -1,0 +1,132 @@
+{
+    "idProject": 60,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-06-14 11:53:08",
+    "name": "III/10165 Úvaly, průtah (ul. 5. května)",
+    "subject": "Kompletní rekonstrukce silnice III/10165 v Úvalech",
+    "editor": "petr.nadvornik",
+    "author": "petr.nadvornik",
+    "idFinSource": 2.0,
+    "idPhase": 3,
+    "ginisOrAthena": "a",
+    "noteGinisOrAthena": "Stavba VZ-212/18 ; TDS VZ-214/18 ",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 1,
+    "dateEvidence": 1.0,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 68.0,
+    "idArea": [
+        2
+    ],
+    "communication": [
+        {
+            "idCommunication": 380,
+            "stationingFrom": 2.135,
+            "stationingTo": 2.7060000000000004,
+            "gpsN1": 50.0722778,
+            "gpsN2": 50.0739167,
+            "gpsE1": 14.732405300000002,
+            "gpsE2": 14.739614999999999
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 60000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1895000,
+            "idPriceType": 2
+        },
+        {
+            "value": 60000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1895000,
+            "idPriceType": 4
+        },
+        {
+            "value": 38539586,
+            "idPriceType": 5
+        },
+        {
+            "value": 38539587,
+            "idPriceType": 6
+        },
+        {
+            "value": 1808800,
+            "idPriceType": 7
+        },
+        {
+            "value": 1808800,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-06-14",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-06-14",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2017-11-01",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-06-14",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-06-14",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-03-18",
+            "idDeadlineType": 12
+        },
+        {
+            "value": "1.0",
+            "idDeadlineType": 13
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 146,
+            "idContactType": 1
+        },
+        {
+            "idContact": 146,
+            "idContactType": 2
+        },
+        {
+            "idContact": 146,
+            "idContactType": 3
+        },
+        {
+            "idContact": 146,
+            "idContactType": 4
+        },
+        {
+            "idContact": 147,
+            "idContactType": 9
+        },
+        {
+            "idContact": 148,
+            "idContactType": 10
+        },
+        {
+            "idContact": 92,
+            "idContactType": 11
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "idProject": 80,
+    "idProjectType": 4,
+    "idProjectSubtype": "4.0",
+    "created": "2019-07-09 13:39:23",
+    "name": "Sanace skalního masívu nad komunikací II/242 v Roztokách",
+    "subject": "Stavbou je provedení sanace skalního masívu nad komunikací II/242 v Roztokách v místě tzv.“serpentýny“. Jedná se o úsek v ulici Nádražní od rohu ulice Kroupka a schody pro pěší.Stavba je rozdělena na tři stavební objekty. SO 01 je provedení odstranění stávající bariéry, dále provedení přikotvení nestabilního bloku na východním konci a provedení očištění vlastního skalního svahu a odstranění nánosu ve svrchní části SO 1. Stavebním objektem SO 02 je oprava stávajících opěrných zdí ned komunikcí, odstranění dřevin, které negativně ovlivňují stabilitní poměry úseku a očista skalního masivu. SO 03 je odstranění dřevin, které negativně ovlivňují stabilitní poměry skalního masivu a dále očista vlastního skalního masivu.",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": 3.0,
+    "idPhase": 2,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "18040255   19040008",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": 1.0,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 6.0,
+    "idArea": [
+        7
+    ],
+    "communication": [
+        {
+            "idCommunication": 54,
+            "stationingFrom": 0.1,
+            "stationingTo": 0.4,
+            "gpsN1": 50.1608461,
+            "gpsN2": 50.1608186,
+            "gpsE1": 14.3967644,
+            "gpsE2": 14.3954125
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 11160,
+            "idPriceType": 1
+        },
+        {
+            "value": 11160,
+            "idPriceType": 3
+        },
+        {
+            "value": 1875521,
+            "idPriceType": 5
+        },
+        {
+            "value": 1875521,
+            "idPriceType": 6
+        },
+        {
+            "value": 122000,
+            "idPriceType": 7
+        },
+        {
+            "value": 122000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2019-07-09",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-07-09",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-05-01",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-07-09",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-07-09",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-05-13",
+            "idDeadlineType": 12
+        },
+        {
+            "value": "1.0",
+            "idDeadlineType": 13
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 177,
+            "idContactType": 1
+        },
+        {
+            "idContact": 177,
+            "idContactType": 2
+        },
+        {
+            "idContact": 177,
+            "idContactType": 3
+        },
+        {
+            "idContact": 177,
+            "idContactType": 4
+        },
+        {
+            "idContact": 178,
+            "idContactType": 5
+        },
+        {
+            "idContact": 178,
+            "idContactType": 6
+        },
+        {
+            "idContact": 119,
+            "idContactType": 9
+        },
+        {
+            "idContact": 166,
+            "idContactType": 10
+        },
+        {
+            "idContact": 68,
+            "idContactType": 11
+        },
+        {
+            "idContact": 178,
+            "idContactType": 12
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "idProject": 66,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-06-21 12:40:36",
+    "name": "II/105 Kamenný Přívoz most ev. č. 105-009 přes řeku Sázavu v obci Kamenný Přívoz",
+    "subject": "Rekonstrukce ocelového mostu č. 105-009 přes řeku Sázavu",
+    "editor": "petr.nadvornik",
+    "author": "petr.nadvornik",
+    "idFinSource": null,
+    "idPhase": 5,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        11
+    ],
+    "communication": [
+        {
+            "idCommunication": 5,
+            "stationingFrom": 13.799000000000001,
+            "stationingTo": 13.8,
+            "gpsN1": 49.8608753,
+            "gpsN2": 49.8616881,
+            "gpsE1": 14.503830599999999,
+            "gpsE2": 14.5049089
+        }
+    ],
+    "assignments": "Byla vyhlášena VZ na PD, následně zrušena, nedostatek financí z RS",
+    "price": [
+        {
+            "value": 150000,
+            "idPriceType": 3
+        },
+        {
+            "value": 3600000,
+            "idPriceType": 4
+        },
+        {
+            "value": 100000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 1260000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [],
+    "contacts": []
+}

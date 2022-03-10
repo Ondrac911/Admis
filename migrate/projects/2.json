@@ -1,0 +1,140 @@
+{
+    "idProject": 2,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-07-04 10:27:58",
+    "name": "II/105 Netvořice, rekonstrukce",
+    "subject": "Předmětem stavby je rekonstrukce silnice 2. třídy č. II/105 v úseku mezi provozním staničením km 18,74 a km 21,35, tj. mezi křižovatkou s III/1056 vedoucí do Maskovic a křižovatkou s III/10511 vedoucí do Tuchyně. Stavba je plánována jako trvalá dopravní stavba. Silnice je v celém úseku vedena extravilánem. Celková délka rekonstruovaného úseku je 2,61 km. Stavba leží ve Středočeském kraji na katastrálních území Maskovice [704113], Netvořice [704121], Všetice [704148].",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": 4.0,
+    "idPhase": 2,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "18040201  19040115",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 22.0,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 5,
+            "stationingFrom": 18.74,
+            "stationingTo": 21.35,
+            "gpsN1": 49.799855799999996,
+            "gpsN2": 49.8210139,
+            "gpsE1": 14.5137731,
+            "gpsE2": 14.508880599999998
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 60000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1345000,
+            "idPriceType": 2
+        },
+        {
+            "value": 60000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1345000,
+            "idPriceType": 4
+        },
+        {
+            "value": 41875504,
+            "idPriceType": 5
+        },
+        {
+            "value": 38960975,
+            "idPriceType": 6
+        },
+        {
+            "value": 789600,
+            "idPriceType": 7
+        },
+        {
+            "value": 789600,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-11-01",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-05-18",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-05-18",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-03-14",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2018-05-23",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-07-02",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 27,
+            "idContactType": 1
+        },
+        {
+            "idContact": 26,
+            "idContactType": 2
+        },
+        {
+            "idContact": 26,
+            "idContactType": 3
+        },
+        {
+            "idContact": 26,
+            "idContactType": 4
+        },
+        {
+            "idContact": 173,
+            "idContactType": 5
+        },
+        {
+            "idContact": 173,
+            "idContactType": 6
+        },
+        {
+            "idContact": 143,
+            "idContactType": 9
+        },
+        {
+            "idContact": 144,
+            "idContactType": 10
+        },
+        {
+            "idContact": 145,
+            "idContactType": 11
+        },
+        {
+            "idContact": 174,
+            "idContactType": 12
+        }
+    ]
+}

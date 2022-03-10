@@ -1,0 +1,124 @@
+{
+    "idProject": 22,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-07-10 07:46:13",
+    "name": "II/106 Hranice okresu Benešov – Chrást nad Sázavou, rekonstrukce",
+    "subject": "Jedná se o rekonstrukci silnice II/106 v celkové délce 4.989 m. Únosnost vozovky ve stanoveném úseku je nevyrovnaná a moduly pružnosti asfaltových vrstev a nestmelených podkladních vrstev jsou lokálně nízké. Povrch vozovky je deformovaný, vykazuje trhliny, plošné deformace podél okrajů vozovky, olamování okrajů vozovky a celoplošné kaverny. Dále se vyskytují mozaikové a nepravidelné trhliny, příčné i podélné trhliny, vysprávky, hloubková koroze, nepravidelné hrboly. Lze konstatovat, že tyto poruchy souvisí s vyčerpáním životnosti konstrukce.",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": 5.0,
+    "idPhase": 3,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "18040078",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 24.0,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 7,
+            "stationingFrom": 13.9,
+            "stationingTo": 18.8,
+            "gpsN1": 49.8603842,
+            "gpsN2": 49.8392708,
+            "gpsE1": 14.528943599999998,
+            "gpsE2": 14.5778456
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 32000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1662000,
+            "idPriceType": 2
+        },
+        {
+            "value": 32000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1662000,
+            "idPriceType": 4
+        },
+        {
+            "value": 109922562,
+            "idPriceType": 6
+        },
+        {
+            "value": 1801705,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-02-28",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2018-03-15",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2018-06-29",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2018-12-04",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2018-02-28",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-03-15",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-08-25",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-06-29",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2018-12-04",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2020-03-02",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 96,
+            "idContactType": 1
+        },
+        {
+            "idContact": 94,
+            "idContactType": 2
+        },
+        {
+            "idContact": 95,
+            "idContactType": 3
+        },
+        {
+            "idContact": 94,
+            "idContactType": 4
+        }
+    ]
+}

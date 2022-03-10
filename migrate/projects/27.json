@@ -1,0 +1,120 @@
+{
+    "idProject": 27,
+    "idProjectType": 2,
+    "idProjectSubtype": "6.0",
+    "created": "2019-05-17 10:23:54",
+    "name": "III/1024 Řitka, rekonstrukce silnice a řešení křižovatek",
+    "subject": "Předmětem projektu je přestavba dvou stykových křižovatek na jednopruhové okružní křižovatky na silnici III/1024 v prostoru mimoúrovňové křižovatky s dálnicí D4. Jedná se o křižovatku silnice III/1024 a III/11510 severně od dálnice a křižovatku III/1024 s výjezdem z dálnice D4 ve směru od Strakonic jižně od dálnice. Navrhované okružní křižovatky jsou navrženy na ploše stávajících komunikací, zábor komunikací nebude oproti stavu rozšiřován. ",
+    "editor": "jan.fidler",
+    "author": "jan.fidler",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        11
+    ],
+    "communication": [
+        {
+            "idCommunication": 394,
+            "stationingFrom": 0.0,
+            "stationingTo": 0.5,
+            "gpsN1": 49.886772799999996,
+            "gpsN2": 49.8927447,
+            "gpsE1": 14.3003925,
+            "gpsE2": 14.2967875
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 95000,
+            "idPriceType": 1
+        },
+        {
+            "value": 938500,
+            "idPriceType": 2
+        },
+        {
+            "value": 95000,
+            "idPriceType": 3
+        },
+        {
+            "value": 938500,
+            "idPriceType": 4
+        },
+        {
+            "value": 30000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 9000000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-12-31",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2019-01-31",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2019-03-31",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-05-01",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-07-01",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-07-31",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2020-02-29",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-08-31",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-12-31",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 103,
+            "idContactType": 1
+        },
+        {
+            "idContact": 103,
+            "idContactType": 2
+        },
+        {
+            "idContact": 103,
+            "idContactType": 3
+        },
+        {
+            "idContact": 103,
+            "idContactType": 4
+        }
+    ]
+}

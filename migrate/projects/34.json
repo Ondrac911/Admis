@@ -1,0 +1,62 @@
+{
+    "idProject": 34,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-05-20 14:19:41",
+    "name": "II/105 Psáry, průtah ",
+    "subject": "Předmětem této stavby je realizace rekonstrukce   silnice II/105 v průtahu obcí Psáry.  Stavba je situována v intravilánu obce Psáry. Komunikace II/105 prochází ulicí Psárská. Stavba navazuje na konec v minulosti provedené úpravy silnice II/105. Začátek úpravy je před obecním úřadem za křižovatkou s ulicí „K Junčáku“, v křižovatce s ulicí „Slepá“. Konec úpravy je v křižovatce (včetně) se silnicí III/1051 (ul. Kutná). Délka úseku je 1,0 km. Silnice je v celém úseku po levé straně ohraničena chodníkem, který byl postaven v roce 2005. Po pravé straně až k mostu jsou pozůstatky chodníku, realizovaného v různém časovém období. Šířka silnice mezi zvýšenými obrubami je od 6,0 do 7,0 m. Silnice je vedena přes most ev.č. 105-001 a most ev.č. 105-002. Na most ev.č. 105-002 je vypracována projektová dokumentace opravy. Na konci úseku je nepřehledná stykovaná křižovatka se středovým ostrůvkem.  V prostoru tělesa komunikace je veden vodovod, splašková kanalizace DN 300 a STL plynovodu. V levém chodníku je vedena dešťová kanalizace DN 500 postavená v letech 1950-1960. ",
+    "editor": "jakub.sladek",
+    "author": "jakub.sladek",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        11
+    ],
+    "communication": [
+        {
+            "idCommunication": 5,
+            "stationingFrom": 2.24,
+            "stationingTo": 3.29,
+            "gpsN1": 49.94197,
+            "gpsN2": 49.9363906,
+            "gpsE1": 14.515670000000002,
+            "gpsE2": 14.513069199999999
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 2450250,
+            "idPriceType": 2
+        },
+        {
+            "value": 95000,
+            "idPriceType": 3
+        },
+        {
+            "value": 2500000,
+            "idPriceType": 4
+        },
+        {
+            "value": 60000000,
+            "idPriceType": 6
+        },
+        {
+            "value": 1200000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [],
+    "contacts": []
+}

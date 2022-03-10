@@ -1,0 +1,120 @@
+{
+    "idProject": 82,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-07-30 10:36:02",
+    "name": "II/327 Záboří nad Labem",
+    "subject": "Jedná se o rekonstrukci stávající komunikace v průtahu obce Záboří nad Labem včetně rekonstrukce mostu ev.č. 237-003, opravy mostu ev.č.327-004 a opravy propustků. Komunikace se nachází převážně v zastavěné části obce, oba mosty na jejím začátku, resp konci.",
+    "editor": "jan.zakostelsky",
+    "author": "jan.zakostelsky",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        4
+    ],
+    "communication": [
+        {
+            "idCommunication": 77,
+            "stationingFrom": 6.164,
+            "stationingTo": 8.019,
+            "gpsN1": 50.033342499999996,
+            "gpsN2": 50.019226399999994,
+            "gpsE1": 15.3518669,
+            "gpsE2": 15.3488414
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 153750,
+            "idPriceType": 1
+        },
+        {
+            "value": 2030000,
+            "idPriceType": 2
+        },
+        {
+            "value": 153750,
+            "idPriceType": 3
+        },
+        {
+            "value": 2030000,
+            "idPriceType": 4
+        },
+        {
+            "value": 38930000,
+            "idPriceType": 6
+        },
+        {
+            "value": 400000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-01-16",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2018-02-01",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2019-07-30",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2019-07-30",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2019-10-10",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2019-11-10",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2020-01-09",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2019-11-23",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-07-30",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 181,
+            "idContactType": 1
+        },
+        {
+            "idContact": 31,
+            "idContactType": 2
+        },
+        {
+            "idContact": 181,
+            "idContactType": 3
+        },
+        {
+            "idContact": 181,
+            "idContactType": 4
+        }
+    ]
+}

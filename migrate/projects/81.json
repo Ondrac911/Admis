@@ -1,0 +1,108 @@
+{
+    "idProject": 81,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-07-10 14:51:42",
+    "name": "Silnice II/101 Zákolany, sanace svahu a silnice po havárii",
+    "subject": "Předmětem je zajištění zemního tělesa komunikace II/101 po havárii nad pozemky parc.č. 466/3 a 462/1, k.ú. Trněný Újezd o celkové délce 77,6 m. Železobetonová úhlová zeď nahradí havarované konstrukce stávající a zajistí historicky rozšiřované zemní těleso komunikace. Římsa bude provedena formou rozšířené zvýšené obruby nad komunikací.",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": 2.0,
+    "idPhase": 3,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "18040206   19040009",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 20.0,
+    "idArea": [
+        7
+    ],
+    "communication": [
+        {
+            "idCommunication": 1,
+            "stationingFrom": 63.0,
+            "stationingTo": 63.05,
+            "gpsN1": 50.197775799999995,
+            "gpsN2": 50.1985861,
+            "gpsE1": 14.247075599999999,
+            "gpsE2": 14.2473761
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 15000,
+            "idPriceType": 1
+        },
+        {
+            "value": 443500,
+            "idPriceType": 2
+        },
+        {
+            "value": 15000,
+            "idPriceType": 3
+        },
+        {
+            "value": 443500,
+            "idPriceType": 4
+        },
+        {
+            "value": 4954632,
+            "idPriceType": 6
+        },
+        {
+            "value": 220800,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2015-01-30",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2014-03-28",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2015-05-01",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2016-01-06",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2018-06-16",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-08-01",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 179,
+            "idContactType": 1
+        },
+        {
+            "idContact": 179,
+            "idContactType": 2
+        },
+        {
+            "idContact": 179,
+            "idContactType": 3
+        },
+        {
+            "idContact": 179,
+            "idContactType": 4
+        }
+    ]
+}

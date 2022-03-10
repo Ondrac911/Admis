@@ -1,0 +1,108 @@
+{
+    "idProject": 75,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-08-23 10:22:05",
+    "name": "II/113 Mukařov - Struhařov",
+    "subject": "Jedná se o rekonstrukci vozovky silnice II/113 v Mukařov – Struhařov, provozní staničení km 15,224 – 19,900. Součástí je pročištění systému odvodní (propustky, příkopy) a nezpevněných krajnic od nánosů a obnova vodorovného a svislého dopravního značení. Součástí akce je i oprava poškozených propustků (2 ks). Součástí akce není oprava mostních objektů a jiných objektů v trase. Stávající šířkové uspořádání komunikace se nemění. Délka řešeného úseku je 4 676 m.",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": 4.0,
+    "idPhase": 3,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "18040271",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 12.0,
+    "idArea": [
+        1
+    ],
+    "communication": [
+        {
+            "idCommunication": 14,
+            "stationingFrom": 15.224,
+            "stationingTo": 19.9,
+            "gpsN1": 49.9893956,
+            "gpsN2": 49.9569922,
+            "gpsE1": 14.7422544,
+            "gpsE2": 14.7501508
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 24000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1712000,
+            "idPriceType": 2
+        },
+        {
+            "value": 24000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1712000,
+            "idPriceType": 4
+        },
+        {
+            "value": 41528718,
+            "idPriceType": 6
+        },
+        {
+            "value": 820500,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-04-30",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-04-30",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2018-08-31",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-07-04",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-01-19",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-09-01",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 96,
+            "idContactType": 1
+        },
+        {
+            "idContact": 163,
+            "idContactType": 2
+        },
+        {
+            "idContact": 96,
+            "idContactType": 3
+        },
+        {
+            "idContact": 96,
+            "idContactType": 4
+        }
+    ]
+}

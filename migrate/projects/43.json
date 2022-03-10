@@ -1,0 +1,120 @@
+{
+    "idProject": 43,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-05-29 09:05:33",
+    "name": "III/3308 Velenka – Semice, rekonstrukce silnice",
+    "subject": "Jedná se o rekonstrukci stávající silnice III/3308 mezi obcemi Velenka a Semice. Na této komunikaci dochází k nárůstu intenzity dopravy a k jejímu většímu využívání vozidly zemědělské techniky. Z důvodu nedostatečné šířky komunikace dochází k najíždění na nezpevněnou krajnici a v krajních případech řidiči využívají i přilehlou stranu silničního příkopu. Přestavbou vznikne komunikace s konstantní šířkou zpevněné vozovky 5,5 m v obcích Velenka a Semice a šířkou 6,0 m v nezastavěném území.",
+    "editor": "jan.fidler",
+    "author": "jan.fidler",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": null,
+    "noteGinisOrAthena": null,
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": null,
+    "idArea": [
+        9
+    ],
+    "communication": [
+        {
+            "idCommunication": 1560,
+            "stationingFrom": 0.0,
+            "stationingTo": 2.987,
+            "gpsN1": 50.1392961,
+            "gpsN2": 50.1623953,
+            "gpsE1": 14.8947689,
+            "gpsE2": 14.880177800000002
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 43000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1538500,
+            "idPriceType": 2
+        },
+        {
+            "value": 43000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1255000,
+            "idPriceType": 4
+        },
+        {
+            "value": 31453272,
+            "idPriceType": 6
+        },
+        {
+            "value": 700000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-02-28",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2018-03-31",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2018-06-30",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2018-10-19",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2018-11-01",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-11-30",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-05-24",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-10-31",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-02-13",
+            "idDeadlineType": 11
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 116,
+            "idContactType": 1
+        },
+        {
+            "idContact": 115,
+            "idContactType": 2
+        },
+        {
+            "idContact": 116,
+            "idContactType": 3
+        },
+        {
+            "idContact": 115,
+            "idContactType": 4
+        }
+    ]
+}

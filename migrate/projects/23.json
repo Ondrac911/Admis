@@ -1,0 +1,124 @@
+{
+    "idProject": 23,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-07-02 14:23:13",
+    "name": "III/24420 Nedomice, rekonstrukce",
+    "subject": "Jedná se o rekonstrikcu silnice III/24420 Nedomice, v úseku navazující na již rekonstruovaný úsek ve Všetatech až po křižovatku s II/331. Intravilánové úseky- frézování asfaltu, lokální opravy a položení nového živičného kratu ve stávající niveletě. V extr. úsecích zesílení konstrukce a v podelných pásech při okraji vozovky doplnění konstrukčních vrstev.",
+    "editor": "jakub.sladek",
+    "author": "jakub.sladek",
+    "idFinSource": 2.0,
+    "idPhase": 3,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "1",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 12.0,
+    "idArea": [
+        12
+    ],
+    "communication": [
+        {
+            "idCommunication": 1201,
+            "stationingFrom": 0.0,
+            "stationingTo": 3.719,
+            "gpsN1": 50.282012200000004,
+            "gpsN2": 50.2531336,
+            "gpsE1": 14.592291099999999,
+            "gpsE2": 14.613954699999999
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 150000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1300000,
+            "idPriceType": 2
+        },
+        {
+            "value": 100000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1300000,
+            "idPriceType": 4
+        },
+        {
+            "value": 27971029,
+            "idPriceType": 6
+        },
+        {
+            "value": 410000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2018-09-19",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2017-12-13",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2017-05-10",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2016-09-16",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2017-04-05",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2016-08-17",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2017-01-19",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2017-02-15",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-12-31",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-07-15",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 97,
+            "idContactType": 1
+        },
+        {
+            "idContact": 97,
+            "idContactType": 2
+        },
+        {
+            "idContact": 97,
+            "idContactType": 3
+        },
+        {
+            "idContact": 97,
+            "idContactType": 4
+        }
+    ]
+}

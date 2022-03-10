@@ -1,0 +1,124 @@
+{
+    "idProject": 84,
+    "idProjectType": 2,
+    "idProjectSubtype": "3.0",
+    "created": "2019-08-07 09:22:27",
+    "name": "Statické zajištění silnice III/6031 v obci Senohraby",
+    "subject": "Je statické zajištění násypu silničního tělesa silnice III/6031 po odstranění poškozeného stromoví. Při prohlídce místa stavby bylo zjištěno, že stromoví a jeho kořenový systém drží násyp silničního tělesa. Silniční násyp vykazuje známky pohybu vlivem dopravního zatížení na silnici III/6031. Rovněž vozovka silnice vykazuje deformace vlivem ztráty stability svahu. Po odstranění stromoví hrozí reálné nebezpečí ztráty stability násypu a jeho sesutí na sousední soukromý pozemek. Z tohoto důvodu je nezbytné statické zajištění stávajícího násypu a vymezení dopravního koridoru tak, aby nedocházelo k najíždění těžkých nákladních vozidel na krajnici, kde hrozí nebezpečí sesutí. V PD nenavrženo zajištění pomocí systému mikropilot se ztužujícím trámcem na jejich zhlaví. Statickým prvkem zajišťujícím násyp bude opěrná zeď provedená z mikropilot. Železobetonový ztužující práh na zhlaví pilot spojí piloty v jeden spolupůsobící celek.",
+    "editor": "martin.stanek",
+    "author": "martin.stanek",
+    "idFinSource": 1.0,
+    "idPhase": 2,
+    "ginisOrAthena": "a",
+    "noteGinisOrAthena": "VZ-746/18 ",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 8.0,
+    "idArea": [
+        1
+    ],
+    "communication": [
+        {
+            "idCommunication": 1777,
+            "stationingFrom": 7.5,
+            "stationingTo": 7.56,
+            "gpsN1": 49.8958314,
+            "gpsN2": 49.8964222,
+            "gpsE1": 14.728725299999999,
+            "gpsE2": 14.7289775
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 2508950,
+            "idPriceType": 5
+        },
+        {
+            "value": 2508950,
+            "idPriceType": 6
+        },
+        {
+            "value": 186000,
+            "idPriceType": 7
+        },
+        {
+            "value": 186000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2015-02-28",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2015-09-30",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2016-10-27",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2017-11-13",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-12-22",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-05-13",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 191,
+            "idContactType": 1
+        },
+        {
+            "idContact": 191,
+            "idContactType": 2
+        },
+        {
+            "idContact": 191,
+            "idContactType": 3
+        },
+        {
+            "idContact": 191,
+            "idContactType": 4
+        },
+        {
+            "idContact": 192,
+            "idContactType": 5
+        },
+        {
+            "idContact": 192,
+            "idContactType": 6
+        },
+        {
+            "idContact": 193,
+            "idContactType": 9
+        },
+        {
+            "idContact": 193,
+            "idContactType": 10
+        },
+        {
+            "idContact": 90,
+            "idContactType": 11
+        },
+        {
+            "idContact": 192,
+            "idContactType": 12
+        }
+    ]
+}

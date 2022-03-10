@@ -1,0 +1,6 @@
+CREATE VIEW viewProjectsWithJoinsActive as
+SELECT projects.*,project2communication.idCommunication,project2communication.stationingFrom, project2communication.stationingTo, project2communication.gpsN1, project2communication.gpsN2,project2communication.gpsE1, project2communication.gpsE2 FROM `projects`
+LEFT JOIN project2area USING(idProject)
+LEFT JOIN project2communication USING(idProject)
+LEFT JOIN project2contact USING(idProject)
+WHERE deletedDate is NULL

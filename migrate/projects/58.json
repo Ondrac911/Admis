@@ -1,0 +1,148 @@
+{
+    "idProject": 58,
+    "idProjectType": 2,
+    "idProjectSubtype": "5.0",
+    "created": "2019-06-11 09:59:44",
+    "name": "II/112 Vlašim, křižovatka",
+    "subject": "rekonstrukce stávající stykové křižovatky, a úprava na  okružní křižovatku",
+    "editor": "marek.hanus",
+    "author": "ales.cermak",
+    "idFinSource": 5.0,
+    "idPhase": 1,
+    "ginisOrAthena": "g",
+    "noteGinisOrAthena": "19040019",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 0,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 32.0,
+    "idArea": [
+        8
+    ],
+    "communication": [
+        {
+            "idCommunication": 13,
+            "stationingFrom": 19.9,
+            "stationingTo": 19.9,
+            "gpsN1": 49.7093303,
+            "gpsN2": 49.7090528,
+            "gpsE1": 14.9004617,
+            "gpsE2": 14.900483300000001
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 91840,
+            "idPriceType": 1
+        },
+        {
+            "value": 100000,
+            "idPriceType": 3
+        },
+        {
+            "value": 20265740,
+            "idPriceType": 5
+        },
+        {
+            "value": 27376996,
+            "idPriceType": 6
+        },
+        {
+            "value": 423200,
+            "idPriceType": 7
+        },
+        {
+            "value": 499032,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-12-01",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2017-12-01",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2017-12-01",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2017-12-01",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2017-12-01",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2017-12-01",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2017-12-01",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2017-12-01",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2017-12-01",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-06-11",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 134,
+            "idContactType": 1
+        },
+        {
+            "idContact": 134,
+            "idContactType": 2
+        },
+        {
+            "idContact": 134,
+            "idContactType": 3
+        },
+        {
+            "idContact": 134,
+            "idContactType": 4
+        },
+        {
+            "idContact": 140,
+            "idContactType": 5
+        },
+        {
+            "idContact": 141,
+            "idContactType": 6
+        },
+        {
+            "idContact": 143,
+            "idContactType": 9
+        },
+        {
+            "idContact": 144,
+            "idContactType": 10
+        },
+        {
+            "idContact": 145,
+            "idContactType": 11
+        },
+        {
+            "idContact": 142,
+            "idContactType": 12
+        }
+    ]
+}

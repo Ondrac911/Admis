@@ -1,0 +1,124 @@
+{
+    "idProject": 45,
+    "idProjectType": 2,
+    "idProjectSubtype": "7.0",
+    "created": "2019-05-29 10:59:38",
+    "name": "IIII/2761 Malá Bělá rekonstrukce mostu ev.č. 2761-2",
+    "subject": "Stavba je zapříčiněná nevyhovujícím stavem současného mostního objektu č.2761-2 přes vodoteč Bělá, který bude plně nahrazen novým mostním objektem. Rekonstrukcí mostu bude zasažena silnice III/2761 zpřístupňující tento most a budou vyvolány přeložky inženýrských sítí, procházející nad terénem v souběhu s mostem. Stávající silnice bude nahrazena komunikací kategorie MS 7,5/50 dle platné normy ČSN 736110. Umístění stavby plně ctí stávající polohu mostu a silnice pouze dojde k rozšíření vozovky a uliční prostor bude doplněn o komunikace pro pěší. Tato projektová dokumentace navazuje na další akci, která řeší rekonstrukci mostu 2761-1 nacházející se cca 19,5m před tímto mostem (vztaženo ke směru staničení). Dělícím místem bude hrana zděného oplocení objektu č.p.68, kde pomyslnou kolmicí na osu komunikace bude stavba rozdělena na dvě akce. Obě stavby jsou vzájemně koordinovány. ",
+    "editor": "jan.fidler",
+    "author": "jan.fidler",
+    "idFinSource": null,
+    "idPhase": 4,
+    "ginisOrAthena": "a",
+    "noteGinisOrAthena": "VZ-381/19",
+    "deletedDate": null,
+    "deleteAuthor": null,
+    "inConcept": 1,
+    "dateEvidence": null,
+    "deadlineDurUrRequired": null,
+    "deadlineEIARequired": null,
+    "deadlineStudyRequired": null,
+    "mergedDeadlines": null,
+    "constructionTime": 16.0,
+    "idArea": [
+        3
+    ],
+    "communication": [
+        {
+            "idCommunication": 1391,
+            "stationingFrom": 0.015,
+            "stationingTo": 0.064,
+            "gpsN1": 50.487314399999995,
+            "gpsN2": 50.487601399999996,
+            "gpsE1": 14.924891399999998,
+            "gpsE2": 14.9252078
+        }
+    ],
+    "assignments": null,
+    "price": [
+        {
+            "value": 20000,
+            "idPriceType": 1
+        },
+        {
+            "value": 1214700,
+            "idPriceType": 2
+        },
+        {
+            "value": 20000,
+            "idPriceType": 3
+        },
+        {
+            "value": 1214700,
+            "idPriceType": 4
+        },
+        {
+            "value": 14363818,
+            "idPriceType": 6
+        },
+        {
+            "value": 360000,
+            "idPriceType": 8
+        }
+    ],
+    "deadlines": [
+        {
+            "value": "2017-08-31",
+            "idDeadlineType": 1
+        },
+        {
+            "value": "2017-06-30",
+            "idDeadlineType": 2
+        },
+        {
+            "value": "2017-09-30",
+            "idDeadlineType": 3
+        },
+        {
+            "value": "2017-12-31",
+            "idDeadlineType": 4
+        },
+        {
+            "value": "2018-06-30",
+            "idDeadlineType": 5
+        },
+        {
+            "value": "2018-08-31",
+            "idDeadlineType": 6
+        },
+        {
+            "value": "2019-05-03",
+            "idDeadlineType": 7
+        },
+        {
+            "value": "2018-10-31",
+            "idDeadlineType": 10
+        },
+        {
+            "value": "2019-01-28",
+            "idDeadlineType": 11
+        },
+        {
+            "value": "2019-10-31",
+            "idDeadlineType": 12
+        }
+    ],
+    "contacts": [
+        {
+            "idContact": 47,
+            "idContactType": 1
+        },
+        {
+            "idContact": 47,
+            "idContactType": 2
+        },
+        {
+            "idContact": 47,
+            "idContactType": 3
+        },
+        {
+            "idContact": 47,
+            "idContactType": 4
+        }
+    ]
+}
